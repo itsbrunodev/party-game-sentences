@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "moduleResolution": "node",
+    "baseUrl": "src",
+    "resolveJsonModule": true
+  },
+  "exclude": ["node_modules", ".vscode", "dist"],
+  "include": ["src/**/*"]
+}
