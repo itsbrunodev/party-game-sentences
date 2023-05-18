@@ -1,13 +1,10 @@
-import * as fs from "fs";
-import * as path from "path";
-
 import * as NeverHaveIEver from "./json/never-have-i-ever.json";
 import * as TruthOrDare from "./json/truth-or-dare.json";
 import * as WouldYouRather from "./json/would-you-rather.json";
 
 export interface IWouldYouRather {
-  question: string;
-  options: {
+  sentence: string;
+  choice: {
     one: string;
     two: string;
   };
@@ -57,12 +54,10 @@ export function wouldYouRather(): IWouldYouRather {
     (WouldYouRather as unknown as { default: string[] }).default
   );
   return {
-    question: `Would you rather ${arr[0]} or ${arr[1]}?`,
-    options: {
+    sentence: `Would you rather ${arr[0]} or ${arr[1]}?`,
+    choice: {
       one: arr[0],
       two: arr[1],
     },
   };
 }
-
-console.log(wouldYouRather());
