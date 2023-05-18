@@ -27,8 +27,8 @@ Unlike the `neverHaveIEver` and `truthOrDare` functions, where only a string is 
 
 ```js
 {
-  question: "Would you rather have the ability to fly or be invisible?",
-  options: {
+  sentence: "Would you rather have the ability to fly or be invisible?",
+  choice: {
     one: "have the ability to fly",
     two: "be invisible",
   }
