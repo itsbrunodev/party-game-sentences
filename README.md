@@ -46,6 +46,6 @@ Unlike the `neverHaveIEver` and `truthOrDare` functions, where only a string is 
   difficulty: "Easy",
   question: "How many sides does a hexagon have?",
   correct: "6",
-  choices: [ "6", "4", "8", "10" ]
+  choices: ["6", "4", "8", "10"]
 }
 ```
