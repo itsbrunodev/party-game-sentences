@@ -60,6 +60,9 @@ export function neverHaveIEver(): string {
  * @example truthOrDare();
  */
 export function truthOrDare(type: "truth" | "dare"): string {
+  if (typeof type !== "string")
+    throw new Error("Type option needs to be a string");
+
   const json = (
     TruthOrDare as unknown as {
       default: {
