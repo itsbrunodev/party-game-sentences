@@ -1,46 +1,136 @@
 [
-  ["have the ability to fly", "be invisible"],
-  ["live in a world without internet", "without air conditioning and heating"],
-  ["have the power to read minds", "to see into the future"],
-  ["be a famous actor/actress", "a renowned athlete"],
-  ["have unlimited money", "unlimited knowledge"],
+  [
+    "have the ability to fly",
+    "be invisible"
+  ],
+  [
+    "live in a world without internet",
+    "without air conditioning and heating"
+  ],
+  [
+    "have the power to read minds",
+    "to see into the future"
+  ],
+  [
+    "be a famous actor/actress",
+    "a renowned athlete"
+  ],
+  [
+    "have unlimited money",
+    "unlimited knowledge"
+  ],
   [
     "travel back in time to meet your ancestors",
     "travel to the future to meet your descendants"
   ],
-  ["never have to sleep again", "never have to eat again"],
+  [
+    "never have to sleep again",
+    "never have to eat again"
+  ],
   [
     "be able to speak all languages",
     "fluently play all musical instruments perfectly"
   ],
-  ["live without music", "without movies"],
-  ["have the power of super strength", "super speed"],
-  ["always have to tell the truth", "always lie"],
-  ["live in a world with no books", "no TV"],
-  ["be stranded on a deserted island", "lost in a dense forest"],
-  ["have the ability to teleport", "the ability to time travel"],
-  ["have a photographic memory", "the ability to forget anything you want"],
-  ["live without your smartphone", "without your computer/laptop"],
-  ["be able to control the weather", "control people's minds"],
-  ["have a personal chef", "a personal trainer"],
-  ["be able to breathe underwater", "fly through the air"],
-  ["live in a world with no social media", "no video games"],
-  ["be a famous singer", "a world-class dancer"],
-  ["have the power to heal others", "the power to resurrect the dead"],
-  ["have a lifetime supply of free vacations", "free meals at any restaurant"],
-  ["live without music", "without books"],
-  ["be able to talk to animals", "speak all human languages"],
-  ["have the ability to control fire", "control water"],
+  [
+    "live without music",
+    "without movies"
+  ],
+  [
+    "have the power of super strength",
+    "super speed"
+  ],
+  [
+    "always have to tell the truth",
+    "always lie"
+  ],
+  [
+    "live in a world with no books",
+    "no TV"
+  ],
+  [
+    "be stranded on a deserted island",
+    "lost in a dense forest"
+  ],
+  [
+    "have the ability to teleport",
+    "the ability to time travel"
+  ],
+  [
+    "have a photographic memory",
+    "the ability to forget anything you want"
+  ],
+  [
+    "live without your smartphone",
+    "without your computer/laptop"
+  ],
+  [
+    "be able to control the weather",
+    "control people's minds"
+  ],
+  [
+    "have a personal chef",
+    "a personal trainer"
+  ],
+  [
+    "be able to breathe underwater",
+    "fly through the air"
+  ],
+  [
+    "live in a world with no social media",
+    "no video games"
+  ],
+  [
+    "be a famous singer",
+    "a world-class dancer"
+  ],
+  [
+    "have the power to heal others",
+    "the power to resurrect the dead"
+  ],
+  [
+    "have a lifetime supply of free vacations",
+    "free meals at any restaurant"
+  ],
+  [
+    "live without music",
+    "without books"
+  ],
+  [
+    "be able to talk to animals",
+    "speak all human languages"
+  ],
+  [
+    "have the ability to control fire",
+    "control water"
+  ],
   [
     "be able to visit any place in the world",
     "have unlimited free flights for a year"
   ],
-  ["have a personal chauffeur", "a personal masseuse"],
-  ["have the power of mind control", "the power of teleportation"],
-  ["have the ability to breathe underwater", "explore space"],
-  ["have a rewind button for your life", "a pause button"],
-  ["live in a world with no music", "no movies"],
-  ["have the ability to speak with the dead", "see into the future"],
+  [
+    "have a personal chauffeur",
+    "a personal masseuse"
+  ],
+  [
+    "have the power of mind control",
+    "the power of teleportation"
+  ],
+  [
+    "have the ability to breathe underwater",
+    "explore space"
+  ],
+  [
+    "have a rewind button for your life",
+    "a pause button"
+  ],
+  [
+    "live in a world with no music",
+    "no movies"
+  ],
+  [
+    "have the ability to speak with the dead",
+    "see into the future"
+  ],
   [
     "be stranded on a deserted island with your worst enemy",
     "with no one at all"
@@ -49,32 +139,70 @@
     "be able to change your appearance at will",
     "have the ability to read minds"
   ],
-  ["have the power of invisibility", "the power of super strength"],
-  ["have a personal assistant", "a personal stylist"],
+  [
+    "have the power of invisibility",
+    "the power of super strength"
+  ],
+  [
+    "have a personal assistant",
+    "a personal stylist"
+  ],
   [
     "be able to control animals",
     "control the elements (earth, wind, fire, water)"
   ],
-  ["have the ability to time travel", "the ability to teleport"],
+  [
+    "have the ability to time travel",
+    "the ability to teleport"
+  ],
   [
     "have a personal library with every book ever written",
     "a personal art gallery with every famous painting"
   ],
-  ["live in a world without music", "a world without laughter"],
-  ["have the power of flight", "the power of telekinesis"],
-  ["have the ability to speak to the dead", "to see ghosts"],
-  ["live without your smartphone", "without your car"],
-  ["be able to change the past", "know the future"],
-  ["have a personal chef", "a personal trainer"],
-  ["be a character in a video game", "in a movie"],
-  ["have the ability to control the weather", "control time"],
-  ["be able to visit any time period in history", "any place in the world"],
+  [
+    "live in a world without music",
+    "a world without laughter"
+  ],
+  [
+    "have the power of flight",
+    "the power of telekinesis"
+  ],
+  [
+    "have the ability to speak to the dead",
+    "to see ghosts"
+  ],
+  [
+    "live without your smartphone",
+    "without your car"
+  ],
+  [
+    "be able to change the past",
+    "know the future"
+  ],
+  [
+    "be a character in a video game",
+    "in a movie"
+  ],
+  [
+    "have the ability to control the weather",
+    "control time"
+  ],
+  [
+    "be able to visit any time period in history",
+    "any place in the world"
+  ],
   [
     "have the power to teleport anywhere instantly",
     "have the ability to stop time"
   ],
-  ["have the power to manipulate time", "control the elements"],
-  ["have the ability to teleport anywhere", "have the power of telekinesis"],
+  [
+    "have the power to manipulate time",
+    "control the elements"
+  ],
+  [
+    "have the ability to teleport anywhere",
+    "have the power of telekinesis"
+  ],
   [
     "have the power to understand and speak all languages",
     "have the ability to play any musical instrument flawlessly"
@@ -87,7 +215,10 @@
     "have the ability to change your physical appearance at will",
     "have the power to change other people's emotions"
   ],
-  ["live in a world without music", "a world without movies"],
+  [
+    "live in a world without music",
+    "a world without movies"
+  ],
   [
     "have the power to control and manipulate dreams",
     "have the ability to control and manipulate technology"
@@ -100,10 +231,22 @@
     "have the power to make anyone instantly like you",
     "have the power to make anyone tell the truth"
   ],
-  ["have the ability to speak to your past self", "speak to your future self"],
-  ["have the power of super speed", "the power of invulnerability"],
-  ["have the ability to live without sleep", "live without food and water"],
-  ["have the power to control gravity", "have the power to control magnetism"],
+  [
+    "have the ability to speak to your past self",
+    "speak to your future self"
+  ],
+  [
+    "have the power of super speed",
+    "the power of invulnerability"
+  ],
+  [
+    "have the ability to live without sleep",
+    "live without food and water"
+  ],
+  [
+    "have the power to control gravity",
+    "have the power to control magnetism"
+  ],
   [
     "have the ability to travel to any place in the world instantaneously",
     "have the ability to teleport to any fictional world"
@@ -112,7 +255,10 @@
     "have the power to bring back extinct species",
     "have the power to prevent any future natural disasters"
   ],
-  ["have the ability to control your dreams", "control the dreams of others"],
+  [
+    "have the ability to control your dreams",
+    "control the dreams of others"
+  ],
   [
     "have the power to control the minds of animals",
     "have the power to control the weather"
@@ -121,7 +267,6 @@
     "have the ability to communicate with dolphins",
     "have the power to communicate with extraterrestrial beings"
   ],
-  ["have the power of invisibility", "the power of super strength"],
   [
     "live in a world where everyone is always happy",
     "a world where everyone is always healthy"
@@ -130,7 +275,10 @@
     "have the ability to transform into any animal",
     "have the ability to speak every human language fluently"
   ],
-  ["have the power to control fire", "have the power to control water"],
+  [
+    "have the power to control fire",
+    "have the power to control water"
+  ],
   [
     "have a personal chef who cooks all your meals",
     "a personal stylist who chooses all your outfits"
@@ -159,7 +307,10 @@
     "have the power to control the outcome of sporting events",
     "control the outcome of political elections"
   ],
-  ["have the ability to turn invisible", "have the ability to read minds"],
+  [
+    "have the ability to turn invisible",
+    "have the ability to read minds"
+  ],
   [
     "have the power to change the color of anything",
     "have the power to change the shape of anything"
@@ -180,8 +331,14 @@
     "have the power to control and manipulate dreams",
     "have the power to control and manipulate emotions"
   ],
-  ["have the ability to fly", "have the ability to breathe underwater"],
-  ["have the power to control the weather", "have the power to control luck"],
+  [
+    "have the ability to fly",
+    "have the ability to breathe underwater"
+  ],
+  [
+    "have the power to control the weather",
+    "have the power to control luck"
+  ],
   [
     "have the ability to understand and communicate with insects",
     "have the power to control the minds of insects"
@@ -230,180 +387,30 @@
     "have the power to control and manipulate dreams",
     "have the power to control and manipulate reality"
   ],
-  ["have the ability to turn invisible", "have the ability to teleport"],
+  [
+    "have the ability to turn invisible",
+    "have the ability to teleport"
+  ],
   [
     "have the power to control and manipulate sound",
     "have the power to control and manipulate gravity"
   ],
   [
-    "have the ability to communicate with animals",
-    "have the power to communicate with spirits"
-  ],
-  ["have the power to control fire", "have the power to control water"],
-  [
     "have the ability to see into the future",
     "have the ability to travel to the past"
-  ],
-  [
-    "have the power to control and manipulate dreams",
-    "have the power to control and manipulate emotions"
-  ],
-  ["have the ability to fly", "have the ability to breathe underwater"],
-  ["have the power to control the weather", "have the power to control luck"],
-  [
-    "have the ability to understand and communicate with insects",
-    "have the power to control the minds of insects"
-  ],
-  [
-    "have the power to bring peace to the world",
-    "have the power to end world hunger"
-  ],
-  [
-    "have the ability to change your appearance at will",
-    "have the ability to change the appearance of others"
-  ],
-  [
-    "have the power to control and manipulate electricity",
-    "have the power to control and manipulate magnetism"
-  ],
-  [
-    "have the ability to understand and speak any computer programming language",
-    "have the power to hack into any computer system"
-  ],
-  [
-    "have the power to control the outcome of your dreams",
-    "have the power to control the outcome of real-life events"
-  ],
-  [
-    "have the ability to communicate with animals",
-    "have the power to communicate with plants"
-  ],
-  [
-    "have the power to control and manipulate fire",
-    "have the power to control and manipulate ice"
-  ],
-  [
-    "have the ability to predict the future",
-    "have the ability to change the past"
-  ],
-  [
-    "have the power to control and manipulate the minds of others",
-    "have the power to control and manipulate time"
-  ],
-  [
-    "have the ability to understand and speak any alien language",
-    "have the power to teleport to any planet in the universe"
-  ],
-  [
-    "have the power to control and manipulate dreams",
-    "have the power to control and manipulate reality"
-  ],
-  ["have the ability to turn invisible", "have the ability to teleport"],
-  [
-    "have the power to control and manipulate sound",
-    "have the power to control and manipulate gravity"
-  ],
-  [
-    "have the ability to communicate with animals",
-    "have the power to communicate with spirits"
-  ],
-  ["have the power to control fire", "have the power to control water"],
-  [
-    "have the ability to see into the future",
-    "have the ability to travel to the past"
-  ],
-  [
-    "have the power to control and manipulate dreams",
-    "have the power to control and manipulate emotions"
-  ],
-  ["have the ability to fly", "have the ability to breathe underwater"],
-  ["have the power to control the weather", "have the power to control luck"],
-  [
-    "have the ability to understand and communicate with insects",
-    "have the power to control the minds of insects"
-  ],
-  [
-    "have the power to bring peace to the world",
-    "have the power to end world hunger"
-  ],
-  [
-    "have the ability to change your appearance at will",
-    "have the ability to change the appearance of others"
-  ],
-  [
-    "have the power to control and manipulate electricity",
-    "have the power to control and manipulate magnetism"
-  ],
-  [
-    "have the ability to understand and speak any computer programming language",
-    "have the power to hack into any computer system"
-  ],
-  [
-    "have the power to control the outcome of your dreams",
-    "have the power to control the outcome of real-life events"
-  ],
-  [
-    "have the ability to communicate with animals",
-    "have the power to communicate with plants"
-  ],
-  [
-    "have the power to control and manipulate fire",
-    "have the power to control and manipulate ice"
-  ],
-  [
-    "have the ability to predict the future",
-    "have the ability to change the past"
-  ],
-  [
-    "have the power to control and manipulate the minds of others",
-    "have the power to control and manipulate time"
-  ],
-  [
-    "have the ability to understand and speak any alien language",
-    "have the power to teleport to any planet in the universe"
-  ],
-  [
-    "have the power to control and manipulate dreams",
-    "have the power to control and manipulate reality"
-  ],
-  ["have the ability to turn invisible", "have the ability to teleport"],
-  [
-    "have the power to control and manipulate sound",
-    "have the power to control and manipulate gravity"
-  ],
-  [
-    "have the ability to communicate with animals",
-    "have the power to communicate with spirits"
-  ],
-  ["have the power to control fire", "have the power to control water"],
-  [
-    "have the ability to see into the future",
-    "have the ability to travel to the past"
-  ],
-  [
-    "have the power to control and manipulate dreams",
-    "have the power to control and manipulate emotions"
-  ],
-  ["have the ability to fly", "have the ability to breathe underwater"],
-  ["have the power to control the weather", "have the power to control luck"],
-  [
-    "have the ability to understand and communicate with insects",
-    "have the power to control the minds of insects"
-  ],
-  [
-    "have the power to bring peace to the world",
-    "have the power to end world hunger"
-  ],
-  [
-    "have the ability to change your appearance at will",
-    "have the ability to change the appearance of others"
   ],
   [
     "be able to speak and understand all languages",
     "be able to play any musical instrument with virtuosity"
   ],
-  ["have the ability to control fire", "have the ability to control ice"],
-  ["have the power to read minds", "have the power to see the future"],
+  [
+    "have the ability to control fire",
+    "have the ability to control ice"
+  ],
+  [
+    "have the power to read minds",
+    "have the power to see the future"
+  ],
   [
     "have the ability to teleport anywhere instantly",
     "have the ability to time travel"
@@ -412,7 +419,10 @@
     "be able to communicate with animals",
     "be able to communicate with the deceased"
   ],
-  ["have the power to become invisible", "have the power to fly"],
+  [
+    "have the power to become invisible",
+    "have the power to fly"
+  ],
   [
     "be able to control the minds of others",
     "have the ability to control the weather"
@@ -421,7 +431,10 @@
     "have the power to heal any physical ailment",
     "have the power to heal any emotional pain"
   ],
-  ["have unlimited wealth", "have unlimited wisdom"],
+  [
+    "have unlimited wealth",
+    "have unlimited wisdom"
+  ],
   [
     "be able to transform into any animal at will",
     "have the ability to shapeshift into any person you choose"
@@ -430,8 +443,14 @@
     "have the ability to remember everything you read",
     "have the ability to remember everything you see"
   ],
-  ["live in a world without technology", "live in a world without art"],
-  ["have the power to control plants", "have the power to control machines"],
+  [
+    "live in a world without technology",
+    "live in a world without art"
+  ],
+  [
+    "have the power to control plants",
+    "have the power to control machines"
+  ],
   [
     "have the ability to stop time for 24 hours once a year",
     "have the ability to rewind time by one minute whenever you want"
@@ -606,388 +625,6 @@
   [
     "have the power to control and manipulate time but never be able to experience the passage of time",
     "have the power to control and manipulate gravity but never be able to escape the pull of the earth"
-  ],
-  [
-    "have the ability to understand and speak any animal language but be unable to communicate with humans",
-    "have the ability to understand and speak any human language but be unable to communicate with animals"
-  ],
-  [
-    "have the power to control and manipulate technology but be unable to use any form of manual tools",
-    "have the power to control and manipulate nature but be unable to use any form of electronic devices"
-  ],
-  [
-    "have the ability to stop aging at any point in your life",
-    "have the ability to reverse aging and become younger whenever you choose"
-  ],
-  [
-    "have the power to control and manipulate the weather but be unable to control your own body temperature",
-    "have the power to control and manipulate luck but be unable to control your own actions"
-  ],
-  [
-    "have the ability to understand and speak any ancient language but be unable to understand",
-    "speak any modern language",
-    "have the ability to understand and speak any modern language but be unable to understand",
-    "speak any ancient language"
-  ],
-  [
-    "have the power to control and manipulate the elements (earth, air, fire, water) but be unable to control your own emotions",
-    "have the power to control and manipulate emotions but be unable to control the elements"
-  ],
-  [
-    "have the ability to communicate with ghosts and spirits but always be haunted by their presence",
-    "have the ability to banish ghosts and spirits but never be able to communicate with them"
-  ],
-  [
-    "have the power to control and manipulate your own physical appearance but be unable to maintain a stable sense of self",
-    "have the power to control and manipulate your own personality but be unable to change your physical appearance"
-  ],
-  [
-    "be able to eat only one type of food for the rest of your life but never gain weight",
-    "be able to eat any food you desire but gain weight easily"
-  ],
-  [
-    "have the power to control and manipulate dreams but never be able to wake up from them",
-    "have the power to control and manipulate reality but be unable to sleep"
-  ],
-  [
-    "have the ability to speak and understand any animal language but be unable to communicate with humans",
-    "have the ability to speak and understand any human language but be unable to communicate with animals"
-  ],
-  [
-    "have the power to control and manipulate fire but never be able to feel warmth",
-    "have the power to control and manipulate water but never be able to quench your thirst"
-  ],
-  [
-    "have the ability to see one year into the future but be unable to change it",
-    "have the ability to see one year into the past but be unable to alter it"
-  ],
-  [
-    "have the power to control and manipulate dreams but never be able to dream peacefully",
-    "have the power to control and manipulate reality but always question its authenticity"
-  ],
-  [
-    "have the ability to communicate with plants and understand their thoughts",
-    "have the ability to make any plant grow to maturity instantly"
-  ],
-  [
-    "have the power to control and manipulate the thoughts of others but be unable to control your own desires",
-    "have the power to control and manipulate emotions but be unable to control your own happiness"
-  ],
-  [
-    "have the ability to fly but always have a fear of falling",
-    "have the ability to breathe underwater but always have a fear of drowning"
-  ],
-  [
-    "have the power to control and manipulate time but never be able to experience the passage of time",
-    "have the power to control and manipulate gravity but never be able to escape the pull of the earth"
-  ],
-  [
-    "have the ability to understand and speak any animal language but be unable to communicate with humans",
-    "have the ability to understand and speak any human language but be unable to communicate with animals"
-  ],
-  [
-    "have the power to control and manipulate technology but be unable to use any form of manual tools",
-    "have the power to control and manipulate nature but be unable to use any form of electronic devices"
-  ],
-  [
-    "have the ability to stop aging at any point in your life",
-    "have the ability to reverse aging and become younger whenever you choose"
-  ],
-  [
-    "have the power to control and manipulate the weather but be unable to control your own body temperature",
-    "have the power to control and manipulate luck but be unable to control your own actions"
-  ],
-  [
-    "have the ability to understand and speak any ancient language but be unable to understand",
-    "speak any modern language",
-    "have the ability to understand and speak any modern language but be unable to understand",
-    "speak any ancient language"
-  ],
-  [
-    "have the power to control and manipulate the elements (earth, air, fire, water) but be unable to control your own emotions",
-    "have the power to control and manipulate emotions but be unable to control the elements"
-  ],
-  [
-    "have the ability to communicate with ghosts and spirits but always be haunted by their presence",
-    "have the ability to banish ghosts and spirits but never be able to communicate with them"
-  ],
-  [
-    "have the power to control and manipulate your own physical appearance but be unable to maintain a stable sense of self",
-    "have the power to control and manipulate your own personality but be unable to change your physical appearance"
-  ],
-  [
-    "be able to eat only one type of food for the rest of your life but never gain weight",
-    "be able to eat any food you desire but gain weight easily"
-  ],
-  [
-    "have the power to control and manipulate dreams but never be able to wake up from them",
-    "have the power to control and manipulate reality but be unable to sleep"
-  ],
-  [
-    "have the ability to speak and understand any animal language but be unable to communicate with humans",
-    "have the ability to speak and understand any human language but be unable to communicate with animals"
-  ],
-  [
-    "have the power to control and manipulate fire but never be able to feel warmth",
-    "have the power to control and manipulate water but never be able to quench your thirst"
-  ],
-  [
-    "have the ability to see one year into the future but be unable to change it",
-    "have the ability to see one year into the past but be unable to alter it"
-  ],
-  [
-    "have the power to control and manipulate dreams but never be able to dream peacefully",
-    "have the power to control and manipulate reality but always question its authenticity"
-  ],
-  [
-    "have the ability to communicate with plants and understand their thoughts",
-    "have the ability to make any plant grow to maturity instantly"
-  ],
-  [
-    "have the power to control and manipulate the thoughts of others but be unable to control your own desires",
-    "have the power to control and manipulate emotions but be unable to control your own happiness"
-  ],
-  [
-    "have the ability to fly but always have a fear of falling",
-    "have the ability to breathe underwater but always have a fear of drowning"
-  ],
-  [
-    "have the power to control and manipulate time but never be able to experience the passage of time",
-    "have the power to control and manipulate gravity but never be able to escape the pull of the earth"
-  ],
-  [
-    "have the ability to understand and speak any animal language but be unable to communicate with humans",
-    "have the ability to understand and speak any human language but be unable to communicate with animals"
-  ],
-  [
-    "have the power to control and manipulate technology but be unable to use any form of manual tools",
-    "have the power to control and manipulate nature but be unable to use any form of electronic devices"
-  ],
-  [
-    "have the ability to stop aging at any point in your life",
-    "have the ability to reverse aging and become younger whenever you choose"
-  ],
-  [
-    "have the power to control and manipulate the weather but be unable to control your own body temperature",
-    "have the power to control and manipulate luck but be unable to control your own actions"
-  ],
-  [
-    "have the ability to understand and speak any ancient language but be unable to understand",
-    "speak any modern language",
-    "have the ability to understand and speak any modern language but be unable to understand",
-    "speak any ancient language"
-  ],
-  [
-    "have the power to control and manipulate the elements (earth, air, fire, water) but be unable to control your own emotions",
-    "have the power to control and manipulate emotions but be unable to control the elements"
-  ],
-  [
-    "have the ability to communicate with ghosts and spirits but always be haunted by their presence",
-    "have the ability to banish ghosts and spirits but never be able to communicate with them"
-  ],
-  [
-    "have the power to control and manipulate your own physical appearance but be unable to maintain a stable sense of self",
-    "have the power to control and manipulate your own personality but be unable to change your physical appearance"
-  ],
-  [
-    "be able to eat only one type of food for the rest of your life but never gain weight",
-    "be able to eat any food you desire but gain weight easily"
-  ],
-  [
-    "have the power to control and manipulate dreams but never be able to wake up from them",
-    "have the power to control and manipulate reality but be unable to sleep"
-  ],
-  [
-    "have the ability to speak and understand any animal language but be unable to communicate with humans",
-    "have the ability to speak and understand any human language but be unable to communicate with animals"
-  ],
-  [
-    "have the power to control and manipulate fire but never be able to feel warmth",
-    "have the power to control and manipulate water but never be able to quench your thirst"
-  ],
-  [
-    "have the ability to see one year into the future but be unable to change it",
-    "have the ability to see one year into the past but be unable to alter it"
-  ],
-  [
-    "have the power to control and manipulate dreams but never be able to dream peacefully",
-    "have the power to control and manipulate reality but always question its authenticity"
-  ],
-  [
-    "have the ability to communicate with plants and understand their thoughts",
-    "have the ability to make any plant grow to maturity instantly"
-  ],
-  [
-    "have the power to control and manipulate the thoughts of others but be unable to control your own desires",
-    "have the power to control and manipulate emotions but be unable to control your own happiness"
-  ],
-  [
-    "have the ability to fly but always have a fear of falling",
-    "have the ability to breathe underwater but always have a fear of drowning"
-  ],
-  [
-    "have the power to control and manipulate time but never be able to experience the passage of time",
-    "have the power to control and manipulate gravity but never be able to escape the pull of the earth"
-  ],
-  [
-    "have the ability to understand and speak any animal language but be unable to communicate with humans",
-    "have the ability to understand and speak any human language but be unable to communicate with animals"
-  ],
-  [
-    "have the power to control and manipulate technology but be unable to use any form of manual tools",
-    "have the power to control and manipulate nature but be unable to use any form of electronic devices"
-  ],
-  [
-    "have the ability to stop aging at any point in your life",
-    "have the ability to reverse aging and become younger whenever you choose"
-  ],
-  [
-    "have the power to control and manipulate the weather but be unable to control your own body temperature",
-    "have the power to control and manipulate luck but be unable to control your own actions"
-  ],
-  [
-    "have the ability to understand and speak any ancient language but be unable to understand",
-    "speak any modern language",
-    "have the ability to understand and speak any modern language but be unable to understand",
-    "speak any ancient language"
-  ],
-  [
-    "have the power to control and manipulate the elements (earth, air, fire, water) but be unable to control your own emotions",
-    "have the power to control and manipulate emotions but be unable to control the elements"
-  ],
-  [
-    "have the ability to communicate with ghosts and spirits but always be haunted by their presence",
-    "have the ability to banish ghosts and spirits but never be able to communicate with them"
-  ],
-  [
-    "have the power to control and manipulate your own physical appearance but be unable to maintain a stable sense of self",
-    "have the power to control and manipulate your own personality but be unable to change your physical appearance"
-  ],
-  [
-    "be able to eat only one type of food for the rest of your life but never gain weight",
-    "be able to eat any food you desire but gain weight easily"
-  ],
-  [
-    "have the power to control and manipulate dreams but never be able to wake up from them",
-    "have the power to control and manipulate reality but be unable to sleep"
-  ],
-  [
-    "have the ability to speak and understand any animal language but be unable to communicate with humans",
-    "have the ability to speak and understand any human language but be unable to communicate with animals"
-  ],
-  [
-    "have the power to control and manipulate fire but never be able to feel warmth",
-    "have the power to control and manipulate water but never be able to quench your thirst"
-  ],
-  [
-    "have the ability to see one year into the future but be unable to change it",
-    "have the ability to see one year into the past but be unable to alter it"
-  ],
-  [
-    "have the power to control and manipulate dreams but never be able to dream peacefully",
-    "have the power to control and manipulate reality but always question its authenticity"
-  ],
-  [
-    "have the ability to communicate with plants and understand their thoughts",
-    "have the ability to make any plant grow to maturity instantly"
-  ],
-  [
-    "have the power to control and manipulate the thoughts of others but be unable to control your own desires",
-    "have the power to control and manipulate emotions but be unable to control your own happiness"
-  ],
-  [
-    "have the ability to fly but always have a fear of falling",
-    "have the ability to breathe underwater but always have a fear of drowning"
-  ],
-  [
-    "have the power to control and manipulate time but never be able to experience the passage of time",
-    "have the power to control and manipulate gravity but never be able to escape the pull of the earth"
-  ],
-  [
-    "have the ability to understand and speak any animal language but be unable to communicate with humans",
-    "have the ability to understand and speak any human language but be unable to communicate with animals"
-  ],
-  [
-    "have the power to control and manipulate technology but be unable to use any form of manual tools",
-    "have the power to control and manipulate nature but be unable to use any form of electronic devices"
-  ],
-  [
-    "have the ability to stop aging at any point in your life",
-    "have the ability to reverse aging and become younger whenever you choose"
-  ],
-  [
-    "have the power to control and manipulate the weather but be unable to control your own body temperature",
-    "have the power to control and manipulate luck but be unable to control your own actions"
-  ],
-  [
-    "have the ability to understand and speak any ancient language but be unable to understand",
-    "speak any modern language",
-    "have the ability to understand and speak any modern language but be unable to understand",
-    "speak any ancient language"
-  ],
-  [
-    "have the power to control and manipulate the elements (earth, air, fire, water) but be unable to control your own emotions",
-    "have the power to control and manipulate emotions but be unable to control the elements"
-  ],
-  [
-    "have the ability to communicate with ghosts and spirits but always be haunted by their presence",
-    "have the ability to banish ghosts and spirits but never be able to communicate with them"
-  ],
-  [
-    "have the power to control and manipulate your own physical appearance but be unable to maintain a stable sense of self",
-    "have the power to control and manipulate your own personality but be unable to change your physical appearance"
-  ],
-  [
-    "be able to eat only one type of food for the rest of your life but never gain weight",
-    "be able to eat any food you desire but gain weight easily"
-  ],
-  [
-    "have the power to control and manipulate dreams but never be able to wake up from them",
-    "have the power to control and manipulate reality but be unable to sleep"
-  ],
-  [
-    "have the ability to speak and understand any animal language but be unable to communicate with humans",
-    "have the ability to speak and understand any human language but be unable to communicate with animals"
-  ],
-  [
-    "have the power to control and manipulate fire but never be able to feel warmth",
-    "have the power to control and manipulate water but never be able to quench your thirst"
-  ],
-  [
-    "have the ability to see one year into the future but be unable to change it",
-    "have the ability to see one year into the past but be unable to alter it"
-  ],
-  [
-    "have the power to control and manipulate dreams but never be able to dream peacefully",
-    "have the power to control and manipulate reality but always question its authenticity"
-  ],
-  [
-    "have the ability to communicate with plants and understand their thoughts",
-    "have the ability to make any plant grow to maturity instantly"
-  ],
-  [
-    "have the power to control and manipulate the thoughts of others but be unable to control your own desires",
-    "have the power to control and manipulate emotions but be unable to control your own happiness"
-  ],
-  [
-    "have the ability to fly but always have a fear of falling",
-    "have the ability to breathe underwater but always have a fear of drowning"
-  ],
-  [
-    "have the power to control and manipulate time but never be able to experience the passage of time",
-    "have the power to control and manipulate gravity but never be able to escape the pull of the earth"
-  ],
-  [
-    "have the ability to understand and speak any animal language but be unable to communicate with humans",
-    "have the ability to understand and speak any human language but be unable to communicate with animals"
-  ],
-  [
-    "have the power to control and manipulate technology but be unable to use any form of manual tools",
-    "have the power to control and manipulate nature but be unable to use any form of electronic devices"
-  ],
-  [
-    "have the ability to stop aging at any point in your life",
-    "have the ability to reverse aging and become younger whenever you choose"
   ],
   [
     "have the ability to teleport anywhere in the world instantly but lose the ability to remember your past",
