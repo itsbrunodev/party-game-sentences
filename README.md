@@ -26,7 +26,7 @@ trivia();
 
 ### Example response
 
-Unlike the `neverHaveIEver` and `truthOrDare` functions, where only a string is returned, the `wouldYouRather` and `trivia` function return a unique object.
+Unlike the `neverHaveIEver` and `truthOrDare` functions, where only a string is returned, the `wouldYouRather` and `trivia` functions return a unique object.
 
 ```js
 // a "would you rather" response
