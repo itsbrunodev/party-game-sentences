@@ -1,6 +1,7 @@
 import * as NeverHaveIEver from "./json/never-have-i-ever.json";
 import * as TruthOrDare from "./json/truth-or-dare.json";
 import * as WouldYouRather from "./json/would-you-rather.json";
+import * as Trivia from "./json/trivia.json";
 
 export interface IWouldYouRather {
   sentence: string;
@@ -8,6 +9,32 @@ export interface IWouldYouRather {
     one: string;
     two: string;
   };
+}
+
+type Categories =
+  | "History"
+  | "Geography"
+  | "Science"
+  | "Movies"
+  | "Sports"
+  | "Literature"
+  | "Technology"
+  | "Miscellaneous"
+  | "Music"
+  | "Mythology"
+  | "Food and Drink"
+  | "Politics"
+  | "Science Fiction"
+  | "Pop Culture";
+
+type Difficulties = "Easy" | "Medium" | "Hard";
+
+export interface ITrivia {
+  category: Categories;
+  difficulty: Difficulties;
+  sentence: string;
+  correct: string;
+  choices: [string, string, string, string];
 }
 
 /**
@@ -60,4 +87,43 @@ export function wouldYouRather(): IWouldYouRather {
       two: arr[1],
     },
   };
+}
+
+/**
+ * Get a random "trivia" sentence
+ * @param {Categories[]} options.categories - Get only the requested type of categories
+ * @param {Difficulties[]} options.difficulties - Get only the requested difficulties
+ * @example trivia({ categories: ["History"], difficulties: ["Easy"] });
+ */
+export function trivia(
+  options: {
+    categories?: Categories[];
+    difficulties?: Difficulties[];
+  } = {
+    categories: [
+      "History",
+      "Geography",
+      "Science",
+      "Movies",
+      "Sports",
+      "Literature",
+      "Technology",
+      "Miscellaneous",
+      "Music",
+      "Mythology",
+      "Food and Drink",
+      "Politics",
+      "Science Fiction",
+      "Pop Culture",
+    ],
+    difficulties: ["Easy", "Medium", "Hard"],
+  }
+): ITrivia {
+  return random(
+    (Trivia as unknown as { default: ITrivia[] }).default.filter(
+      (x) =>
+        options.categories.includes(x.category) &&
+        options.difficulties.includes(x.difficulty)
+    )
+  );
 }
