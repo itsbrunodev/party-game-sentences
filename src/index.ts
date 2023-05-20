@@ -1,7 +1,11 @@
-import * as NeverHaveIEver from "./json/never-have-i-ever.json";
-import * as TruthOrDare from "./json/truth-or-dare.json";
-import * as WouldYouRather from "./json/would-you-rather.json";
-import * as Trivia from "./json/trivia.json";
+/* @ts-ignore */
+import * as NeverHaveIEver from "./json/never-have-i-ever.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TruthOrDare from "./json/truth-or-dare.json" assert { type: "json" };
+/* @ts-ignore */
+import * as WouldYouRather from "./json/would-you-rather.json" assert { type: "json" };
+/* @ts-ignore */
+import * as Trivia from "./json/trivia.json" assert { type: "json" };
 
 export interface IWouldYouRather {
   sentence: string;
@@ -35,6 +39,11 @@ export interface ITrivia {
   sentence: string;
   correct: string;
   choices: [string, string, string, string];
+}
+
+export interface ITruthOrDareRaw {
+  truth: string[];
+  dare: string[];
 }
 
 /**
@@ -129,4 +138,69 @@ export function trivia(
         options.difficulties.includes(x.difficulty)
     )
   );
+}
+
+/**
+ * Get every sentence from a party game
+ * @param {string} partyGame - The party game type
+ * @param {boolean} raw - Return a raw JSON response without the responses being formatted
+ * @example getEverySentence("would-you-rather", true);
+ */
+export function getEverySentence(
+  partyGame: "never-have-i-ever",
+  raw?: boolean
+): string[];
+export function getEverySentence(partyGame: "trivia", raw?: false): ITrivia[];
+export function getEverySentence(
+  partyGame: "truth-or-dare",
+  raw?: false
+): ITruthOrDareRaw;
+export function getEverySentence(
+  partyGame: "would-you-rather",
+  raw?: true
+): string[][];
+export function getEverySentence(
+  partyGame: "would-you-rather",
+  raw?: false
+): IWouldYouRather[];
+export function getEverySentence(
+  partyGame:
+    | "never-have-i-ever"
+    | "trivia"
+    | "truth-or-dare"
+    | "would-you-rather",
+  raw = false
+) {
+  switch (partyGame) {
+    case "never-have-i-ever": {
+      const res = (NeverHaveIEver as unknown as { default: string[] }).default;
+      if (raw) return res;
+      else return res.map((x) => `Never have I ever ${x}.`);
+    }
+    case "trivia": {
+      return (Trivia as unknown as { default: ITrivia[] }).default;
+    }
+    case "truth-or-dare": {
+      return (TruthOrDare as unknown as { default: ITruthOrDareRaw }).default;
+    }
+    case "would-you-rather": {
+      const res = (WouldYouRather as unknown as { default: string[][] })
+        .default;
+      if (raw) return res;
+      else
+        return res.map(
+          (x) =>
+            ({
+              sentence: `Would you rather ${x[0]} or ${x[1]}?`,
+              choice: {
+                one: x[0],
+                two: x[1],
+              },
+            } as IWouldYouRather)
+        );
+    }
+    default: {
+      throw Error(`Party game "${partyGame}" does not exist`);
+    }
+  }
 }
