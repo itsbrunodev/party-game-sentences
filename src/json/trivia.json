@@ -5,10 +5,10 @@
     "sentence": "Who painted the Mona Lisa?",
     "correct": "Leonardo da Vinci",
     "choices": [
-      "Leonardo da Vinci",
       "Vincent van Gogh",
+      "Michelangelo",
       "Pablo Picasso",
-      "Michelangelo"
+      "Leonardo da Vinci"
     ]
   },
   {
@@ -16,14 +16,24 @@
     "difficulty": "Hard",
     "sentence": "What is the capital city of Australia?",
     "correct": "Canberra",
-    "choices": ["Canberra", "Sydney", "Melbourne", "Brisbane"]
+    "choices": [
+      "Sydney",
+      "Canberra",
+      "Brisbane",
+      "Melbourne"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Easy",
     "sentence": "What is the chemical symbol for the element iron?",
     "correct": "Fe",
-    "choices": ["Fe", "Ir", "In", "Io"]
+    "choices": [
+      "Fe",
+      "In",
+      "Io",
+      "Ir"
+    ]
   },
   {
     "category": "Movies",
@@ -31,9 +41,9 @@
     "sentence": "Which actor played the character Wolverine in the X-Men film series?",
     "correct": "Hugh Jackman",
     "choices": [
-      "Hugh Jackman",
       "Robert Downey Jr.",
       "Chris Evans",
+      "Hugh Jackman",
       "Tom Hiddleston"
     ]
   },
@@ -42,7 +52,12 @@
     "difficulty": "Hard",
     "sentence": "Who won the FIFA World Cup in 2014?",
     "correct": "Germany",
-    "choices": ["Germany", "Brazil", "Argentina", "Spain"]
+    "choices": [
+      "Brazil",
+      "Argentina",
+      "Spain",
+      "Germany"
+    ]
   },
   {
     "category": "Literature",
@@ -50,10 +65,10 @@
     "sentence": "Who wrote the Harry Potter book series?",
     "correct": "J.K. Rowling",
     "choices": [
-      "J.K. Rowling",
       "Stephen King",
       "George R.R. Martin",
-      "Jane Austen"
+      "Jane Austen",
+      "J.K. Rowling"
     ]
   },
   {
@@ -61,14 +76,24 @@
     "difficulty": "Medium",
     "sentence": "Who is the founder of Microsoft?",
     "correct": "Bill Gates",
-    "choices": ["Bill Gates", "Steve Jobs", "Mark Zuckerberg", "Jeff Bezos"]
+    "choices": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Jeff Bezos",
+      "Mark Zuckerberg"
+    ]
   },
   {
     "category": "Miscellaneous",
     "difficulty": "Easy",
     "sentence": "How many colors are there in a rainbow?",
     "correct": "7",
-    "choices": ["7", "5", "9", "12"]
+    "choices": [
+      "9",
+      "12",
+      "7",
+      "5"
+    ]
   },
   {
     "category": "Music",
@@ -76,10 +101,10 @@
     "sentence": "Who composed the \"Four Seasons\" concertos?",
     "correct": "Antonio Vivaldi",
     "choices": [
+      "Wolfgang Amadeus Mozart",
       "Antonio Vivaldi",
-      "Johann Sebastian Bach",
       "Ludwig van Beethoven",
-      "Wolfgang Amadeus Mozart"
+      "Johann Sebastian Bach"
     ]
   },
   {
@@ -87,14 +112,24 @@
     "difficulty": "Medium",
     "sentence": "Who is the king of the gods in Greek mythology?",
     "correct": "Zeus",
-    "choices": ["Zeus", "Poseidon", "Hades", "Apollo"]
+    "choices": [
+      "Poseidon",
+      "Apollo",
+      "Hades",
+      "Zeus"
+    ]
   },
   {
     "category": "Food and Drink",
     "difficulty": "Easy",
     "sentence": "What is the main ingredient in a margherita pizza?",
     "correct": "Tomato",
-    "choices": ["Tomato", "Cheese", "Basil", "Pepperoni"]
+    "choices": [
+      "Pepperoni",
+      "Cheese",
+      "Basil",
+      "Tomato"
+    ]
   },
   {
     "category": "Politics",
@@ -102,10 +137,10 @@
     "sentence": "Who was the first female Chancellor of Germany?",
     "correct": "Angela Merkel",
     "choices": [
-      "Angela Merkel",
+      "Theresa May",
       "Margaret Thatcher",
-      "Hillary Clinton",
-      "Theresa May"
+      "Angela Merkel",
+      "Hillary Clinton"
     ]
   },
   {
@@ -114,9 +149,9 @@
     "sentence": "Who is the author of \"The Hitchhiker's Guide to the Galaxy\"?",
     "correct": "Douglas Adams",
     "choices": [
-      "Douglas Adams",
-      "Philip K. Dick",
       "Isaac Asimov",
+      "Philip K. Dick",
+      "Douglas Adams",
       "Ray Bradbury"
     ]
   },
@@ -125,7 +160,12 @@
     "difficulty": "Easy",
     "sentence": "In what year did Christopher Columbus reach the Americas?",
     "correct": "1492",
-    "choices": ["1492", "1519", "1607", "1776"]
+    "choices": [
+      "1519",
+      "1492",
+      "1776",
+      "1607"
+    ]
   },
   {
     "category": "Geography",
@@ -133,10 +173,10 @@
     "sentence": "What is the tallest mountain in Africa?",
     "correct": "Mount Kilimanjaro",
     "choices": [
-      "Mount Kilimanjaro",
+      "Mount Fuji",
       "Mount Everest",
       "Mount McKinley",
-      "Mount Fuji"
+      "Mount Kilimanjaro"
     ]
   },
   {
@@ -145,10 +185,10 @@
     "sentence": "Which composer wrote the symphony \"Ode to Joy\"?",
     "correct": "Ludwig van Beethoven",
     "choices": [
-      "Ludwig van Beethoven",
-      "Wolfgang Amadeus Mozart",
       "Johann Sebastian Bach",
-      "Franz Schubert"
+      "Franz Schubert",
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart"
     ]
   },
   {
@@ -157,10 +197,10 @@
     "sentence": "Who played the character Tony Stark/Iron Man in the Marvel Cinematic Universe?",
     "correct": "Robert Downey Jr.",
     "choices": [
-      "Robert Downey Jr.",
-      "Chris Hemsworth",
       "Chris Evans",
-      "Tom Holland"
+      "Robert Downey Jr.",
+      "Tom Holland",
+      "Chris Hemsworth"
     ]
   },
   {
@@ -168,14 +208,24 @@
     "difficulty": "Medium",
     "sentence": "Which country has won the most Olympic gold medals?",
     "correct": "United States",
-    "choices": ["United States", "Russia", "China", "Germany"]
+    "choices": [
+      "Russia",
+      "United States",
+      "China",
+      "Germany"
+    ]
   },
   {
     "category": "Literature",
     "difficulty": "Hard",
     "sentence": "In which Shakespeare play does the character Hamlet appear?",
     "correct": "Hamlet",
-    "choices": ["Hamlet", "Romeo and Juliet", "Macbeth", "Othello"]
+    "choices": [
+      "Romeo and Juliet",
+      "Othello",
+      "Hamlet",
+      "Macbeth"
+    ]
   },
   {
     "category": "Technology",
@@ -184,9 +234,9 @@
     "correct": "Hypertext Markup Language",
     "choices": [
       "Hypertext Markup Language",
-      "Home Tool Markup Language",
       "Hyperlinks and Text Markup Language",
-      "High-Tech Markup Language"
+      "High-Tech Markup Language",
+      "Home Tool Markup Language"
     ]
   },
   {
@@ -195,10 +245,10 @@
     "sentence": "Who directed the movie \"Pulp Fiction\"?",
     "correct": "Quentin Tarantino",
     "choices": [
+      "Christopher Nolan",
       "Quentin Tarantino",
-      "Martin Scorsese",
       "Steven Spielberg",
-      "Christopher Nolan"
+      "Martin Scorsese"
     ]
   },
   {
@@ -206,14 +256,24 @@
     "difficulty": "Hard",
     "sentence": "Who is the Norse god of mischief?",
     "correct": "Loki",
-    "choices": ["Loki", "Thor", "Odin", "Freya"]
+    "choices": [
+      "Odin",
+      "Loki",
+      "Freya",
+      "Thor"
+    ]
   },
   {
     "category": "Food and Drink",
     "difficulty": "Medium",
     "sentence": "What is the primary ingredient in guacamole?",
     "correct": "Avocado",
-    "choices": ["Avocado", "Tomato", "Onion", "Lime"]
+    "choices": [
+      "Onion",
+      "Tomato",
+      "Avocado",
+      "Lime"
+    ]
   },
   {
     "category": "History",
@@ -221,10 +281,10 @@
     "sentence": "Who was the first President of the United States?",
     "correct": "George Washington",
     "choices": [
-      "George Washington",
       "Thomas Jefferson",
       "Abraham Lincoln",
-      "John F. Kennedy"
+      "John F. Kennedy",
+      "George Washington"
     ]
   },
   {
@@ -232,28 +292,48 @@
     "difficulty": "Hard",
     "sentence": "Which African country is known as the \"Pearl of Africa\"?",
     "correct": "Uganda",
-    "choices": ["Uganda", "Kenya", "Tanzania", "Ethiopia"]
+    "choices": [
+      "Ethiopia",
+      "Tanzania",
+      "Uganda",
+      "Kenya"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Medium",
     "sentence": "What is the chemical symbol for gold?",
     "correct": "Au",
-    "choices": ["Au", "Ag", "Fe", "Cu"]
+    "choices": [
+      "Ag",
+      "Au",
+      "Cu",
+      "Fe"
+    ]
   },
   {
     "category": "Movies",
     "difficulty": "Easy",
     "sentence": "Who played the character Jack Sparrow in the Pirates of the Caribbean film series?",
     "correct": "Johnny Depp",
-    "choices": ["Johnny Depp", "Brad Pitt", "Leonardo DiCaprio", "Tom Cruise"]
+    "choices": [
+      "Tom Cruise",
+      "Johnny Depp",
+      "Leonardo DiCaprio",
+      "Brad Pitt"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Hard",
     "sentence": "In which city were the first modern Olympic Games held?",
     "correct": "Athens",
-    "choices": ["Athens", "London", "Paris", "Rome"]
+    "choices": [
+      "London",
+      "Paris",
+      "Rome",
+      "Athens"
+    ]
   },
   {
     "category": "Literature",
@@ -261,10 +341,10 @@
     "sentence": "Who wrote the novel \"To Kill a Mockingbird\"?",
     "correct": "Harper Lee",
     "choices": [
-      "Harper Lee",
       "F. Scott Fitzgerald",
+      "Mark Twain",
       "Ernest Hemingway",
-      "Mark Twain"
+      "Harper Lee"
     ]
   },
   {
@@ -273,9 +353,9 @@
     "sentence": "What does the acronym \"GPS\" stand for?",
     "correct": "Global Positioning System",
     "choices": [
+      "Geo-Proximity System",
       "Global Positioning System",
       "General Positioning Satellite",
-      "Geo-Proximity System",
       "Ground Positioning Service"
     ]
   },
@@ -287,8 +367,8 @@
     "choices": [
       "Pacific Ocean",
       "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Arctic Ocean",
+      "Indian Ocean"
     ]
   },
   {
@@ -297,9 +377,9 @@
     "sentence": "Who composed the \"Ride of the Valkyries\"?",
     "correct": "Richard Wagner",
     "choices": [
-      "Richard Wagner",
-      "Johann Strauss II",
       "Ludwig van Beethoven",
+      "Johann Strauss II",
+      "Richard Wagner",
       "Franz Schubert"
     ]
   },
@@ -308,26 +388,36 @@
     "difficulty": "Easy",
     "sentence": "Who is the main antagonist in the Star Wars film series?",
     "correct": "Darth Vader",
-    "choices": ["Darth Vader", "Luke Skywalker", "Han Solo", "Princess Leia"]
+    "choices": [
+      "Darth Vader",
+      "Princess Leia",
+      "Luke Skywalker",
+      "Han Solo"
+    ]
   },
   {
     "category": "History",
     "difficulty": "Hard",
     "sentence": "Who was the first Emperor of Rome?",
     "correct": "Augustus",
-    "choices": ["Augustus", "Julius Caesar", "Nero", "Constantine"]
+    "choices": [
+      "Nero",
+      "Julius Caesar",
+      "Augustus",
+      "Constantine"
+    ]
   },
   {
     "category": "Food and Drink",
     "difficulty": "Medium",
     "sentence": "What is the main ingredient in hummus?",
     "correct": "Chickpeas",
-    "choices": ["Chickpeas", "Avocado", "Lentils", "Quinoa"]
-  },
-  {
-    "category": "Literature",
-    "difficulty": "Hard",
-    "sentence": "Who wrote the novel \"One Hundred Years of Solitude\"? (Gabriel García Márquez)?"
+    "choices": [
+      "Avocado",
+      "Quinoa",
+      "Chickpeas",
+      "Lentils"
+    ]
   },
   {
     "category": "Music",
@@ -335,10 +425,10 @@
     "sentence": "Which composer wrote the symphony \"Symphony No. 5\"?",
     "correct": "Ludwig van Beethoven",
     "choices": [
-      "Ludwig van Beethoven",
-      "Wolfgang Amadeus Mozart",
+      "Franz Schubert",
       "Johann Sebastian Bach",
-      "Franz Schubert"
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven"
     ]
   },
   {
@@ -346,35 +436,60 @@
     "difficulty": "Easy",
     "sentence": "Who played the character Harry Potter in the Harry Potter film series?",
     "correct": "Daniel Radcliffe",
-    "choices": ["Daniel Radcliffe", "Rupert Grint", "Emma Watson", "Tom Felton"]
+    "choices": [
+      "Tom Felton",
+      "Rupert Grint",
+      "Daniel Radcliffe",
+      "Emma Watson"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Hard",
     "sentence": "What is the smallest unit of matter?",
     "correct": "Atom",
-    "choices": ["Atom", "Molecule", "Proton", "Electron"]
+    "choices": [
+      "Proton",
+      "Molecule",
+      "Electron",
+      "Atom"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Medium",
     "sentence": "In which sport can you earn a \"Grand Slam\"?",
     "correct": "Tennis",
-    "choices": ["Tennis", "Golf", "Rugby", "Baseball"]
+    "choices": [
+      "Tennis",
+      "Rugby",
+      "Baseball",
+      "Golf"
+    ]
   },
   {
     "category": "Mythology",
     "difficulty": "Easy",
     "sentence": "Who is the Greek goddess of wisdom?",
     "correct": "Athena",
-    "choices": ["Athena", "Aphrodite", "Hera", "Artemis"]
+    "choices": [
+      "Athena",
+      "Aphrodite",
+      "Artemis",
+      "Hera"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Hard",
     "sentence": "Which country is the largest in terms of land area?",
     "correct": "Russia",
-    "choices": ["Russia", "Canada", "China", "United States"]
+    "choices": [
+      "Canada",
+      "United States",
+      "China",
+      "Russia"
+    ]
   },
   {
     "category": "Technology",
@@ -382,10 +497,10 @@
     "sentence": "Who invented the telephone?",
     "correct": "Alexander Graham Bell",
     "choices": [
-      "Alexander Graham Bell",
+      "Benjamin Franklin",
       "Thomas Edison",
-      "Nikola Tesla",
-      "Benjamin Franklin"
+      "Alexander Graham Bell",
+      "Nikola Tesla"
     ]
   },
   {
@@ -393,7 +508,12 @@
     "difficulty": "Easy",
     "sentence": "How many legs does a spider have?",
     "correct": "8",
-    "choices": ["8", "6", "10", "12"]
+    "choices": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ]
   },
   {
     "category": "Music",
@@ -401,10 +521,10 @@
     "sentence": "Who composed the opera \"The Marriage of Figaro\"?",
     "correct": "Wolfgang Amadeus Mozart",
     "choices": [
-      "Wolfgang Amadeus Mozart",
       "Giuseppe Verdi",
-      "Richard Wagner",
-      "Ludwig van Beethoven"
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Richard Wagner"
     ]
   },
   {
@@ -413,10 +533,10 @@
     "sentence": "Who is the creator of the TV series \"Friends\"?",
     "correct": "David Crane and Marta Kauffman",
     "choices": [
-      "David Crane and Marta Kauffman",
       "Jerry Seinfeld",
-      "Larry David",
-      "Chuck Lorre"
+      "David Crane and Marta Kauffman",
+      "Chuck Lorre",
+      "Larry David"
     ]
   },
   {
@@ -424,21 +544,36 @@
     "difficulty": "Easy",
     "sentence": "In what year did World War I begin?",
     "correct": "1914",
-    "choices": ["1914", "1918", "1939", "1945"]
+    "choices": [
+      "1939",
+      "1914",
+      "1945",
+      "1918"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Medium",
     "sentence": "What is the largest country in South America?",
     "correct": "Brazil",
-    "choices": ["Brazil", "Argentina", "Peru", "Colombia"]
+    "choices": [
+      "Argentina",
+      "Colombia",
+      "Peru",
+      "Brazil"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Hard",
     "sentence": "What is the scientific term for the study of birds?",
     "correct": "Ornithology",
-    "choices": ["Ornithology", "Zoology", "Botany", "Entomology"]
+    "choices": [
+      "Entomology",
+      "Ornithology",
+      "Botany",
+      "Zoology"
+    ]
   },
   {
     "category": "Movies",
@@ -446,9 +581,9 @@
     "sentence": "Who directed the movie \"The Shawshank Redemption\"?",
     "correct": "Frank Darabont",
     "choices": [
+      "Quentin Tarantino",
       "Frank Darabont",
       "Martin Scorsese",
-      "Quentin Tarantino",
       "Steven Spielberg"
     ]
   },
@@ -457,28 +592,48 @@
     "difficulty": "Hard",
     "sentence": "Who holds the record for the most home runs in a single MLB season?",
     "correct": "Barry Bonds",
-    "choices": ["Barry Bonds", "Babe Ruth", "Hank Aaron", "Sammy Sosa"]
+    "choices": [
+      "Barry Bonds",
+      "Sammy Sosa",
+      "Babe Ruth",
+      "Hank Aaron"
+    ]
   },
   {
     "category": "Literature",
     "difficulty": "Medium",
     "sentence": "In which book series would you find the character Katniss Everdeen?",
     "correct": "The Hunger Games",
-    "choices": ["The Hunger Games", "Harry Potter", "Twilight", "Divergent"]
+    "choices": [
+      "The Hunger Games",
+      "Harry Potter",
+      "Twilight",
+      "Divergent"
+    ]
   },
   {
     "category": "Technology",
     "difficulty": "Easy",
     "sentence": "Who is the CEO of Tesla Motors?",
     "correct": "Elon Musk",
-    "choices": ["Elon Musk", "Jeff Bezos", "Mark Zuckerberg", "Tim Cook"]
+    "choices": [
+      "Tim Cook",
+      "Mark Zuckerberg",
+      "Elon Musk",
+      "Jeff Bezos"
+    ]
   },
   {
     "category": "Miscellaneous",
     "difficulty": "Hard",
     "sentence": "What is the longest river in the world?",
     "correct": "Nile",
-    "choices": ["Nile", "Amazon", "Mississippi", "Yangtze"]
+    "choices": [
+      "Amazon",
+      "Yangtze",
+      "Nile",
+      "Mississippi"
+    ]
   },
   {
     "category": "Music",
@@ -487,9 +642,9 @@
     "correct": "Georges Bizet",
     "choices": [
       "Georges Bizet",
-      "Giuseppe Verdi",
+      "Wolfgang Amadeus Mozart",
       "Richard Wagner",
-      "Wolfgang Amadeus Mozart"
+      "Giuseppe Verdi"
     ]
   },
   {
@@ -497,21 +652,36 @@
     "difficulty": "Easy",
     "sentence": "Who is the lead vocalist of the band Coldplay?",
     "correct": "Chris Martin",
-    "choices": ["Chris Martin", "Adam Levine", "Brandon Flowers", "Thom Yorke"]
+    "choices": [
+      "Thom Yorke",
+      "Brandon Flowers",
+      "Adam Levine",
+      "Chris Martin"
+    ]
   },
   {
     "category": "History",
     "difficulty": "Hard",
     "sentence": "Who was the first female pharaoh of ancient Egypt?",
     "correct": "Hatshepsut",
-    "choices": ["Hatshepsut", "Cleopatra", "Nefertiti", "Ankhesenamun"]
+    "choices": [
+      "Hatshepsut",
+      "Nefertiti",
+      "Ankhesenamun",
+      "Cleopatra"
+    ]
   },
   {
     "category": "Food and Drink",
     "difficulty": "Medium",
     "sentence": "What is the primary ingredient in a Caesar salad dressing?",
     "correct": "Anchovies",
-    "choices": ["Anchovies", "Parmesan cheese", "Olive oil", "Garlic"]
+    "choices": [
+      "Olive oil",
+      "Parmesan cheese",
+      "Garlic",
+      "Anchovies"
+    ]
   },
   {
     "category": "Literature",
@@ -519,10 +689,10 @@
     "sentence": "Who wrote the novel \"Moby-Dick\"?",
     "correct": "Herman Melville",
     "choices": [
-      "Herman Melville",
-      "Charles Dickens",
+      "Jane Austen",
       "Mark Twain",
-      "Jane Austen"
+      "Charles Dickens",
+      "Herman Melville"
     ]
   },
   {
@@ -531,9 +701,9 @@
     "sentence": "Who composed the ballet \"Swan Lake\"?",
     "correct": "Pyotr Ilyich Tchaikovsky",
     "choices": [
-      "Pyotr Ilyich Tchaikovsky",
       "Igor Stravinsky",
       "Johann Strauss II",
+      "Pyotr Ilyich Tchaikovsky",
       "Claude Debussy"
     ]
   },
@@ -542,49 +712,84 @@
     "difficulty": "Easy",
     "sentence": "Who played the character Neo in \"The Matrix\" film series?",
     "correct": "Keanu Reeves",
-    "choices": ["Keanu Reeves", "Will Smith", "Tom Cruise", "Brad Pitt"]
+    "choices": [
+      "Keanu Reeves",
+      "Will Smith",
+      "Brad Pitt",
+      "Tom Cruise"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Hard",
     "sentence": "What is the largest planet in our solar system?",
     "correct": "Jupiter",
-    "choices": ["Jupiter", "Saturn", "Mars", "Neptune"]
+    "choices": [
+      "Jupiter",
+      "Saturn",
+      "Neptune",
+      "Mars"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Medium",
     "sentence": "In which sport is the Ryder Cup contested?",
     "correct": "Golf",
-    "choices": ["Golf", "Tennis", "Soccer", "Basketball"]
+    "choices": [
+      "Basketball",
+      "Soccer",
+      "Golf",
+      "Tennis"
+    ]
   },
   {
     "category": "Mythology",
     "difficulty": "Easy",
     "sentence": "Who is the Greek god of the sea?",
     "correct": "Poseidon",
-    "choices": ["Poseidon", "Zeus", "Hades", "Apollo"]
+    "choices": [
+      "Apollo",
+      "Poseidon",
+      "Hades",
+      "Zeus"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Hard",
     "sentence": "Which city is located on two continents?",
     "correct": "Istanbul",
-    "choices": ["Istanbul", "Rome", "Cairo", "Moscow"]
+    "choices": [
+      "Moscow",
+      "Istanbul",
+      "Rome",
+      "Cairo"
+    ]
   },
   {
     "category": "Technology",
     "difficulty": "Medium",
     "sentence": "Who is the co-founder of Apple Inc.?",
     "correct": "Steve Jobs",
-    "choices": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Larry Page"]
+    "choices": [
+      "Bill Gates",
+      "Larry Page",
+      "Steve Jobs",
+      "Mark Zuckerberg"
+    ]
   },
   {
     "category": "Miscellaneous",
     "difficulty": "Easy",
     "sentence": "How many sides does a hexagon have?",
     "correct": "6",
-    "choices": ["6", "4", "8", "10"]
+    "choices": [
+      "8",
+      "4",
+      "6",
+      "10"
+    ]
   },
   {
     "category": "Music",
@@ -593,9 +798,9 @@
     "correct": "Ludwig van Beethoven",
     "choices": [
       "Ludwig van Beethoven",
-      "Wolfgang Amadeus Mozart",
+      "Franz Schubert",
       "Johann Sebastian Bach",
-      "Franz Schubert"
+      "Wolfgang Amadeus Mozart"
     ]
   },
   {
@@ -603,21 +808,36 @@
     "difficulty": "Medium",
     "sentence": "Who is the creator of the TV series \"The Office\" (U.S. version)?",
     "correct": "Greg Daniels",
-    "choices": ["Greg Daniels", "Ricky Gervais", "Steve Carell", "Larry David"]
+    "choices": [
+      "Ricky Gervais",
+      "Steve Carell",
+      "Greg Daniels",
+      "Larry David"
+    ]
   },
   {
     "category": "History",
     "difficulty": "Easy",
     "sentence": "In what year did the United States declare its independence from Great Britain?",
     "correct": "1776",
-    "choices": ["1776", "1789", "1812", "1865"]
+    "choices": [
+      "1776",
+      "1865",
+      "1789",
+      "1812"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Medium",
     "sentence": "Which country is known as the \"Land of the Rising Sun\"?",
     "correct": "Japan",
-    "choices": ["Japan", "China", "South Korea", "Vietnam"]
+    "choices": [
+      "South Korea",
+      "Vietnam",
+      "Japan",
+      "China"
+    ]
   },
   {
     "category": "Science",
@@ -625,10 +845,10 @@
     "sentence": "What is the largest species of shark?",
     "correct": "Whale shark",
     "choices": [
-      "Whale shark",
       "Great white shark",
       "Tiger shark",
-      "Hammerhead shark"
+      "Hammerhead shark",
+      "Whale shark"
     ]
   },
   {
@@ -637,23 +857,11 @@
     "sentence": "Who directed the movie \"The Godfather\"?",
     "correct": "Francis Ford Coppola",
     "choices": [
+      "Quentin Tarantino",
       "Francis Ford Coppola",
-      "Stanley Kubrick",
       "Alfred Hitchcock",
-      "Quentin Tarantino"
+      "Stanley Kubrick"
     ]
-  },
-  {
-    "category": "Sports",
-    "difficulty": "Hard",
-    "sentence": "Who holds the record for the most goals scored in international football?",
-    "correct": "Ali Daei"
-  },
-  {
-    "category": "Literature",
-    "difficulty": "Medium",
-    "sentence": "In which book would you find the characters Frodo Baggins and Gandalf?",
-    "correct": "The Lord of the Rings"
   },
   {
     "category": "Technology",
@@ -662,9 +870,9 @@
     "correct": "Uniform Resource Locator",
     "choices": [
       "Uniform Resource Locator",
-      "Universal Remote Link",
+      "User-Review Locomotion",
       "United Republic of Languages",
-      "User-Review Locomotion"
+      "Universal Remote Link"
     ]
   },
   {
@@ -673,10 +881,10 @@
     "sentence": "What is the largest desert in the world?",
     "correct": "Sahara Desert",
     "choices": [
+      "Antarctic Desert",
       "Sahara Desert",
       "Gobi Desert",
-      "Arabian Desert",
-      "Antarctic Desert"
+      "Arabian Desert"
     ]
   },
   {
@@ -685,10 +893,10 @@
     "sentence": "Who composed the symphony \"Symphony No. 6, Pastoral\"?",
     "correct": "Ludwig van Beethoven",
     "choices": [
-      "Ludwig van Beethoven",
       "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
+      "Franz Schubert",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach"
     ]
   },
   {
@@ -698,9 +906,9 @@
     "correct": "Mark Hamill",
     "choices": [
       "Mark Hamill",
-      "Harrison Ford",
       "Carrie Fisher",
-      "Alec Guinness"
+      "Alec Guinness",
+      "Harrison Ford"
     ]
   },
   {
@@ -709,10 +917,10 @@
     "sentence": "Who was the last tsar of Russia?",
     "correct": "Nicholas II",
     "choices": [
-      "Nicholas II",
-      "Ivan the Terrible",
       "Peter the Great",
-      "Catherine the Great"
+      "Catherine the Great",
+      "Nicholas II",
+      "Ivan the Terrible"
     ]
   },
   {
@@ -720,7 +928,12 @@
     "difficulty": "Medium",
     "sentence": "What is the primary ingredient in sushi?",
     "correct": "Rice",
-    "choices": ["Rice", "Fish", "Seaweed", "Soy sauce"]
+    "choices": [
+      "Rice",
+      "Seaweed",
+      "Soy sauce",
+      "Fish"
+    ]
   },
   {
     "category": "Literature",
@@ -728,10 +941,10 @@
     "sentence": "Who wrote the novel \"1984\"?",
     "correct": "George Orwell",
     "choices": [
-      "George Orwell",
       "Aldous Huxley",
+      "J.D. Salinger",
       "Ray Bradbury",
-      "J.D. Salinger"
+      "George Orwell"
     ]
   },
   {
@@ -740,9 +953,9 @@
     "sentence": "Who composed the opera \"La Traviata\"?",
     "correct": "Giuseppe Verdi",
     "choices": [
-      "Giuseppe Verdi",
-      "Richard Wagner",
       "Wolfgang Amadeus Mozart",
+      "Richard Wagner",
+      "Giuseppe Verdi",
       "Ludwig van Beethoven"
     ]
   },
@@ -751,49 +964,84 @@
     "difficulty": "Easy",
     "sentence": "Who played the character Hermione Granger in the Harry Potter film series?",
     "correct": "Emma Watson",
-    "choices": ["Emma Watson", "Daniel Radcliffe", "Rupert Grint", "Tom Felton"]
+    "choices": [
+      "Tom Felton",
+      "Emma Watson",
+      "Rupert Grint",
+      "Daniel Radcliffe"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Hard",
     "sentence": "What is the smallest planet in our solar system?",
     "correct": "Mercury",
-    "choices": ["Mercury", "Venus", "Mars", "Pluto"]
+    "choices": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Pluto"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Medium",
     "sentence": "Which country has won the most FIFA World Cup titles?",
     "correct": "Brazil",
-    "choices": ["Brazil", "Germany", "Italy", "Argentina"]
+    "choices": [
+      "Argentina",
+      "Brazil",
+      "Italy",
+      "Germany"
+    ]
   },
   {
     "category": "Mythology",
     "difficulty": "Easy",
     "sentence": "Who is the Roman goddess of love and beauty?",
     "correct": "Venus",
-    "choices": ["Venus", "Juno", "Minerva", "Diana"]
+    "choices": [
+      "Minerva",
+      "Venus",
+      "Diana",
+      "Juno"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Hard",
     "sentence": "Which mountain range is located in South America?",
     "correct": "Andes",
-    "choices": ["Andes", "Himalayas", "Rockies", "Alps"]
+    "choices": [
+      "Himalayas",
+      "Andes",
+      "Alps",
+      "Rockies"
+    ]
   },
   {
     "category": "Technology",
     "difficulty": "Medium",
     "sentence": "Who is the CEO of Facebook?",
     "correct": "Mark Zuckerberg",
-    "choices": ["Mark Zuckerberg", "Tim Cook", "Jeff Bezos", "Sundar Pichai"]
+    "choices": [
+      "Tim Cook",
+      "Sundar Pichai",
+      "Mark Zuckerberg",
+      "Jeff Bezos"
+    ]
   },
   {
     "category": "Miscellaneous",
     "difficulty": "Easy",
     "sentence": "How many planets are there in our solar system?",
     "correct": "8",
-    "choices": ["8", "9", "7", "6"]
+    "choices": [
+      "8",
+      "7",
+      "6",
+      "9"
+    ]
   },
   {
     "category": "Music",
@@ -813,9 +1061,9 @@
     "sentence": "Who is the creator of the TV series \"Breaking Bad\"?",
     "correct": "Vince Gilligan",
     "choices": [
-      "Vince Gilligan",
-      "Matthew Weiner",
       "David Chase",
+      "Matthew Weiner",
+      "Vince Gilligan",
       "Aaron Sorkin"
     ]
   },
@@ -824,21 +1072,36 @@
     "difficulty": "Easy",
     "sentence": "In what year did World War II end?",
     "correct": "1945",
-    "choices": ["1945", "1939", "1918", "1955"]
+    "choices": [
+      "1939",
+      "1945",
+      "1918",
+      "1955"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Medium",
     "sentence": "Which country is known as the \"Land of Fire and Ice\"?",
     "correct": "Iceland",
-    "choices": ["Iceland", "Greenland", "Norway", "Finland"]
+    "choices": [
+      "Iceland",
+      "Finland",
+      "Norway",
+      "Greenland"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Hard",
     "sentence": "What is the largest organ in the human body?",
     "correct": "Skin",
-    "choices": ["Skin", "Liver", "Heart", "Brain"]
+    "choices": [
+      "Brain",
+      "Skin",
+      "Heart",
+      "Liver"
+    ]
   },
   {
     "category": "Movies",
@@ -846,10 +1109,10 @@
     "sentence": "Who directed the movie \"The Dark Knight\"?",
     "correct": "Christopher Nolan",
     "choices": [
-      "Christopher Nolan",
       "Martin Scorsese",
-      "Quentin Tarantino",
-      "Steven Spielberg"
+      "Steven Spielberg",
+      "Christopher Nolan",
+      "Quentin Tarantino"
     ]
   },
   {
@@ -857,7 +1120,12 @@
     "difficulty": "Hard",
     "sentence": "Who holds the record for the most Olympic gold medals?",
     "correct": "Michael Phelps",
-    "choices": ["Michael Phelps", "Usain Bolt", "Simone Biles", "Carl Lewis"]
+    "choices": [
+      "Simone Biles",
+      "Usain Bolt",
+      "Carl Lewis",
+      "Michael Phelps"
+    ]
   },
   {
     "category": "Literature",
@@ -865,10 +1133,10 @@
     "sentence": "In which book would you find the character Jay Gatsby?",
     "correct": "The Great Gatsby",
     "choices": [
-      "The Great Gatsby",
-      "Pride and Prejudice",
       "To Kill a Mockingbird",
-      "The Catcher in the Rye"
+      "Pride and Prejudice",
+      "The Catcher in the Rye",
+      "The Great Gatsby"
     ]
   },
   {
@@ -877,10 +1145,10 @@
     "sentence": "What does the acronym \"PDF\" stand for?",
     "correct": "Portable Document Format",
     "choices": [
-      "Portable Document Format",
       "Personal Data File",
+      "Public Domain Folder",
       "Professional Development Framework",
-      "Public Domain Folder"
+      "Portable Document Format"
     ]
   },
   {
@@ -888,7 +1156,12 @@
     "difficulty": "Hard",
     "sentence": "What is the coldest continent on Earth?",
     "correct": "Antarctica",
-    "choices": ["Antarctica", "Asia", "Europe", "Africa"]
+    "choices": [
+      "Africa",
+      "Europe",
+      "Antarctica",
+      "Asia"
+    ]
   },
   {
     "category": "History",
@@ -896,10 +1169,10 @@
     "sentence": "Who was the first president of the United States?",
     "correct": "George Washington",
     "choices": [
-      "George Washington",
+      "Benjamin Franklin",
       "Thomas Jefferson",
       "Abraham Lincoln",
-      "Benjamin Franklin"
+      "George Washington"
     ]
   },
   {
@@ -907,14 +1180,24 @@
     "difficulty": "Medium",
     "sentence": "What is the largest country by land area in South America?",
     "correct": "Brazil",
-    "choices": ["Brazil", "Argentina", "Peru", "Colombia"]
+    "choices": [
+      "Argentina",
+      "Brazil",
+      "Peru",
+      "Colombia"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Hard",
     "sentence": "What is the smallest bone in the human body?",
     "correct": "Stapes",
-    "choices": ["Stapes", "Femur", "Tibia", "Humerus"]
+    "choices": [
+      "Femur",
+      "Humerus",
+      "Stapes",
+      "Tibia"
+    ]
   },
   {
     "category": "Art",
@@ -922,10 +1205,10 @@
     "sentence": "Who painted the famous mural on the ceiling of the Sistine Chapel?",
     "correct": "Michelangelo",
     "choices": [
-      "Michelangelo",
       "Leonardo da Vinci",
+      "Vincent van Gogh",
       "Pablo Picasso",
-      "Vincent van Gogh"
+      "Michelangelo"
     ]
   },
   {
@@ -933,7 +1216,12 @@
     "difficulty": "Easy",
     "sentence": "In which sport do competitors use a shuttlecock?",
     "correct": "Badminton",
-    "choices": ["Badminton", "Tennis", "Table Tennis", "Squash"]
+    "choices": [
+      "Badminton",
+      "Table Tennis",
+      "Tennis",
+      "Squash"
+    ]
   },
   {
     "category": "History",
@@ -941,8 +1229,8 @@
     "sentence": "Which battle marked the end of Napoleon Bonaparte's rule as Emperor of the French?",
     "correct": "Battle of Waterloo",
     "choices": [
-      "Battle of Waterloo",
       "Battle of Austerlitz",
+      "Battle of Waterloo",
       "Battle of Trafalgar",
       "Battle of Leipzig"
     ]
@@ -952,7 +1240,12 @@
     "difficulty": "Medium",
     "sentence": "Which African country is known as the \"Land of a Thousand Hills\"?",
     "correct": "Rwanda",
-    "choices": ["Rwanda", "Kenya", "Tanzania", "Uganda"]
+    "choices": [
+      "Uganda",
+      "Tanzania",
+      "Kenya",
+      "Rwanda"
+    ]
   },
   {
     "category": "Art",
@@ -960,8 +1253,8 @@
     "sentence": "Who painted the famous artwork \"The Starry Night\"?",
     "correct": "Vincent van Gogh",
     "choices": [
-      "Vincent van Gogh",
       "Pablo Picasso",
+      "Vincent van Gogh",
       "Leonardo da Vinci",
       "Michelangelo"
     ]
@@ -972,10 +1265,10 @@
     "sentence": "Which American author wrote the novel \"Moby-Dick\"?",
     "correct": "Herman Melville",
     "choices": [
-      "Herman Melville",
       "Mark Twain",
-      "F. Scott Fitzgerald",
-      "Ernest Hemingway"
+      "Herman Melville",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald"
     ]
   },
   {
@@ -983,7 +1276,12 @@
     "difficulty": "Easy",
     "sentence": "Which country won the first FIFA World Cup in 1930?",
     "correct": "Uruguay",
-    "choices": ["Uruguay", "Brazil", "Argentina", "Italy"]
+    "choices": [
+      "Italy",
+      "Argentina",
+      "Uruguay",
+      "Brazil"
+    ]
   },
   {
     "category": "History",
@@ -991,10 +1289,10 @@
     "sentence": "Which U.S. president signed the Emancipation Proclamation?",
     "correct": "Abraham Lincoln",
     "choices": [
+      "Franklin D. Roosevelt",
       "Abraham Lincoln",
       "Thomas Jefferson",
-      "George Washington",
-      "Franklin D. Roosevelt"
+      "George Washington"
     ]
   },
   {
@@ -1002,35 +1300,60 @@
     "difficulty": "Hard",
     "sentence": "What is the capital city of New Zealand?",
     "correct": "Wellington",
-    "choices": ["Wellington", "Auckland", "Christchurch", "Queenstown"]
+    "choices": [
+      "Wellington",
+      "Auckland",
+      "Christchurch",
+      "Queenstown"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Medium",
     "sentence": "What is the chemical symbol for sodium?",
     "correct": "Na",
-    "choices": ["Na", "Ne", "Ni", "N"]
+    "choices": [
+      "Ne",
+      "Ni",
+      "N",
+      "Na"
+    ]
   },
   {
     "category": "Art",
     "difficulty": "Hard",
     "sentence": "Who sculpted the statue of David?",
     "correct": "Michelangelo",
-    "choices": ["Michelangelo", "Auguste Rodin", "Donatello", "Antonio Canova"]
+    "choices": [
+      "Michelangelo",
+      "Antonio Canova",
+      "Auguste Rodin",
+      "Donatello"
+    ]
   },
   {
     "category": "Literature",
     "difficulty": "Easy",
     "sentence": "In which play by William Shakespeare does the character Hamlet appear?",
     "correct": "Hamlet",
-    "choices": ["Hamlet", "Romeo and Juliet", "Macbeth", "Othello"]
+    "choices": [
+      "Macbeth",
+      "Romeo and Juliet",
+      "Othello",
+      "Hamlet"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Medium",
     "sentence": "Which country hosted the 2018 Winter Olympics?",
     "correct": "South Korea",
-    "choices": ["South Korea", "Russia", "Canada", "Japan"]
+    "choices": [
+      "Japan",
+      "Canada",
+      "Russia",
+      "South Korea"
+    ]
   },
   {
     "category": "History",
@@ -1038,9 +1361,9 @@
     "sentence": "Who was the first female Prime Minister of the United Kingdom?",
     "correct": "Margaret Thatcher",
     "choices": [
-      "Margaret Thatcher",
-      "Angela Merkel",
       "Indira Gandhi",
+      "Angela Merkel",
+      "Margaret Thatcher",
       "Golda Meir"
     ]
   },
@@ -1049,14 +1372,24 @@
     "difficulty": "Easy",
     "sentence": "What is the capital city of Canada?",
     "correct": "Ottawa",
-    "choices": ["Ottawa", "Toronto", "Vancouver", "Montreal"]
+    "choices": [
+      "Vancouver",
+      "Ottawa",
+      "Toronto",
+      "Montreal"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Medium",
     "sentence": "What is the chemical symbol for iron?",
     "correct": "Fe",
-    "choices": ["Fe", "Ag", "Au", "Cu"]
+    "choices": [
+      "Au",
+      "Fe",
+      "Cu",
+      "Ag"
+    ]
   },
   {
     "category": "Art",
@@ -1064,10 +1397,10 @@
     "sentence": "Which artist painted the famous work \"Guernica\"?",
     "correct": "Pablo Picasso",
     "choices": [
-      "Pablo Picasso",
-      "Vincent van Gogh",
+      "Michelangelo",
       "Leonardo da Vinci",
-      "Michelangelo"
+      "Pablo Picasso",
+      "Vincent van Gogh"
     ]
   },
   {
@@ -1076,10 +1409,10 @@
     "sentence": "Who wrote the novel \"Pride and Prejudice\"?",
     "correct": "Jane Austen",
     "choices": [
+      "Virginia Woolf",
       "Jane Austen",
-      "Emily Bronte",
       "Charlotte Bronte",
-      "Virginia Woolf"
+      "Emily Bronte"
     ]
   },
   {
@@ -1087,14 +1420,24 @@
     "difficulty": "Medium",
     "sentence": "Which country won the most medals in the 2020 Summer Olympics?",
     "correct": "United States",
-    "choices": ["United States", "China", "Russia", "Japan"]
+    "choices": [
+      "China",
+      "Russia",
+      "United States",
+      "Japan"
+    ]
   },
   {
     "category": "History",
     "difficulty": "Hard",
     "sentence": "Which country was ruled by dictator Adolf Hitler during World War II?",
     "correct": "Germany",
-    "choices": ["Germany", "Italy", "Japan", "Soviet Union"]
+    "choices": [
+      "Soviet Union",
+      "Germany",
+      "Japan",
+      "Italy"
+    ]
   },
   {
     "category": "Geography",
@@ -1102,10 +1445,10 @@
     "sentence": "What is the largest ocean in the world?",
     "correct": "Pacific Ocean",
     "choices": [
-      "Pacific Ocean",
+      "Arctic Ocean",
       "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Pacific Ocean",
+      "Indian Ocean"
     ]
   },
   {
@@ -1113,7 +1456,12 @@
     "difficulty": "Medium",
     "sentence": "What is the chemical symbol for hydrogen?",
     "correct": "H",
-    "choices": ["H", "He", "O", "C"]
+    "choices": [
+      "He",
+      "H",
+      "C",
+      "O"
+    ]
   },
   {
     "category": "Literature",
@@ -1121,10 +1469,10 @@
     "sentence": "In the novel \"To Kill a Mockingbird,\" who is the author?",
     "correct": "Harper Lee",
     "choices": [
+      "Ernest Hemingway",
       "Harper Lee",
-      "J.D. Salinger",
       "F. Scott Fitzgerald",
-      "Ernest Hemingway"
+      "J.D. Salinger"
     ]
   },
   {
@@ -1132,28 +1480,48 @@
     "difficulty": "Medium",
     "sentence": "Who holds the record for the most career home runs in Major League Baseball?",
     "correct": "Barry Bonds",
-    "choices": ["Barry Bonds", "Babe Ruth", "Hank Aaron", "Alex Rodriguez"]
+    "choices": [
+      "Babe Ruth",
+      "Hank Aaron",
+      "Alex Rodriguez",
+      "Barry Bonds"
+    ]
   },
   {
     "category": "History",
     "difficulty": "Hard",
     "sentence": "In what year did the United States declare independence from Great Britain?",
     "correct": "1776",
-    "choices": ["1776", "1789", "1812", "1865"]
+    "choices": [
+      "1812",
+      "1865",
+      "1789",
+      "1776"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Easy",
     "sentence": "What is the capital city of Japan?",
     "correct": "Tokyo",
-    "choices": ["Tokyo", "Kyoto", "Osaka", "Hiroshima"]
+    "choices": [
+      "Kyoto",
+      "Hiroshima",
+      "Tokyo",
+      "Osaka"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Medium",
     "sentence": "What is the chemical symbol for oxygen?",
     "correct": "O",
-    "choices": ["O", "H", "C", "N"]
+    "choices": [
+      "C",
+      "O",
+      "N",
+      "H"
+    ]
   },
   {
     "category": "Art",
@@ -1163,8 +1531,8 @@
     "choices": [
       "Leonardo da Vinci",
       "Michelangelo",
-      "Pablo Picasso",
-      "Vincent van Gogh"
+      "Vincent van Gogh",
+      "Pablo Picasso"
     ]
   },
   {
@@ -1173,10 +1541,10 @@
     "sentence": "Who is the author of the \"Harry Potter\" book series?",
     "correct": "J.K. Rowling",
     "choices": [
-      "J.K. Rowling",
       "Stephenie Meyer",
-      "Suzanne Collins",
-      "George R.R. Martin"
+      "George R.R. Martin",
+      "J.K. Rowling",
+      "Suzanne Collins"
     ]
   },
   {
@@ -1184,28 +1552,48 @@
     "difficulty": "Medium",
     "sentence": "Who won the FIFA Women's World Cup in 2019?",
     "correct": "United States",
-    "choices": ["United States", "Netherlands", "Sweden", "England"]
+    "choices": [
+      "England",
+      "Netherlands",
+      "United States",
+      "Sweden"
+    ]
   },
   {
     "category": "History",
     "difficulty": "Hard",
     "sentence": "Who was the first person to step foot on the moon?",
     "correct": "Neil Armstrong",
-    "choices": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"]
+    "choices": [
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Buzz Aldrin",
+      "Alan Shepard"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Easy",
     "sentence": "What is the capital city of France?",
     "correct": "Paris",
-    "choices": ["Paris", "London", "Rome", "Berlin"]
+    "choices": [
+      "Paris",
+      "Berlin",
+      "Rome",
+      "London"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Medium",
     "sentence": "What is the chemical symbol for carbon?",
     "correct": "C",
-    "choices": ["C", "Ca", "Co", "Cr"]
+    "choices": [
+      "Ca",
+      "C",
+      "Co",
+      "Cr"
+    ]
   },
   {
     "category": "Art",
@@ -1214,8 +1602,8 @@
     "correct": "Johannes Vermeer",
     "choices": [
       "Johannes Vermeer",
-      "Claude Monet",
       "Vincent van Gogh",
+      "Claude Monet",
       "Pablo Picasso"
     ]
   },
@@ -1225,10 +1613,10 @@
     "sentence": "Which author wrote the novel \"1984\"?",
     "correct": "George Orwell",
     "choices": [
-      "George Orwell",
+      "Margaret Atwood",
       "Aldous Huxley",
       "Ray Bradbury",
-      "Margaret Atwood"
+      "George Orwell"
     ]
   },
   {
@@ -1237,9 +1625,9 @@
     "sentence": "Who was the first person to sail around the world?",
     "correct": "Ferdinand Magellan",
     "choices": [
+      "James Cook",
       "Ferdinand Magellan",
       "Christopher Columbus",
-      "James Cook",
       "Vasco da Gama"
     ]
   },
@@ -1248,14 +1636,24 @@
     "difficulty": "Easy",
     "sentence": "What is the capital city of Italy?",
     "correct": "Rome",
-    "choices": ["Rome", "Madrid", "Athens", "Lisbon"]
+    "choices": [
+      "Rome",
+      "Madrid",
+      "Athens",
+      "Lisbon"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Medium",
     "sentence": "What is the chemical symbol for silver?",
     "correct": "Ag",
-    "choices": ["Ag", "Au", "Pt", "Cu"]
+    "choices": [
+      "Ag",
+      "Pt",
+      "Cu",
+      "Au"
+    ]
   },
   {
     "category": "Art",
@@ -1263,10 +1661,10 @@
     "sentence": "Who painted the famous artwork \"The Birth of Venus\"?",
     "correct": "Sandro Botticelli",
     "choices": [
-      "Sandro Botticelli",
-      "Leonardo da Vinci",
       "Michelangelo",
-      "Raphael"
+      "Raphael",
+      "Leonardo da Vinci",
+      "Sandro Botticelli"
     ]
   },
   {
@@ -1275,10 +1673,10 @@
     "sentence": "Who wrote the novel \"The Catcher in the Rye\"?",
     "correct": "J.D. Salinger",
     "choices": [
+      "Harper Lee",
       "J.D. Salinger",
-      "F. Scott Fitzgerald",
       "Ernest Hemingway",
-      "Harper Lee"
+      "F. Scott Fitzgerald"
     ]
   },
   {
@@ -1286,28 +1684,48 @@
     "difficulty": "Medium",
     "sentence": "Which country won the most gold medals in the 2020 Summer Olympics?",
     "correct": "United States",
-    "choices": ["United States", "China", "Japan", "Australia"]
+    "choices": [
+      "Japan",
+      "Australia",
+      "China",
+      "United States"
+    ]
   },
   {
     "category": "History",
     "difficulty": "Hard",
     "sentence": "Who was the last pharaoh of ancient Egypt?",
     "correct": "Cleopatra",
-    "choices": ["Cleopatra", "Tutankhamun", "Ramses II", "Alexander the Great"]
+    "choices": [
+      "Ramses II",
+      "Tutankhamun",
+      "Alexander the Great",
+      "Cleopatra"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Easy",
     "sentence": "What is the capital city of Spain?",
     "correct": "Madrid",
-    "choices": ["Madrid", "Barcelona", "Seville", "Valencia"]
+    "choices": [
+      "Valencia",
+      "Barcelona",
+      "Madrid",
+      "Seville"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Medium",
     "sentence": "What is the chemical symbol for nitrogen?",
     "correct": "N",
-    "choices": ["N", "Na", "Ni", "Ne"]
+    "choices": [
+      "Na",
+      "Ni",
+      "N",
+      "Ne"
+    ]
   },
   {
     "category": "Art",
@@ -1315,9 +1733,9 @@
     "sentence": "Who painted the famous artwork \"The Night Watch\"?",
     "correct": "Rembrandt",
     "choices": [
+      "Pablo Picasso",
       "Rembrandt",
       "Vincent van Gogh",
-      "Pablo Picasso",
       "Leonardo da Vinci"
     ]
   },
@@ -1327,10 +1745,10 @@
     "sentence": "Who is the author of the \"The Lord of the Rings\" book series?",
     "correct": "J.R.R. Tolkien",
     "choices": [
-      "J.R.R. Tolkien",
-      "C.S. Lewis",
+      "George R.R. Martin",
       "J.K. Rowling",
-      "George R.R. Martin"
+      "C.S. Lewis",
+      "J.R.R. Tolkien"
     ]
   },
   {
@@ -1338,14 +1756,24 @@
     "difficulty": "Medium",
     "sentence": "Who won the UEFA Euro 2020?",
     "correct": "Italy",
-    "choices": ["Italy", "England", "France", "Germany"]
+    "choices": [
+      "France",
+      "Italy",
+      "Germany",
+      "England"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Medium",
     "sentence": "What is the chemical symbol for calcium?",
     "correct": "Ca",
-    "choices": ["Ca", "Cu", "Co", "Cr"]
+    "choices": [
+      "Ca",
+      "Co",
+      "Cr",
+      "Cu"
+    ]
   },
   {
     "category": "Literature",
@@ -1354,9 +1782,9 @@
     "correct": "F. Scott Fitzgerald",
     "choices": [
       "F. Scott Fitzgerald",
+      "Jane Austen",
       "Ernest Hemingway",
-      "Harper Lee",
-      "Jane Austen"
+      "Harper Lee"
     ]
   },
   {
@@ -1365,10 +1793,10 @@
     "sentence": "Who won the Wimbledon Men's Singles title in 2021?",
     "correct": "Novak Djokovic",
     "choices": [
-      "Novak Djokovic",
+      "Andy Murray",
       "Roger Federer",
       "Rafael Nadal",
-      "Andy Murray"
+      "Novak Djokovic"
     ]
   },
   {
@@ -1376,21 +1804,36 @@
     "difficulty": "Hard",
     "sentence": "Which country was ruled by dictator Joseph Stalin from 1924 to 1953?",
     "correct": "Soviet Union",
-    "choices": ["Soviet Union", "Germany", "Italy", "Japan"]
+    "choices": [
+      "Japan",
+      "Italy",
+      "Soviet Union",
+      "Germany"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Easy",
     "sentence": "What is the capital city of Germany?",
     "correct": "Berlin",
-    "choices": ["Berlin", "Munich", "Frankfurt", "Hamburg"]
+    "choices": [
+      "Hamburg",
+      "Frankfurt",
+      "Berlin",
+      "Munich"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Medium",
     "sentence": "What is the chemical symbol for mercury?",
     "correct": "Hg",
-    "choices": ["Hg", "He", "Fe", "Ag"]
+    "choices": [
+      "He",
+      "Ag",
+      "Hg",
+      "Fe"
+    ]
   },
   {
     "category": "Art",
@@ -1410,10 +1853,10 @@
     "sentence": "Who is the author of the \"The Chronicles of Narnia\" book series?",
     "correct": "C.S. Lewis",
     "choices": [
-      "C.S. Lewis",
       "J.R.R. Tolkien",
       "J.K. Rowling",
-      "George R.R. Martin"
+      "George R.R. Martin",
+      "C.S. Lewis"
     ]
   },
   {
@@ -1421,21 +1864,36 @@
     "difficulty": "Medium",
     "sentence": "Which country hosted the 2016 Summer Olympics?",
     "correct": "Brazil",
-    "choices": ["Brazil", "China", "Russia", "Japan"]
+    "choices": [
+      "China",
+      "Japan",
+      "Russia",
+      "Brazil"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Easy",
     "sentence": "What is the capital city of South Korea?",
     "correct": "Seoul",
-    "choices": ["Seoul", "Busan", "Incheon", "Daegu"]
+    "choices": [
+      "Incheon",
+      "Seoul",
+      "Busan",
+      "Daegu"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Medium",
     "sentence": "What is the chemical symbol for helium?",
     "correct": "He",
-    "choices": ["He", "H", "O", "C"]
+    "choices": [
+      "C",
+      "He",
+      "H",
+      "O"
+    ]
   },
   {
     "category": "Art",
@@ -1444,8 +1902,8 @@
     "correct": "Gustav Klimt",
     "choices": [
       "Gustav Klimt",
-      "Frida Kahlo",
       "Pablo Picasso",
+      "Frida Kahlo",
       "Vincent van Gogh"
     ]
   },
@@ -1455,10 +1913,10 @@
     "sentence": "Who wrote the novel \"The Adventures of Tom Sawyer\"?",
     "correct": "Mark Twain",
     "choices": [
-      "Mark Twain",
-      "Harper Lee",
       "F. Scott Fitzgerald",
-      "Ernest Hemingway"
+      "Mark Twain",
+      "Ernest Hemingway",
+      "Harper Lee"
     ]
   },
   {
@@ -1466,14 +1924,24 @@
     "difficulty": "Easy",
     "sentence": "What is the capital city of China?",
     "correct": "Beijing",
-    "choices": ["Beijing", "Shanghai", "Hong Kong", "Guangzhou"]
+    "choices": [
+      "Guangzhou",
+      "Hong Kong",
+      "Beijing",
+      "Shanghai"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Medium",
     "sentence": "What is the chemical symbol for copper?",
     "correct": "Cu",
-    "choices": ["Cu", "Co", "Ca", "Cr"]
+    "choices": [
+      "Co",
+      "Ca",
+      "Cr",
+      "Cu"
+    ]
   },
   {
     "category": "Art",
@@ -1481,10 +1949,10 @@
     "sentence": "Who painted the famous artwork \"The Girl with the Dragon Tattoo\"?",
     "correct": "Carl Larsson",
     "choices": [
-      "Carl Larsson",
-      "Edvard Munch",
       "Gustav Klimt",
-      "Johannes Vermeer"
+      "Johannes Vermeer",
+      "Carl Larsson",
+      "Edvard Munch"
     ]
   },
   {
@@ -1493,10 +1961,10 @@
     "sentence": "Who is the author of the \"The Hunger Games\" book series?",
     "correct": "Suzanne Collins",
     "choices": [
-      "Suzanne Collins",
       "J.K. Rowling",
+      "George R.R. Martin",
       "Stephenie Meyer",
-      "George R.R. Martin"
+      "Suzanne Collins"
     ]
   },
   {
@@ -1505,8 +1973,8 @@
     "sentence": "Who won the UEFA Champions League in 2021?",
     "correct": "Chelsea",
     "choices": [
-      "Chelsea",
       "Manchester City",
+      "Chelsea",
       "Real Madrid",
       "Paris Saint-Germain"
     ]
@@ -1516,21 +1984,36 @@
     "difficulty": "Hard",
     "sentence": "Who was the first emperor of ancient Rome?",
     "correct": "Augustus",
-    "choices": ["Augustus", "Julius Caesar", "Nero", "Constantine"]
+    "choices": [
+      "Augustus",
+      "Constantine",
+      "Nero",
+      "Julius Caesar"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Easy",
     "sentence": "What is the capital city of India?",
     "correct": "New Delhi",
-    "choices": ["New Delhi", "Mumbai", "Kolkata", "Chennai"]
+    "choices": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Medium",
     "sentence": "What is the chemical symbol for potassium?",
     "correct": "K",
-    "choices": ["K", "Ka", "P", "S"]
+    "choices": [
+      "Ka",
+      "K",
+      "S",
+      "P"
+    ]
   },
   {
     "category": "Art",
@@ -1538,10 +2021,10 @@
     "sentence": "Who painted the famous artwork \"The Birth of Adam\"?",
     "correct": "Michelangelo",
     "choices": [
-      "Michelangelo",
       "Leonardo da Vinci",
-      "Pablo Picasso",
-      "Vincent van Gogh"
+      "Vincent van Gogh",
+      "Michelangelo",
+      "Pablo Picasso"
     ]
   },
   {
@@ -1550,9 +2033,9 @@
     "sentence": "Who is the author of the \"Percy Jackson & the Olympians\" book series?",
     "correct": "Rick Riordan",
     "choices": [
-      "Rick Riordan",
       "J.K. Rowling",
       "Suzanne Collins",
+      "Rick Riordan",
       "George R.R. Martin"
     ]
   },
@@ -1561,28 +2044,48 @@
     "difficulty": "Medium",
     "sentence": "Who won the UEFA European Championship in 2016?",
     "correct": "Portugal",
-    "choices": ["Portugal", "France", "Germany", "Italy"]
+    "choices": [
+      "France",
+      "Germany",
+      "Italy",
+      "Portugal"
+    ]
   },
   {
     "category": "History",
     "difficulty": "Hard",
     "sentence": "Who was the first emperor of China?",
     "correct": "Qin Shi Huang",
-    "choices": ["Qin Shi Huang", "Liu Bang", "Han Wudi", "Tang Taizong"]
+    "choices": [
+      "Han Wudi",
+      "Qin Shi Huang",
+      "Liu Bang",
+      "Tang Taizong"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Easy",
     "sentence": "What is the capital city of Russia?",
     "correct": "Moscow",
-    "choices": ["Moscow", "St. Petersburg", "Novosibirsk", "Yekaterinburg"]
+    "choices": [
+      "St. Petersburg",
+      "Novosibirsk",
+      "Yekaterinburg",
+      "Moscow"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Medium",
     "sentence": "What is the chemical symbol for lead?",
     "correct": "Pb",
-    "choices": ["Pb", "Li", "Be", "Sn"]
+    "choices": [
+      "Li",
+      "Pb",
+      "Sn",
+      "Be"
+    ]
   },
   {
     "category": "Literature",
@@ -1591,9 +2094,9 @@
     "correct": "Douglas Adams",
     "choices": [
       "Douglas Adams",
-      "Terry Pratchett",
+      "Kurt Vonnegut",
       "Ray Bradbury",
-      "Kurt Vonnegut"
+      "Terry Pratchett"
     ]
   },
   {
@@ -1601,7 +2104,12 @@
     "difficulty": "Medium",
     "sentence": "Who won the FIFA Women's World Cup in 2015?",
     "correct": "United States",
-    "choices": ["United States", "Japan", "Germany", "England"]
+    "choices": [
+      "Japan",
+      "England",
+      "United States",
+      "Germany"
+    ]
   },
   {
     "category": "History",
@@ -1609,9 +2117,9 @@
     "sentence": "Who was the first prime minister of India?",
     "correct": "Jawaharlal Nehru",
     "choices": [
-      "Jawaharlal Nehru",
       "Mohandas Gandhi",
       "Indira Gandhi",
+      "Jawaharlal Nehru",
       "Rajiv Gandhi"
     ]
   },
@@ -1620,7 +2128,12 @@
     "difficulty": "Medium",
     "sentence": "What is the chemical symbol for sulfur?",
     "correct": "S",
-    "choices": ["S", "Su", "Se", "Sn"]
+    "choices": [
+      "Se",
+      "Sn",
+      "Su",
+      "S"
+    ]
   },
   {
     "category": "Literature",
@@ -1628,10 +2141,10 @@
     "sentence": "Who is the author of the \"To Kill a Mockingbird\" book?",
     "correct": "Harper Lee",
     "choices": [
-      "Harper Lee",
       "F. Scott Fitzgerald",
-      "J.D. Salinger",
-      "Mark Twain"
+      "Mark Twain",
+      "Harper Lee",
+      "J.D. Salinger"
     ]
   },
   {
@@ -1641,9 +2154,9 @@
     "correct": "Milwaukee Bucks",
     "choices": [
       "Milwaukee Bucks",
-      "Phoenix Suns",
+      "Brooklyn Nets",
       "Los Angeles Lakers",
-      "Brooklyn Nets"
+      "Phoenix Suns"
     ]
   },
   {
@@ -1651,7 +2164,12 @@
     "difficulty": "Medium",
     "sentence": "What is the longest river in Africa?",
     "correct": "Nile",
-    "choices": ["Nile", "Amazon", "Mississippi", "Yangtze"]
+    "choices": [
+      "Mississippi",
+      "Amazon",
+      "Yangtze",
+      "Nile"
+    ]
   },
   {
     "category": "Science",
@@ -1659,8 +2177,8 @@
     "sentence": "Who is credited with discovering the structure of DNA?",
     "correct": "James Watson and Francis Crick",
     "choices": [
-      "James Watson and Francis Crick",
       "Rosalind Franklin",
+      "James Watson and Francis Crick",
       "Linus Pauling",
       "Maurice Wilkins"
     ]
@@ -1670,28 +2188,48 @@
     "difficulty": "Medium",
     "sentence": "In George Orwell's novel \"Animal Farm,\" what animals revolt against their human farmer?",
     "correct": "Pigs",
-    "choices": ["Pigs", "Horses", "Dogs", "Cats"]
+    "choices": [
+      "Cats",
+      "Dogs",
+      "Horses",
+      "Pigs"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Hard",
     "sentence": "Who holds the record for the most home runs in Major League Baseball?",
     "correct": "Barry Bonds",
-    "choices": ["Barry Bonds", "Hank Aaron", "Babe Ruth", "Alex Rodriguez"]
+    "choices": [
+      "Barry Bonds",
+      "Hank Aaron",
+      "Babe Ruth",
+      "Alex Rodriguez"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Medium",
     "sentence": "What is the largest country by land area?",
     "correct": "Russia",
-    "choices": ["Russia", "Canada", "China", "United States"]
+    "choices": [
+      "Russia",
+      "Canada",
+      "United States",
+      "China"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Hard",
     "sentence": "What is the scientific term for the study of fossils?",
     "correct": "Paleontology",
-    "choices": ["Paleontology", "Anthropology", "Geology", "Archaeology"]
+    "choices": [
+      "Paleontology",
+      "Geology",
+      "Anthropology",
+      "Archaeology"
+    ]
   },
   {
     "category": "Sports",
@@ -1699,8 +2237,8 @@
     "sentence": "Who is the all-time leading scorer in NBA history?",
     "correct": "Kareem Abdul-Jabbar",
     "choices": [
-      "Kareem Abdul-Jabbar",
       "LeBron James",
+      "Kareem Abdul-Jabbar",
       "Michael Jordan",
       "Kobe Bryant"
     ]
@@ -1710,7 +2248,12 @@
     "difficulty": "Medium",
     "sentence": "What is the capital city of South Africa?",
     "correct": "Pretoria",
-    "choices": ["Pretoria", "Cape Town", "Johannesburg", "Durban"]
+    "choices": [
+      "Pretoria",
+      "Cape Town",
+      "Durban",
+      "Johannesburg"
+    ]
   },
   {
     "category": "Art",
@@ -1718,10 +2261,10 @@
     "sentence": "Who painted the famous artwork \"Mona Lisa\"?",
     "correct": "Leonardo da Vinci",
     "choices": [
+      "Michelangelo",
       "Leonardo da Vinci",
       "Vincent van Gogh",
-      "Pablo Picasso",
-      "Michelangelo"
+      "Pablo Picasso"
     ]
   },
   {
@@ -1729,7 +2272,12 @@
     "difficulty": "Medium",
     "sentence": "In F. Scott Fitzgerald's novel \"The Great Gatsby,\" what is the full name of the title character?",
     "correct": "Jay Gatsby",
-    "choices": ["Jay Gatsby", "Nick Carraway", "Tom Buchanan", "Daisy Buchanan"]
+    "choices": [
+      "Nick Carraway",
+      "Daisy Buchanan",
+      "Tom Buchanan",
+      "Jay Gatsby"
+    ]
   },
   {
     "category": "History",
@@ -1737,10 +2285,10 @@
     "sentence": "Who was the leader of the Soviet Union during World War II?",
     "correct": "Joseph Stalin",
     "choices": [
+      "Nikita Khrushchev",
       "Joseph Stalin",
-      "Vladimir Lenin",
       "Mikhail Gorbachev",
-      "Nikita Khrushchev"
+      "Vladimir Lenin"
     ]
   },
   {
@@ -1748,14 +2296,24 @@
     "difficulty": "Medium",
     "sentence": "In Harper Lee's novel \"To Kill a Mockingbird,\" who is the protagonist?",
     "correct": "Scout Finch",
-    "choices": ["Scout Finch", "Atticus Finch", "Boo Radley", "Jem Finch"]
+    "choices": [
+      "Scout Finch",
+      "Jem Finch",
+      "Boo Radley",
+      "Atticus Finch"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Hard",
     "sentence": "Who is the most decorated Olympian of all time?",
     "correct": "Michael Phelps",
-    "choices": ["Michael Phelps", "Usain Bolt", "Simone Biles", "Carl Lewis"]
+    "choices": [
+      "Usain Bolt",
+      "Carl Lewis",
+      "Simone Biles",
+      "Michael Phelps"
+    ]
   },
   {
     "category": "History",
@@ -1765,8 +2323,8 @@
     "choices": [
       "Marie Curie",
       "Rosa Parks",
-      "Amelia Earhart",
-      "Florence Nightingale"
+      "Florence Nightingale",
+      "Amelia Earhart"
     ]
   },
   {
@@ -1776,9 +2334,9 @@
     "correct": "Victor Frankenstein",
     "choices": [
       "Victor Frankenstein",
-      "Henry Jekyll",
       "Edward Hyde",
-      "Dr. Moreau"
+      "Dr. Moreau",
+      "Henry Jekyll"
     ]
   },
   {
@@ -1786,7 +2344,12 @@
     "difficulty": "Hard",
     "sentence": "Who is the only boxer to have won world heavyweight titles in four different decades?",
     "correct": "George Foreman",
-    "choices": ["George Foreman", "Muhammad Ali", "Joe Frazier", "Mike Tyson"]
+    "choices": [
+      "Joe Frazier",
+      "Mike Tyson",
+      "George Foreman",
+      "Muhammad Ali"
+    ]
   },
   {
     "category": "Art",
@@ -1794,9 +2357,9 @@
     "sentence": "Who painted the famous artwork \"The Guernica\"?",
     "correct": "Pablo Picasso",
     "choices": [
-      "Pablo Picasso",
-      "Frida Kahlo",
       "Vincent van Gogh",
+      "Frida Kahlo",
+      "Pablo Picasso",
       "Leonardo da Vinci"
     ]
   },
@@ -1806,9 +2369,9 @@
     "sentence": "In Arthur Conan Doyle's stories, what is the famous address of Sherlock Holmes?",
     "correct": "221B Baker Street",
     "choices": [
-      "221B Baker Street",
       "10 Downing Street",
       "1600 Pennsylvania Avenue",
+      "221B Baker Street",
       "10 Downing Street"
     ]
   },
@@ -1817,14 +2380,24 @@
     "difficulty": "Hard",
     "sentence": "Who won the FIFA World Cup in 2018?",
     "correct": "France",
-    "choices": ["France", "Croatia", "Brazil", "Germany"]
+    "choices": [
+      "Germany",
+      "Brazil",
+      "Croatia",
+      "France"
+    ]
   },
   {
     "category": "Literature",
     "difficulty": "Medium",
     "sentence": "In Jules Verne's novel \"Around the World in Eighty Days,\" what is the name of the main character?",
     "correct": "Phileas Fogg",
-    "choices": ["Phileas Fogg", "Captain Nemo", "Tom Sawyer", "Robinson Crusoe"]
+    "choices": [
+      "Robinson Crusoe",
+      "Tom Sawyer",
+      "Phileas Fogg",
+      "Captain Nemo"
+    ]
   },
   {
     "category": "Sports",
@@ -1833,9 +2406,9 @@
     "correct": "Martina Navratilova",
     "choices": [
       "Martina Navratilova",
-      "Serena Williams",
       "Roger Federer",
-      "Pete Sampras"
+      "Pete Sampras",
+      "Serena Williams"
     ]
   },
   {
@@ -1857,9 +2430,9 @@
     "correct": "Huckleberry Finn",
     "choices": [
       "Huckleberry Finn",
-      "Becky Thatcher",
       "Joe Harper",
-      "Sid Sawyer"
+      "Sid Sawyer",
+      "Becky Thatcher"
     ]
   },
   {
@@ -1867,7 +2440,12 @@
     "difficulty": "Hard",
     "sentence": "Who holds the record for the most Olympic gold medals won by an individual?",
     "correct": "Michael Phelps",
-    "choices": ["Michael Phelps", "Usain Bolt", "Simone Biles", "Carl Lewis"]
+    "choices": [
+      "Usain Bolt",
+      "Michael Phelps",
+      "Carl Lewis",
+      "Simone Biles"
+    ]
   },
   {
     "category": "History",
@@ -1875,10 +2453,10 @@
     "sentence": "Who was the first African American President of the United States?",
     "correct": "Barack Obama",
     "choices": [
-      "Barack Obama",
-      "Martin Luther King Jr.",
       "Malcolm X",
-      "Jesse Jackson"
+      "Jesse Jackson",
+      "Barack Obama",
+      "Martin Luther King Jr."
     ]
   },
   {
@@ -1886,35 +2464,60 @@
     "difficulty": "Hard",
     "sentence": "What is the largest moon in the solar system?",
     "correct": "Ganymede",
-    "choices": ["Ganymede", "Titan", "Callisto", "Europa"]
+    "choices": [
+      "Europa",
+      "Ganymede",
+      "Callisto",
+      "Titan"
+    ]
   },
   {
     "category": "Literature",
     "difficulty": "Medium",
     "sentence": "In Lewis Carroll's novel \"Alice's Adventures in Wonderland,\" what is the name of the Cheshire Cat?",
     "correct": "Chessur",
-    "choices": ["Chessur", "March Hare", "White Rabbit", "Mad Hatter"]
+    "choices": [
+      "White Rabbit",
+      "March Hare",
+      "Chessur",
+      "Mad Hatter"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Hard",
     "sentence": "Who is the only athlete to have won Olympic gold in both the 100 meters and the long jump?",
     "correct": "Carl Lewis",
-    "choices": ["Carl Lewis", "Jesse Owens", "Usain Bolt", "Bob Beamon"]
+    "choices": [
+      "Bob Beamon",
+      "Usain Bolt",
+      "Jesse Owens",
+      "Carl Lewis"
+    ]
   },
   {
     "category": "Literature",
     "difficulty": "Medium",
     "sentence": "In Charlotte Brontë's novel \"Jane Eyre,\" what is the name of the male protagonist?",
     "correct": "Mr. Rochester",
-    "choices": ["Mr. Rochester", "Mr. Darcy", "Mr. Bingley", "Mr. Knightley"]
+    "choices": [
+      "Mr. Darcy",
+      "Mr. Bingley",
+      "Mr. Rochester",
+      "Mr. Knightley"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Hard",
     "sentence": "Who is the only male player to have won tennis' calendar-year Grand Slam?",
     "correct": "Rod Laver",
-    "choices": ["Rod Laver", "Roger Federer", "Rafael Nadal", "Novak Djokovic"]
+    "choices": [
+      "Rafael Nadal",
+      "Roger Federer",
+      "Rod Laver",
+      "Novak Djokovic"
+    ]
   },
   {
     "category": "History",
@@ -1923,8 +2526,8 @@
     "correct": "Nikita Khrushchev",
     "choices": [
       "Nikita Khrushchev",
-      "Joseph Stalin",
       "Mikhail Gorbachev",
+      "Joseph Stalin",
       "Vladimir Lenin"
     ]
   },
@@ -1935,9 +2538,9 @@
     "correct": "Steffi Graf",
     "choices": [
       "Steffi Graf",
-      "Serena Williams",
+      "Margaret Court",
       "Martina Navratilova",
-      "Margaret Court"
+      "Serena Williams"
     ]
   },
   {
@@ -1947,9 +2550,9 @@
     "correct": "Thomas Jefferson",
     "choices": [
       "Thomas Jefferson",
+      "John Adams",
       "George Washington",
-      "Benjamin Franklin",
-      "John Adams"
+      "Benjamin Franklin"
     ]
   },
   {
@@ -1958,9 +2561,9 @@
     "sentence": "What is the largest species of lizard?",
     "correct": "Komodo dragon",
     "choices": [
+      "Monitor lizard",
       "Komodo dragon",
       "Green iguana",
-      "Monitor lizard",
       "Gila monster"
     ]
   },
@@ -1969,21 +2572,36 @@
     "difficulty": "Medium",
     "sentence": "In F. Scott Fitzgerald's novel \"The Great Gatsby,\" what is the name of the title character?",
     "correct": "Jay Gatsby",
-    "choices": ["Jay Gatsby", "Tom Buchanan", "Nick Carraway", "Daisy Buchanan"]
+    "choices": [
+      "Daisy Buchanan",
+      "Nick Carraway",
+      "Tom Buchanan",
+      "Jay Gatsby"
+    ]
   },
   {
     "category": "Literature",
     "difficulty": "Medium",
     "sentence": "In J.R.R. Tolkien's novel \"The Hobbit,\" what is the name of the main character?",
     "correct": "Bilbo Baggins",
-    "choices": ["Bilbo Baggins", "Frodo Baggins", "Samwise Gamgee", "Gandalf"]
+    "choices": [
+      "Gandalf",
+      "Bilbo Baggins",
+      "Samwise Gamgee",
+      "Frodo Baggins"
+    ]
   },
   {
     "category": "History",
     "difficulty": "Easy",
     "sentence": "Who is known for painting the ceiling of the Sistine Chapel?",
     "correct": "Michelangelo",
-    "choices": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Botticelli"]
+    "choices": [
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Raphael",
+      "Botticelli"
+    ]
   },
   {
     "category": "Literature",
@@ -1992,9 +2610,9 @@
     "correct": "The Party",
     "choices": [
       "The Party",
+      "The Outer Party",
       "Big Brother",
-      "The Inner Party",
-      "The Outer Party"
+      "The Inner Party"
     ]
   },
   {
@@ -2003,10 +2621,10 @@
     "sentence": "Who was the first person to discover America?",
     "correct": "Christopher Columbus",
     "choices": [
-      "Christopher Columbus",
-      "Leif Erikson",
       "Amerigo Vespucci",
-      "Ferdinand Magellan"
+      "Leif Erikson",
+      "Ferdinand Magellan",
+      "Christopher Columbus"
     ]
   },
   {
@@ -2014,14 +2632,24 @@
     "difficulty": "Medium",
     "sentence": "What is the capital city of Argentina?",
     "correct": "Buenos Aires",
-    "choices": ["Buenos Aires", "Cordoba", "Rosario", "Mendoza"]
+    "choices": [
+      "Mendoza",
+      "Rosario",
+      "Buenos Aires",
+      "Cordoba"
+    ]
   },
   {
     "category": "Literature",
     "difficulty": "Medium",
     "sentence": "In Harper Lee's novel \"To Kill a Mockingbird,\" who is the main character?",
     "correct": "Scout Finch",
-    "choices": ["Scout Finch", "Atticus Finch", "Boo Radley", "Jem Finch"]
+    "choices": [
+      "Boo Radley",
+      "Scout Finch",
+      "Atticus Finch",
+      "Jem Finch"
+    ]
   },
   {
     "category": "Sports",
@@ -2029,10 +2657,10 @@
     "sentence": "Who has won the most Formula One World Championships?",
     "correct": "Lewis Hamilton",
     "choices": [
-      "Lewis Hamilton",
       "Michael Schumacher",
-      "Ayrton Senna",
-      "Sebastian Vettel"
+      "Lewis Hamilton",
+      "Sebastian Vettel",
+      "Ayrton Senna"
     ]
   },
   {
@@ -2040,7 +2668,12 @@
     "difficulty": "Medium",
     "sentence": "What is the capital city of Egypt?",
     "correct": "Cairo",
-    "choices": ["Cairo", "Alexandria", "Giza", "Luxor"]
+    "choices": [
+      "Luxor",
+      "Alexandria",
+      "Cairo",
+      "Giza"
+    ]
   },
   {
     "category": "Art",
@@ -2048,10 +2681,10 @@
     "sentence": "Who painted the famous artwork \"The Thinker\"?",
     "correct": "Auguste Rodin",
     "choices": [
-      "Auguste Rodin",
-      "Edgar Degas",
       "Henri Matisse",
-      "Pierre-Auguste Renoir"
+      "Edgar Degas",
+      "Pierre-Auguste Renoir",
+      "Auguste Rodin"
     ]
   },
   {
@@ -2060,9 +2693,9 @@
     "sentence": "In Jane Austen's novel \"Pride and Prejudice,\" what is the name of the female protagonist?",
     "correct": "Elizabeth Bennet",
     "choices": [
+      "Catherine de Bourgh",
       "Elizabeth Bennet",
       "Jane Bennet",
-      "Catherine de Bourgh",
       "Charlotte Lucas"
     ]
   },
@@ -2071,7 +2704,12 @@
     "difficulty": "Hard",
     "sentence": "Who holds the record for the most career goals in international women's football?",
     "correct": "Christine Sinclair",
-    "choices": ["Christine Sinclair", "Marta", "Abby Wambach", "Birgit Prinz"]
+    "choices": [
+      "Marta",
+      "Birgit Prinz",
+      "Christine Sinclair",
+      "Abby Wambach"
+    ]
   },
   {
     "category": "History",
@@ -2079,10 +2717,10 @@
     "sentence": "Who was the first female astronaut in space?",
     "correct": "Valentina Tereshkova",
     "choices": [
-      "Valentina Tereshkova",
       "Sally Ride",
+      "Eileen Collins",
       "Mae Jemison",
-      "Eileen Collins"
+      "Valentina Tereshkova"
     ]
   },
   {
@@ -2090,21 +2728,36 @@
     "difficulty": "Easy",
     "sentence": "In William Shakespeare's play \"Romeo and Juliet,\" which family does Romeo belong to?",
     "correct": "Montague",
-    "choices": ["Montague", "Capulet", "Borgia", "Medici"]
+    "choices": [
+      "Medici",
+      "Montague",
+      "Borgia",
+      "Capulet"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Medium",
     "sentence": "Which country hosted the 2018 FIFA World Cup?",
     "correct": "Russia",
-    "choices": ["Russia", "Brazil", "Germany", "France"]
+    "choices": [
+      "France",
+      "Brazil",
+      "Russia",
+      "Germany"
+    ]
   },
   {
     "category": "History",
     "difficulty": "Hard",
     "sentence": "Which European city is known as the \"Eternal City\"?",
     "correct": "Rome",
-    "choices": ["Rome", "Athens", "Istanbul", "Vienna"]
+    "choices": [
+      "Athens",
+      "Vienna",
+      "Rome",
+      "Istanbul"
+    ]
   },
   {
     "category": "History",
@@ -2112,10 +2765,10 @@
     "sentence": "Which famous battle took place in 1066 and led to the Norman conquest of England?",
     "correct": "Battle of Hastings",
     "choices": [
-      "Battle of Hastings",
-      "Battle of Waterloo",
       "Battle of Thermopylae",
-      "Battle of Stalingrad"
+      "Battle of Hastings",
+      "Battle of Stalingrad",
+      "Battle of Waterloo"
     ]
   },
   {
@@ -2124,10 +2777,10 @@
     "sentence": "Who painted the famous artwork \"Girl with a Pearl Earring\"?",
     "correct": "Johannes Vermeer",
     "choices": [
-      "Johannes Vermeer",
-      "Rembrandt",
+      "Pablo Picasso",
       "Vincent van Gogh",
-      "Pablo Picasso"
+      "Rembrandt",
+      "Johannes Vermeer"
     ]
   },
   {
@@ -2136,10 +2789,10 @@
     "sentence": "Who won the UEFA Champions League in 2020?",
     "correct": "Bayern Munich",
     "choices": [
-      "Bayern Munich",
-      "Paris Saint-Germain",
       "Liverpool",
-      "Barcelona"
+      "Paris Saint-Germain",
+      "Barcelona",
+      "Bayern Munich"
     ]
   },
   {
@@ -2147,28 +2800,48 @@
     "difficulty": "Hard",
     "sentence": "Who was the first person to set foot on the Moon?",
     "correct": "Neil Armstrong",
-    "choices": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"]
+    "choices": [
+      "Neil Armstrong",
+      "Alan Shepard",
+      "Buzz Aldrin",
+      "Yuri Gagarin"
+    ]
   },
   {
     "category": "Literature",
     "difficulty": "Easy",
     "sentence": "In Mark Twain's novel \"Adventures of Huckleberry Finn,\" who is the best friend of the title character?",
     "correct": "Tom Sawyer",
-    "choices": ["Tom Sawyer", "Jim", "Becky Thatcher", "Aunt Polly"]
+    "choices": [
+      "Aunt Polly",
+      "Becky Thatcher",
+      "Jim",
+      "Tom Sawyer"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Medium",
     "sentence": "Who won the FIFA World Cup in 2002?",
     "correct": "Brazil",
-    "choices": ["Brazil", "Germany", "Italy", "France"]
+    "choices": [
+      "Brazil",
+      "France",
+      "Italy",
+      "Germany"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Medium",
     "sentence": "What is the smallest country in the world?",
     "correct": "Vatican City",
-    "choices": ["Vatican City", "Monaco", "Nauru", "Tuvalu"]
+    "choices": [
+      "Monaco",
+      "Vatican City",
+      "Tuvalu",
+      "Nauru"
+    ]
   },
   {
     "category": "Art",
@@ -2178,8 +2851,8 @@
     "choices": [
       "Andy Warhol",
       "Jackson Pollock",
-      "Pablo Picasso",
-      "Vincent van Gogh"
+      "Vincent van Gogh",
+      "Pablo Picasso"
     ]
   },
   {
@@ -2187,14 +2860,24 @@
     "difficulty": "Medium",
     "sentence": "In Harper Lee's novel \"To Kill a Mockingbird,\" who is the narrator?",
     "correct": "Scout Finch",
-    "choices": ["Scout Finch", "Atticus Finch", "Jem Finch", "Boo Radley"]
+    "choices": [
+      "Atticus Finch",
+      "Jem Finch",
+      "Boo Radley",
+      "Scout Finch"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Medium",
     "sentence": "Which country is the largest producer of coffee in the world?",
     "correct": "Brazil",
-    "choices": ["Brazil", "Colombia", "Vietnam", "Ethiopia"]
+    "choices": [
+      "Brazil",
+      "Colombia",
+      "Ethiopia",
+      "Vietnam"
+    ]
   },
   {
     "category": "History",
@@ -2202,10 +2885,10 @@
     "sentence": "Which famous scientist formulated the theory of general relativity?",
     "correct": "Albert Einstein",
     "choices": [
-      "Albert Einstein",
-      "Isaac Newton",
       "Galileo Galilei",
-      "Nikola Tesla"
+      "Albert Einstein",
+      "Nikola Tesla",
+      "Isaac Newton"
     ]
   },
   {
@@ -2213,14 +2896,24 @@
     "difficulty": "Hard",
     "sentence": "Which country won the UEFA European Championship in 2016?",
     "correct": "Portugal",
-    "choices": ["Portugal", "France", "Germany", "Italy"]
+    "choices": [
+      "France",
+      "Portugal",
+      "Germany",
+      "Italy"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Medium",
     "sentence": "What is the largest continent by land area?",
     "correct": "Asia",
-    "choices": ["Asia", "Africa", "North America", "South America"]
+    "choices": [
+      "North America",
+      "Asia",
+      "South America",
+      "Africa"
+    ]
   },
   {
     "category": "Art",
@@ -2228,10 +2921,10 @@
     "sentence": "Which artist is famous for painting the \"Mona Lisa\"?",
     "correct": "Leonardo da Vinci",
     "choices": [
-      "Leonardo da Vinci",
-      "Vincent van Gogh",
       "Pablo Picasso",
-      "Michelangelo"
+      "Michelangelo",
+      "Vincent van Gogh",
+      "Leonardo da Vinci"
     ]
   },
   {
@@ -2240,10 +2933,10 @@
     "sentence": "In George Orwell's dystopian novel \"Nineteen Eighty-Four,\" what is the slogan of the ruling party?",
     "correct": "Big Brother is Watching You",
     "choices": [
-      "Big Brother is Watching You",
-      "Ignorance is Strength",
       "War is Peace",
-      "Freedom is Slavery"
+      "Big Brother is Watching You",
+      "Freedom is Slavery",
+      "Ignorance is Strength"
     ]
   },
   {
@@ -2252,10 +2945,10 @@
     "sentence": "Which artist is famous for painting \"The Starry Night\"?",
     "correct": "Vincent van Gogh",
     "choices": [
-      "Vincent van Gogh",
       "Claude Monet",
+      "Leonardo da Vinci",
       "Pablo Picasso",
-      "Leonardo da Vinci"
+      "Vincent van Gogh"
     ]
   },
   {
@@ -2263,14 +2956,24 @@
     "difficulty": "Medium",
     "sentence": "In J.R.R. Tolkien's novel \"The Lord of the Rings,\" what is the name of the fictional world?",
     "correct": "Middle-earth",
-    "choices": ["Middle-earth", "Narnia", "Westeros", "Hogwarts"]
+    "choices": [
+      "Westeros",
+      "Hogwarts",
+      "Narnia",
+      "Middle-earth"
+    ]
   },
   {
     "category": "History",
     "difficulty": "Hard",
     "sentence": "Which city was the capital of the Byzantine Empire?",
     "correct": "Constantinople",
-    "choices": ["Constantinople", "Athens", "Rome", "Alexandria"]
+    "choices": [
+      "Athens",
+      "Alexandria",
+      "Rome",
+      "Constantinople"
+    ]
   },
   {
     "category": "Literature",
@@ -2278,9 +2981,9 @@
     "sentence": "In William Shakespeare's play \"Macbeth,\" what are the three witches collectively known as?",
     "correct": "The Weird Sisters",
     "choices": [
-      "The Weird Sisters",
       "The Fates",
       "The Three Graces",
+      "The Weird Sisters",
       "The Sirens"
     ]
   },
@@ -2290,10 +2993,10 @@
     "sentence": "In Fyodor Dostoevsky's novel \"Crime and Punishment,\" what is the name of the main character?",
     "correct": "Rodion Raskolnikov",
     "choices": [
-      "Rodion Raskolnikov",
+      "Dmitry Karamazov",
       "Ivan Karamazov",
       "Alexei Karamazov",
-      "Dmitry Karamazov"
+      "Rodion Raskolnikov"
     ]
   },
   {
@@ -2301,14 +3004,24 @@
     "difficulty": "Hard",
     "sentence": "Which country hosted the Summer Olympics in 2021?",
     "correct": "Japan",
-    "choices": ["Japan", "Brazil", "Russia", "South Korea"]
+    "choices": [
+      "Japan",
+      "South Korea",
+      "Brazil",
+      "Russia"
+    ]
   },
   {
     "category": "History",
     "difficulty": "Hard",
     "sentence": "What was the name of the ship on which Charles Darwin sailed during his famous voyage?",
     "correct": "HMS Beagle",
-    "choices": ["HMS Beagle", "HMS Victory", "HMS Endeavour", "HMS Bounty"]
+    "choices": [
+      "HMS Beagle",
+      "HMS Victory",
+      "HMS Endeavour",
+      "HMS Bounty"
+    ]
   },
   {
     "category": "Literature",
@@ -2316,9 +3029,9 @@
     "sentence": "In Mark Twain's novel \"The Adventures of Tom Sawyer,\" what is the name of Tom Sawyer's love interest?",
     "correct": "Becky Thatcher",
     "choices": [
-      "Becky Thatcher",
       "Huckleberry Finn",
       "Aunt Polly",
+      "Becky Thatcher",
       "Joe Harper"
     ]
   },
@@ -2327,7 +3040,12 @@
     "difficulty": "Hard",
     "sentence": "Who won the UEFA European Championship in 2020?",
     "correct": "Italy",
-    "choices": ["Italy", "England", "Germany", "Spain"]
+    "choices": [
+      "Italy",
+      "England",
+      "Germany",
+      "Spain"
+    ]
   },
   {
     "category": "Literature",
@@ -2335,10 +3053,10 @@
     "sentence": "In Jules Verne's novel \"Twenty Thousand Leagues Under the Sea,\" what is the name of the captain of the submarine Nautilus?",
     "correct": "Captain Nemo",
     "choices": [
-      "Captain Nemo",
-      "Captain Ahab",
       "Captain Hook",
-      "Captain Jack Sparrow"
+      "Captain Jack Sparrow",
+      "Captain Ahab",
+      "Captain Nemo"
     ]
   },
   {
@@ -2359,10 +3077,10 @@
     "sentence": "Who was the founder of the Mongol Empire in the 13th century?",
     "correct": "Genghis Khan",
     "choices": [
+      "Alexander the Great",
       "Genghis Khan",
-      "Attila the Hun",
       "Julius Caesar",
-      "Alexander the Great"
+      "Attila the Hun"
     ]
   },
   {
@@ -2382,7 +3100,12 @@
     "difficulty": "Hard",
     "sentence": "Who was the first emperor of Rome?",
     "correct": "Augustus",
-    "choices": ["Augustus", "Julius Caesar", "Nero", "Constantine"]
+    "choices": [
+      "Constantine",
+      "Nero",
+      "Julius Caesar",
+      "Augustus"
+    ]
   },
   {
     "category": "Literature",
@@ -2390,9 +3113,9 @@
     "sentence": "In Emily Brontë's novel \"Wuthering Heights,\" what is the name of the male protagonist?",
     "correct": "Heathcliff",
     "choices": [
-      "Heathcliff",
       "Edgar Linton",
       "Catherine Earnshaw",
+      "Heathcliff",
       "Mr. Lockwood"
     ]
   },
@@ -2401,7 +3124,12 @@
     "difficulty": "Hard",
     "sentence": "Who won the UEFA European Championship in 2012?",
     "correct": "Spain",
-    "choices": ["Spain", "Italy", "Germany", "Portugal"]
+    "choices": [
+      "Germany",
+      "Italy",
+      "Portugal",
+      "Spain"
+    ]
   },
   {
     "category": "Literature",
@@ -2409,10 +3137,10 @@
     "sentence": "In Arthur Conan Doyle's detective stories, what is the name of Sherlock Holmes' loyal friend and assistant?",
     "correct": "Dr. John Watson",
     "choices": [
-      "Dr. John Watson",
-      "Inspector Lestrade",
+      "Mycroft Holmes",
       "Professor Moriarty",
-      "Mycroft Holmes"
+      "Dr. John Watson",
+      "Inspector Lestrade"
     ]
   },
   {
@@ -2420,7 +3148,12 @@
     "difficulty": "Medium",
     "sentence": "What is the capital city of Thailand?",
     "correct": "Bangkok",
-    "choices": ["Bangkok", "Phuket", "Chiang Mai", "Pattaya"]
+    "choices": [
+      "Chiang Mai",
+      "Bangkok",
+      "Pattaya",
+      "Phuket"
+    ]
   },
   {
     "category": "Art",
@@ -2428,10 +3161,10 @@
     "sentence": "Who painted the famous artwork \"The Scream\"?",
     "correct": "Edvard Munch",
     "choices": [
-      "Edvard Munch",
-      "Pablo Picasso",
       "Vincent van Gogh",
-      "Leonardo da Vinci"
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Edvard Munch"
     ]
   },
   {
@@ -2441,9 +3174,9 @@
     "correct": "Big Brother",
     "choices": [
       "Big Brother",
-      "The Party",
       "The Inner Party",
-      "The Thought Police"
+      "The Thought Police",
+      "The Party"
     ]
   },
   {
@@ -2451,7 +3184,12 @@
     "difficulty": "Hard",
     "sentence": "Who won the UEFA Champions League in 2019?",
     "correct": "Liverpool",
-    "choices": ["Liverpool", "Tottenham Hotspur", "Barcelona", "Ajax"]
+    "choices": [
+      "Liverpool",
+      "Tottenham Hotspur",
+      "Barcelona",
+      "Ajax"
+    ]
   },
   {
     "category": "Art",
@@ -2459,10 +3197,10 @@
     "sentence": "Who painted the famous artwork \"The Mona Lisa\"?",
     "correct": "Leonardo da Vinci",
     "choices": [
-      "Leonardo da Vinci",
-      "Vincent van Gogh",
       "Pablo Picasso",
-      "Michelangelo"
+      "Vincent van Gogh",
+      "Michelangelo",
+      "Leonardo da Vinci"
     ]
   },
   {
@@ -2471,9 +3209,9 @@
     "sentence": "In Charlotte Brontë's novel \"Jane Eyre,\" what is the name of the brooding male protagonist?",
     "correct": "Mr. Rochester",
     "choices": [
-      "Mr. Rochester",
-      "St. John Rivers",
       "Edward Fairfax Rochester",
+      "St. John Rivers",
+      "Mr. Rochester",
       "Mr. Mason"
     ]
   },
@@ -2482,7 +3220,12 @@
     "difficulty": "Hard",
     "sentence": "Who won the FIFA World Cup in 2010?",
     "correct": "Spain",
-    "choices": ["Spain", "Netherlands", "Germany", "Uruguay"]
+    "choices": [
+      "Germany",
+      "Spain",
+      "Netherlands",
+      "Uruguay"
+    ]
   },
   {
     "category": "History",
@@ -2490,10 +3233,10 @@
     "sentence": "Who was the first Prime Minister of India?",
     "correct": "Jawaharlal Nehru",
     "choices": [
+      "Narendra Modi",
       "Jawaharlal Nehru",
-      "Mahatma Gandhi",
       "Indira Gandhi",
-      "Narendra Modi"
+      "Mahatma Gandhi"
     ]
   },
   {
@@ -2501,21 +3244,36 @@
     "difficulty": "Medium",
     "sentence": "In Harper Lee's novel \"To Kill a Mockingbird,\" what is the name of Atticus Finch's daughter?",
     "correct": "Scout",
-    "choices": ["Scout", "Harper", "Mayella", "Calpurnia"]
+    "choices": [
+      "Calpurnia",
+      "Scout",
+      "Harper",
+      "Mayella"
+    ]
   },
   {
     "category": "Literature",
     "difficulty": "Medium",
     "sentence": "In F. Scott Fitzgerald's novel \"The Great Gatsby,\" what is the name of the narrator?",
     "correct": "Nick Carraway",
-    "choices": ["Nick Carraway", "Jay Gatsby", "Daisy Buchanan", "Jordan Baker"]
+    "choices": [
+      "Jordan Baker",
+      "Daisy Buchanan",
+      "Jay Gatsby",
+      "Nick Carraway"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Hard",
     "sentence": "Who won the FIFA Women's World Cup in 2011?",
     "correct": "Japan",
-    "choices": ["Japan", "United States", "Germany", "Sweden"]
+    "choices": [
+      "Japan",
+      "Sweden",
+      "Germany",
+      "United States"
+    ]
   },
   {
     "category": "Literature",
@@ -2523,10 +3281,10 @@
     "sentence": "In J.R.R. Tolkien's \"The Lord of the Rings,\" what is the name of the volcano where the One Ring is destroyed?",
     "correct": "Mount Doom",
     "choices": [
-      "Mount Doom",
       "Mount Erebor",
+      "Mount Gundabad",
       "Mount Celebdil",
-      "Mount Gundabad"
+      "Mount Doom"
     ]
   },
   {
@@ -2534,7 +3292,12 @@
     "difficulty": "Hard",
     "sentence": "Who won the FIFA World Cup in 2006?",
     "correct": "Italy",
-    "choices": ["Italy", "France", "Brazil", "Germany"]
+    "choices": [
+      "Italy",
+      "Germany",
+      "Brazil",
+      "France"
+    ]
   },
   {
     "category": "History",
@@ -2543,8 +3306,8 @@
     "correct": "Athelstan",
     "choices": [
       "Athelstan",
-      "Alfred the Great",
       "William the Conqueror",
+      "Alfred the Great",
       "Henry VIII"
     ]
   },
@@ -2553,21 +3316,36 @@
     "difficulty": "Medium",
     "sentence": "In William Shakespeare's play \"Romeo and Juliet,\" what family does Romeo belong to?",
     "correct": "Montague",
-    "choices": ["Montague", "Capulet", "Benvolio", "Mercutio"]
+    "choices": [
+      "Capulet",
+      "Benvolio",
+      "Montague",
+      "Mercutio"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Hard",
     "sentence": "Who won the UEFA European Championship in 2004?",
     "correct": "Greece",
-    "choices": ["Greece", "Portugal", "Germany", "Italy"]
+    "choices": [
+      "Germany",
+      "Greece",
+      "Portugal",
+      "Italy"
+    ]
   },
   {
     "category": "Literature",
     "difficulty": "Medium",
     "sentence": "In Jane Austen's novel \"Pride and Prejudice,\" what is the name of the male protagonist?",
     "correct": "Mr. Darcy",
-    "choices": ["Mr. Darcy", "Mr. Bingley", "Mr. Collins", "Mr. Wickham"]
+    "choices": [
+      "Mr. Wickham",
+      "Mr. Collins",
+      "Mr. Darcy",
+      "Mr. Bingley"
+    ]
   },
   {
     "category": "History",
@@ -2575,10 +3353,10 @@
     "sentence": "Who was the last emperor of Russia?",
     "correct": "Nicholas II",
     "choices": [
-      "Nicholas II",
-      "Peter the Great",
       "Ivan the Terrible",
-      "Alexander II"
+      "Nicholas II",
+      "Alexander II",
+      "Peter the Great"
     ]
   },
   {
@@ -2587,10 +3365,10 @@
     "sentence": "In Mark Twain's novel \"The Adventures of Tom Sawyer,\" what is the name of Tom's best friend?",
     "correct": "Huckleberry Finn",
     "choices": [
-      "Huckleberry Finn",
       "Joe Harper",
-      "Sid Sawyer",
-      "Becky Thatcher"
+      "Huckleberry Finn",
+      "Becky Thatcher",
+      "Sid Sawyer"
     ]
   },
   {
@@ -2598,14 +3376,24 @@
     "difficulty": "Hard",
     "sentence": "Who won the UEFA Champions League in 2018?",
     "correct": "Real Madrid",
-    "choices": ["Real Madrid", "Liverpool", "Barcelona", "Bayern Munich"]
+    "choices": [
+      "Real Madrid",
+      "Liverpool",
+      "Barcelona",
+      "Bayern Munich"
+    ]
   },
   {
     "category": "History",
     "difficulty": "Hard",
     "sentence": "Who was the first Roman Emperor?",
     "correct": "Augustus",
-    "choices": ["Augustus", "Julius Caesar", "Nero", "Constantine"]
+    "choices": [
+      "Constantine",
+      "Julius Caesar",
+      "Nero",
+      "Augustus"
+    ]
   },
   {
     "category": "Literature",
@@ -2613,8 +3401,8 @@
     "sentence": "In Herman Melville's novel \"Moby-Dick,\" what is the name of the captain of the Pequod?",
     "correct": "Captain Ahab",
     "choices": [
-      "Captain Ahab",
       "Captain Nemo",
+      "Captain Ahab",
       "Captain Hook",
       "Captain Jack Sparrow"
     ]
@@ -2627,8 +3415,8 @@
     "choices": [
       "King of Hearts",
       "King of Spades",
-      "King of Diamonds",
-      "King of Clubs"
+      "King of Clubs",
+      "King of Diamonds"
     ]
   },
   {
@@ -2636,7 +3424,12 @@
     "difficulty": "Hard",
     "sentence": "Who was the first pharaoh of ancient Egypt?",
     "correct": "Narmer",
-    "choices": ["Narmer", "Tutankhamun", "Cleopatra", "Ramses II"]
+    "choices": [
+      "Narmer",
+      "Cleopatra",
+      "Ramses II",
+      "Tutankhamun"
+    ]
   },
   {
     "category": "Literature",
@@ -2645,9 +3438,9 @@
     "correct": "The Party",
     "choices": [
       "The Party",
-      "The Brotherhood",
       "The Inner Party",
-      "The Outer Party"
+      "The Outer Party",
+      "The Brotherhood"
     ]
   },
   {
@@ -2655,7 +3448,12 @@
     "difficulty": "Hard",
     "sentence": "Who was the first emperor of the Roman Empire?",
     "correct": "Augustus",
-    "choices": ["Augustus", "Julius Caesar", "Tiberius", "Caligula"]
+    "choices": [
+      "Tiberius",
+      "Augustus",
+      "Caligula",
+      "Julius Caesar"
+    ]
   },
   {
     "category": "Literature",
@@ -2664,9 +3462,9 @@
     "correct": "Catherine Earnshaw",
     "choices": [
       "Catherine Earnshaw",
-      "Isabella Linton",
+      "Nelly Dean",
       "Cathy Linton",
-      "Nelly Dean"
+      "Isabella Linton"
     ]
   },
   {
@@ -2674,14 +3472,24 @@
     "difficulty": "Hard",
     "sentence": "Who won the UEFA Champions League in 2017?",
     "correct": "Real Madrid",
-    "choices": ["Real Madrid", "Juventus", "Barcelona", "Bayern Munich"]
+    "choices": [
+      "Barcelona",
+      "Real Madrid",
+      "Juventus",
+      "Bayern Munich"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Hard",
     "sentence": "Who won the UEFA European Championship in 2008?",
     "correct": "Spain",
-    "choices": ["Spain", "Germany", "Russia", "Italy"]
+    "choices": [
+      "Spain",
+      "Italy",
+      "Russia",
+      "Germany"
+    ]
   },
   {
     "category": "History",
@@ -2689,9 +3497,9 @@
     "sentence": "Who was the first emperor of Japan?",
     "correct": "Emperor Jimmu",
     "choices": [
-      "Emperor Jimmu",
-      "Emperor Meiji",
       "Emperor Hirohito",
+      "Emperor Meiji",
+      "Emperor Jimmu",
       "Emperor Akihito"
     ]
   },
@@ -2701,10 +3509,10 @@
     "sentence": "In J.D. Salinger's novel \"The Catcher in the Rye,\" what is the name of the protagonist?",
     "correct": "Holden Caulfield",
     "choices": [
-      "Holden Caulfield",
-      "Phoebe Caulfield",
       "Jane Gallagher",
-      "Allie Caulfield"
+      "Allie Caulfield",
+      "Holden Caulfield",
+      "Phoebe Caulfield"
     ]
   },
   {
@@ -2712,14 +3520,24 @@
     "difficulty": "Hard",
     "sentence": "Who won the UEFA Champions League in 2016?",
     "correct": "Real Madrid",
-    "choices": ["Real Madrid", "Atletico Madrid", "Barcelona", "Bayern Munich"]
+    "choices": [
+      "Real Madrid",
+      "Barcelona",
+      "Bayern Munich",
+      "Atletico Madrid"
+    ]
   },
   {
     "category": "Science",
     "difficulty": "Easy",
     "sentence": "What is the chemical symbol for aluminum?",
     "correct": "Al",
-    "choices": ["Al", "Ag", "Au", "Am"]
+    "choices": [
+      "Au",
+      "Ag",
+      "Am",
+      "Al"
+    ]
   },
   {
     "category": "History",
@@ -2727,10 +3545,10 @@
     "sentence": "Who was the first president of the United States of America?",
     "correct": "George Washington",
     "choices": [
-      "George Washington",
+      "Benjamin Franklin",
       "John Adams",
       "Thomas Jefferson",
-      "Benjamin Franklin"
+      "George Washington"
     ]
   },
   {
@@ -2738,7 +3556,12 @@
     "difficulty": "Medium",
     "sentence": "In J.K. Rowling's \"Harry Potter\" series, what is the name of Harry Potter's owl?",
     "correct": "Hedwig",
-    "choices": ["Hedwig", "Dobby", "Crookshanks", "Nagini"]
+    "choices": [
+      "Hedwig",
+      "Crookshanks",
+      "Nagini",
+      "Dobby"
+    ]
   },
   {
     "category": "Literature",
@@ -2746,10 +3569,10 @@
     "sentence": "In Charles Dickens' novel \"A Tale of Two Cities,\" what are the names of the two cities?",
     "correct": "London and Paris",
     "choices": [
-      "London and Paris",
-      "Rome and Athens",
       "New York and Paris",
-      "London and Edinburgh"
+      "London and Edinburgh",
+      "Rome and Athens",
+      "London and Paris"
     ]
   },
   {
@@ -2757,7 +3580,12 @@
     "difficulty": "Medium",
     "sentence": "What is the capital city of Turkey?",
     "correct": "Ankara",
-    "choices": ["Ankara", "Istanbul", "Izmir", "Bursa"]
+    "choices": [
+      "Bursa",
+      "Izmir",
+      "Istanbul",
+      "Ankara"
+    ]
   },
   {
     "category": "History",
@@ -2765,10 +3593,10 @@
     "sentence": "Who was the first female President of the United States?",
     "correct": "Kamala Harris",
     "choices": [
-      "Kamala Harris",
+      "Michelle Obama",
       "Hillary Clinton",
-      "Nancy Pelosi",
-      "Michelle Obama"
+      "Kamala Harris",
+      "Nancy Pelosi"
     ]
   },
   {
@@ -2776,35 +3604,60 @@
     "difficulty": "Medium",
     "sentence": "In George Orwell's novel \"Animal Farm,\" what type of animal is Napoleon?",
     "correct": "Pig",
-    "choices": ["Pig", "Horse", "Rooster", "Sheep"]
+    "choices": [
+      "Horse",
+      "Rooster",
+      "Sheep",
+      "Pig"
+    ]
   },
   {
     "category": "Literature",
     "difficulty": "Medium",
     "sentence": "In William Shakespeare's play \"Romeo and Juliet,\" what is the name of Juliet's suitor before she meets Romeo?",
     "correct": "Paris",
-    "choices": ["Paris", "Mercutio", "Tybalt", "Benvolio"]
+    "choices": [
+      "Benvolio",
+      "Mercutio",
+      "Tybalt",
+      "Paris"
+    ]
   },
   {
     "category": "History",
     "difficulty": "Hard",
     "sentence": "Who was the first person to step on the moon?",
     "correct": "Neil Armstrong",
-    "choices": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"]
+    "choices": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Alan Shepard"
+    ]
   },
   {
     "category": "History",
     "difficulty": "Medium",
     "sentence": "Which country was ruled by Emperor Napoleon Bonaparte?",
     "correct": "France",
-    "choices": ["France", "Italy", "Germany", "Spain"]
+    "choices": [
+      "Germany",
+      "France",
+      "Italy",
+      "Spain"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Medium",
     "sentence": "In which sport is the term \"love\" used to represent a score of zero?",
     "correct": "Tennis",
-    "choices": ["Tennis", "Golf", "Badminton", "Table Tennis"]
+    "choices": [
+      "Badminton",
+      "Table Tennis",
+      "Golf",
+      "Tennis"
+    ]
   },
   {
     "category": "Literature",
@@ -2813,9 +3666,9 @@
     "correct": "Don Quixote",
     "choices": [
       "Don Quixote",
+      "Pride and Prejudice",
       "One Hundred Years of Solitude",
-      "Crime and Punishment",
-      "Pride and Prejudice"
+      "Crime and Punishment"
     ]
   },
   {
@@ -2825,9 +3678,9 @@
     "correct": "Andrew Johnson",
     "choices": [
       "Andrew Johnson",
+      "Donald Trump",
       "Bill Clinton",
-      "Richard Nixon",
-      "Donald Trump"
+      "Richard Nixon"
     ]
   },
   {
@@ -2836,9 +3689,9 @@
     "sentence": "Which two countries share the longest international border?",
     "correct": "Canada and the United States",
     "choices": [
-      "Canada and the United States",
-      "China and Russia",
       "Brazil and Argentina",
+      "China and Russia",
+      "Canada and the United States",
       "India and Pakistan"
     ]
   },
@@ -2847,7 +3700,12 @@
     "difficulty": "Medium",
     "sentence": "In which city were the first modern Olympic Games held in 1896?",
     "correct": "Athens",
-    "choices": ["Athens", "Paris", "Rome", "London"]
+    "choices": [
+      "Paris",
+      "Rome",
+      "London",
+      "Athens"
+    ]
   },
   {
     "category": "History",
@@ -2855,10 +3713,10 @@
     "sentence": "Which war was fought between the North and the South regions of the United States?",
     "correct": "American Civil War",
     "choices": [
-      "American Civil War",
-      "World War I",
+      "Korean War",
       "World War II",
-      "Korean War"
+      "World War I",
+      "American Civil War"
     ]
   },
   {
@@ -2867,10 +3725,10 @@
     "sentence": "In Fyodor Dostoevsky's novel \"Crime and Punishment,\" what is the name of the protagonist?",
     "correct": "Rodion Raskolnikov",
     "choices": [
-      "Rodion Raskolnikov",
+      "Dmitri Karamazov",
       "Ivan Karamazov",
       "Alexei Ivanovich",
-      "Dmitri Karamazov"
+      "Rodion Raskolnikov"
     ]
   },
   {
@@ -2878,14 +3736,24 @@
     "difficulty": "Hard",
     "sentence": "Which country is the smallest in terms of land area?",
     "correct": "Vatican City",
-    "choices": ["Vatican City", "Monaco", "Nauru", "Tuvalu"]
+    "choices": [
+      "Nauru",
+      "Monaco",
+      "Vatican City",
+      "Tuvalu"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Medium",
     "sentence": "In which city did the modern Olympic Games introduce the marathon race?",
     "correct": "Athens",
-    "choices": ["Athens", "Paris", "London", "Rome"]
+    "choices": [
+      "London",
+      "Paris",
+      "Rome",
+      "Athens"
+    ]
   },
   {
     "category": "History",
@@ -2894,9 +3762,9 @@
     "correct": "Amelia Earhart",
     "choices": [
       "Amelia Earhart",
-      "Bessie Coleman",
       "Sally Ride",
-      "Valentina Tereshkova"
+      "Valentina Tereshkova",
+      "Bessie Coleman"
     ]
   },
   {
@@ -2904,14 +3772,24 @@
     "difficulty": "Hard",
     "sentence": "Which country is the largest producer of oil in the world?",
     "correct": "United States",
-    "choices": ["United States", "Saudi Arabia", "Russia", "Iraq"]
+    "choices": [
+      "Saudi Arabia",
+      "United States",
+      "Iraq",
+      "Russia"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Medium",
     "sentence": "Which country won the most gold medals in the 2016 Summer Olympics?",
     "correct": "United States",
-    "choices": ["United States", "China", "Great Britain", "Russia"]
+    "choices": [
+      "Great Britain",
+      "China",
+      "United States",
+      "Russia"
+    ]
   },
   {
     "category": "History",
@@ -2920,9 +3798,9 @@
     "correct": "Ferdinand Magellan",
     "choices": [
       "Ferdinand Magellan",
-      "Christopher Columbus",
+      "Vasco da Gama",
       "James Cook",
-      "Vasco da Gama"
+      "Christopher Columbus"
     ]
   },
   {
@@ -2930,35 +3808,60 @@
     "difficulty": "Hard",
     "sentence": "Which river is the longest in the world?",
     "correct": "Nile",
-    "choices": ["Nile", "Amazon", "Yangtze", "Mississippi"]
+    "choices": [
+      "Mississippi",
+      "Amazon",
+      "Nile",
+      "Yangtze"
+    ]
   },
   {
     "category": "Literature",
     "difficulty": "Hard",
     "sentence": "In J.R.R. Tolkien's \"The Lord of the Rings,\" what is the name of the hobbit who carries the One Ring?",
     "correct": "Frodo Baggins",
-    "choices": ["Frodo Baggins", "Bilbo Baggins", "Samwise Gamgee", "Gandalf"]
+    "choices": [
+      "Bilbo Baggins",
+      "Frodo Baggins",
+      "Samwise Gamgee",
+      "Gandalf"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Hard",
     "sentence": "In which country is Mount Everest located?",
     "correct": "Nepal",
-    "choices": ["Nepal", "India", "China", "Tibet"]
+    "choices": [
+      "China",
+      "Nepal",
+      "India",
+      "Tibet"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Medium",
     "sentence": "Which country won the most gold medals in the 2012 Summer Olympics?",
     "correct": "United States",
-    "choices": ["United States", "China", "Great Britain", "Russia"]
+    "choices": [
+      "United States",
+      "Russia",
+      "China",
+      "Great Britain"
+    ]
   },
   {
     "category": "Literature",
     "difficulty": "Hard",
     "sentence": "In Harper Lee's novel \"To Kill a Mockingbird,\" what is the name of the main character?",
     "correct": "Scout Finch",
-    "choices": ["Scout Finch", "Atticus Finch", "Boo Radley", "Tom Robinson"]
+    "choices": [
+      "Tom Robinson",
+      "Scout Finch",
+      "Boo Radley",
+      "Atticus Finch"
+    ]
   },
   {
     "category": "History",
@@ -2966,10 +3869,10 @@
     "sentence": "Who wrote the \"I Have a Dream\" speech?",
     "correct": "Martin Luther King Jr.",
     "choices": [
-      "Martin Luther King Jr.",
       "Abraham Lincoln",
-      "John F. Kennedy",
-      "Franklin D. Roosevelt"
+      "Martin Luther King Jr.",
+      "Franklin D. Roosevelt",
+      "John F. Kennedy"
     ]
   },
   {
@@ -2977,7 +3880,12 @@
     "difficulty": "Medium",
     "sentence": "In which city were the Summer Olympics held in 2008?",
     "correct": "Beijing",
-    "choices": ["Beijing", "London", "Athens", "Rio de Janeiro"]
+    "choices": [
+      "Athens",
+      "London",
+      "Beijing",
+      "Rio de Janeiro"
+    ]
   },
   {
     "category": "History",
@@ -2985,10 +3893,10 @@
     "sentence": "Who assassinated President John F. Kennedy?",
     "correct": "Lee Harvey Oswald",
     "choices": [
-      "Lee Harvey Oswald",
       "James Earl Ray",
-      "Sirhan Sirhan",
-      "Gavrilo Princip"
+      "Gavrilo Princip",
+      "Lee Harvey Oswald",
+      "Sirhan Sirhan"
     ]
   },
   {
@@ -2996,34 +3904,59 @@
     "difficulty": "Hard",
     "sentence": "Which city is considered the fashion capital of the world?",
     "correct": "Paris",
-    "choices": ["Paris", "Milan", "New York City", "London"]
+    "choices": [
+      "New York City",
+      "London",
+      "Paris",
+      "Milan"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Medium",
     "sentence": "Which country won the most gold medals in the 2008 Summer Olympics?",
     "correct": "China",
-    "choices": ["China", "United States", "Russia", "Great Britain"]
+    "choices": [
+      "Russia",
+      "Great Britain",
+      "China",
+      "United States"
+    ]
   },
   {
     "category": "Literature",
     "difficulty": "Hard",
     "sentence": "In J.D. Salinger's novel \"The Catcher in the Rye,\" what is the name of the main character?",
     "correct": "Holden Caulfield",
-    "choices": ["Holden Caulfield", "Jay Gatsby", "Scout Finch", "Harry Potter"]
+    "choices": [
+      "Scout Finch",
+      "Holden Caulfield",
+      "Jay Gatsby",
+      "Harry Potter"
+    ]
   },
   {
     "category": "Geography",
     "difficulty": "Hard",
     "sentence": "Which city is known as the \"Eternal City\"?",
     "correct": "Rome",
-    "choices": ["Rome", "Athens", "Cairo", "Istanbul"]
+    "choices": [
+      "Istanbul",
+      "Athens",
+      "Cairo",
+      "Rome"
+    ]
   },
   {
     "category": "Sports",
     "difficulty": "Medium",
     "sentence": "Which country won the most gold medals in the 2004 Summer Olympics?",
     "correct": "United States",
-    "choices": ["United States", "China", "Russia", "Australia"]
+    "choices": [
+      "China",
+      "Australia",
+      "Russia",
+      "United States"
+    ]
   }
 ]
