@@ -2162,5 +2162,868 @@
     "sentence": "Who won the FIFA World Cup in 2002?",
     "correct": "Brazil",
     "choices": ["Brazil", "Germany", "Italy", "France"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Medium",
+    "sentence": "What is the smallest country in the world?",
+    "correct": "Vatican City",
+    "choices": ["Vatican City", "Monaco", "Nauru", "Tuvalu"]
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "sentence": "Which artist is famous for painting the \"Campbell's Soup Cans\"?",
+    "correct": "Andy Warhol",
+    "choices": [
+      "Andy Warhol",
+      "Jackson Pollock",
+      "Pablo Picasso",
+      "Vincent van Gogh"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In Harper Lee's novel \"To Kill a Mockingbird,\" who is the narrator?",
+    "correct": "Scout Finch",
+    "choices": ["Scout Finch", "Atticus Finch", "Jem Finch", "Boo Radley"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Medium",
+    "sentence": "Which country is the largest producer of coffee in the world?",
+    "correct": "Brazil",
+    "choices": ["Brazil", "Colombia", "Vietnam", "Ethiopia"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "sentence": "Which famous scientist formulated the theory of general relativity?",
+    "correct": "Albert Einstein",
+    "choices": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "sentence": "Which country won the UEFA European Championship in 2016?",
+    "correct": "Portugal",
+    "choices": ["Portugal", "France", "Germany", "Italy"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Medium",
+    "sentence": "What is the largest continent by land area?",
+    "correct": "Asia",
+    "choices": ["Asia", "Africa", "North America", "South America"]
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "sentence": "Which artist is famous for painting the \"Mona Lisa\"?",
+    "correct": "Leonardo da Vinci",
+    "choices": [
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Michelangelo"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In George Orwell's dystopian novel \"Nineteen Eighty-Four,\" what is the slogan of the ruling party?",
+    "correct": "Big Brother is Watching You",
+    "choices": [
+      "Big Brother is Watching You",
+      "Ignorance is Strength",
+      "War is Peace",
+      "Freedom is Slavery"
+    ]
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "sentence": "Which artist is famous for painting \"The Starry Night\"?",
+    "correct": "Vincent van Gogh",
+    "choices": [
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Pablo Picasso",
+      "Leonardo da Vinci"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In J.R.R. Tolkien's novel \"The Lord of the Rings,\" what is the name of the fictional world?",
+    "correct": "Middle-earth",
+    "choices": ["Middle-earth", "Narnia", "Westeros", "Hogwarts"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "sentence": "Which city was the capital of the Byzantine Empire?",
+    "correct": "Constantinople",
+    "choices": ["Constantinople", "Athens", "Rome", "Alexandria"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In William Shakespeare's play \"Macbeth,\" what are the three witches collectively known as?",
+    "correct": "The Weird Sisters",
+    "choices": [
+      "The Weird Sisters",
+      "The Fates",
+      "The Three Graces",
+      "The Sirens"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In Fyodor Dostoevsky's novel \"Crime and Punishment,\" what is the name of the main character?",
+    "correct": "Rodion Raskolnikov",
+    "choices": [
+      "Rodion Raskolnikov",
+      "Ivan Karamazov",
+      "Alexei Karamazov",
+      "Dmitry Karamazov"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "sentence": "Which country hosted the Summer Olympics in 2021?",
+    "correct": "Japan",
+    "choices": ["Japan", "Brazil", "Russia", "South Korea"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "sentence": "What was the name of the ship on which Charles Darwin sailed during his famous voyage?",
+    "correct": "HMS Beagle",
+    "choices": ["HMS Beagle", "HMS Victory", "HMS Endeavour", "HMS Bounty"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In Mark Twain's novel \"The Adventures of Tom Sawyer,\" what is the name of Tom Sawyer's love interest?",
+    "correct": "Becky Thatcher",
+    "choices": [
+      "Becky Thatcher",
+      "Huckleberry Finn",
+      "Aunt Polly",
+      "Joe Harper"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "sentence": "Who won the UEFA European Championship in 2020?",
+    "correct": "Italy",
+    "choices": ["Italy", "England", "Germany", "Spain"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In Jules Verne's novel \"Twenty Thousand Leagues Under the Sea,\" what is the name of the captain of the submarine Nautilus?",
+    "correct": "Captain Nemo",
+    "choices": [
+      "Captain Nemo",
+      "Captain Ahab",
+      "Captain Hook",
+      "Captain Jack Sparrow"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In Mary Shelley's novel \"Frankenstein,\" what is the full name of the scientist who creates the monster?",
+    "correct": "Victor Frankenstein",
+    "choices": [
+      "Victor Frankenstein",
+      "Henry Jekyll",
+      "Edward Hyde",
+      "Robert Walton"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "sentence": "Who was the founder of the Mongol Empire in the 13th century?",
+    "correct": "Genghis Khan",
+    "choices": [
+      "Genghis Khan",
+      "Attila the Hun",
+      "Julius Caesar",
+      "Alexander the Great"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In Lewis Carroll's novel \"Alice's Adventures in Wonderland,\" what is the name of the Queen of Hearts?",
+    "correct": "Red Queen",
+    "choices": [
+      "Red Queen",
+      "White Queen",
+      "Queen of Spades",
+      "Queen of Diamonds"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "sentence": "Who was the first emperor of Rome?",
+    "correct": "Augustus",
+    "choices": ["Augustus", "Julius Caesar", "Nero", "Constantine"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In Emily Brontë's novel \"Wuthering Heights,\" what is the name of the male protagonist?",
+    "correct": "Heathcliff",
+    "choices": [
+      "Heathcliff",
+      "Edgar Linton",
+      "Catherine Earnshaw",
+      "Mr. Lockwood"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "sentence": "Who won the UEFA European Championship in 2012?",
+    "correct": "Spain",
+    "choices": ["Spain", "Italy", "Germany", "Portugal"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In Arthur Conan Doyle's detective stories, what is the name of Sherlock Holmes' loyal friend and assistant?",
+    "correct": "Dr. John Watson",
+    "choices": [
+      "Dr. John Watson",
+      "Inspector Lestrade",
+      "Professor Moriarty",
+      "Mycroft Holmes"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Medium",
+    "sentence": "What is the capital city of Thailand?",
+    "correct": "Bangkok",
+    "choices": ["Bangkok", "Phuket", "Chiang Mai", "Pattaya"]
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "sentence": "Who painted the famous artwork \"The Scream\"?",
+    "correct": "Edvard Munch",
+    "choices": [
+      "Edvard Munch",
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Leonardo da Vinci"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In George Orwell's dystopian novel \"1984,\" what is the name of the totalitarian regime?",
+    "correct": "Big Brother",
+    "choices": [
+      "Big Brother",
+      "The Party",
+      "The Inner Party",
+      "The Thought Police"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "sentence": "Who won the UEFA Champions League in 2019?",
+    "correct": "Liverpool",
+    "choices": ["Liverpool", "Tottenham Hotspur", "Barcelona", "Ajax"]
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "sentence": "Who painted the famous artwork \"The Mona Lisa\"?",
+    "correct": "Leonardo da Vinci",
+    "choices": [
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Michelangelo"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In Charlotte Brontë's novel \"Jane Eyre,\" what is the name of the brooding male protagonist?",
+    "correct": "Mr. Rochester",
+    "choices": [
+      "Mr. Rochester",
+      "St. John Rivers",
+      "Edward Fairfax Rochester",
+      "Mr. Mason"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "sentence": "Who won the FIFA World Cup in 2010?",
+    "correct": "Spain",
+    "choices": ["Spain", "Netherlands", "Germany", "Uruguay"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "sentence": "Who was the first Prime Minister of India?",
+    "correct": "Jawaharlal Nehru",
+    "choices": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Indira Gandhi",
+      "Narendra Modi"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In Harper Lee's novel \"To Kill a Mockingbird,\" what is the name of Atticus Finch's daughter?",
+    "correct": "Scout",
+    "choices": ["Scout", "Harper", "Mayella", "Calpurnia"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In F. Scott Fitzgerald's novel \"The Great Gatsby,\" what is the name of the narrator?",
+    "correct": "Nick Carraway",
+    "choices": ["Nick Carraway", "Jay Gatsby", "Daisy Buchanan", "Jordan Baker"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "sentence": "Who won the FIFA Women's World Cup in 2011?",
+    "correct": "Japan",
+    "choices": ["Japan", "United States", "Germany", "Sweden"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In J.R.R. Tolkien's \"The Lord of the Rings,\" what is the name of the volcano where the One Ring is destroyed?",
+    "correct": "Mount Doom",
+    "choices": [
+      "Mount Doom",
+      "Mount Erebor",
+      "Mount Celebdil",
+      "Mount Gundabad"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "sentence": "Who won the FIFA World Cup in 2006?",
+    "correct": "Italy",
+    "choices": ["Italy", "France", "Brazil", "Germany"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "sentence": "Who was the first king of England?",
+    "correct": "Athelstan",
+    "choices": [
+      "Athelstan",
+      "Alfred the Great",
+      "William the Conqueror",
+      "Henry VIII"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In William Shakespeare's play \"Romeo and Juliet,\" what family does Romeo belong to?",
+    "correct": "Montague",
+    "choices": ["Montague", "Capulet", "Benvolio", "Mercutio"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "sentence": "Who won the UEFA European Championship in 2004?",
+    "correct": "Greece",
+    "choices": ["Greece", "Portugal", "Germany", "Italy"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In Jane Austen's novel \"Pride and Prejudice,\" what is the name of the male protagonist?",
+    "correct": "Mr. Darcy",
+    "choices": ["Mr. Darcy", "Mr. Bingley", "Mr. Collins", "Mr. Wickham"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "sentence": "Who was the last emperor of Russia?",
+    "correct": "Nicholas II",
+    "choices": [
+      "Nicholas II",
+      "Peter the Great",
+      "Ivan the Terrible",
+      "Alexander II"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In Mark Twain's novel \"The Adventures of Tom Sawyer,\" what is the name of Tom's best friend?",
+    "correct": "Huckleberry Finn",
+    "choices": [
+      "Huckleberry Finn",
+      "Joe Harper",
+      "Sid Sawyer",
+      "Becky Thatcher"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "sentence": "Who won the UEFA Champions League in 2018?",
+    "correct": "Real Madrid",
+    "choices": ["Real Madrid", "Liverpool", "Barcelona", "Bayern Munich"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "sentence": "Who was the first Roman Emperor?",
+    "correct": "Augustus",
+    "choices": ["Augustus", "Julius Caesar", "Nero", "Constantine"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In Herman Melville's novel \"Moby-Dick,\" what is the name of the captain of the Pequod?",
+    "correct": "Captain Ahab",
+    "choices": [
+      "Captain Ahab",
+      "Captain Nemo",
+      "Captain Hook",
+      "Captain Jack Sparrow"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In Lewis Carroll's \"Alice's Adventures in Wonderland,\" what is the name of the Queen of Hearts' husband?",
+    "correct": "King of Hearts",
+    "choices": [
+      "King of Hearts",
+      "King of Spades",
+      "King of Diamonds",
+      "King of Clubs"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "sentence": "Who was the first pharaoh of ancient Egypt?",
+    "correct": "Narmer",
+    "choices": ["Narmer", "Tutankhamun", "Cleopatra", "Ramses II"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In George Orwell's novel \"1984,\" what is the name of the totalitarian party ruling Oceania?",
+    "correct": "The Party",
+    "choices": [
+      "The Party",
+      "The Brotherhood",
+      "The Inner Party",
+      "The Outer Party"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "sentence": "Who was the first emperor of the Roman Empire?",
+    "correct": "Augustus",
+    "choices": ["Augustus", "Julius Caesar", "Tiberius", "Caligula"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In Emily Brontë's novel \"Wuthering Heights,\" what is the name of Heathcliff's love interest?",
+    "correct": "Catherine Earnshaw",
+    "choices": [
+      "Catherine Earnshaw",
+      "Isabella Linton",
+      "Cathy Linton",
+      "Nelly Dean"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "sentence": "Who won the UEFA Champions League in 2017?",
+    "correct": "Real Madrid",
+    "choices": ["Real Madrid", "Juventus", "Barcelona", "Bayern Munich"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "sentence": "Who won the UEFA European Championship in 2008?",
+    "correct": "Spain",
+    "choices": ["Spain", "Germany", "Russia", "Italy"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "sentence": "Who was the first emperor of Japan?",
+    "correct": "Emperor Jimmu",
+    "choices": [
+      "Emperor Jimmu",
+      "Emperor Meiji",
+      "Emperor Hirohito",
+      "Emperor Akihito"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In J.D. Salinger's novel \"The Catcher in the Rye,\" what is the name of the protagonist?",
+    "correct": "Holden Caulfield",
+    "choices": [
+      "Holden Caulfield",
+      "Phoebe Caulfield",
+      "Jane Gallagher",
+      "Allie Caulfield"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "sentence": "Who won the UEFA Champions League in 2016?",
+    "correct": "Real Madrid",
+    "choices": ["Real Madrid", "Atletico Madrid", "Barcelona", "Bayern Munich"]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "sentence": "What is the chemical symbol for aluminum?",
+    "correct": "Al",
+    "choices": ["Al", "Ag", "Au", "Am"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "sentence": "Who was the first president of the United States of America?",
+    "correct": "George Washington",
+    "choices": [
+      "George Washington",
+      "John Adams",
+      "Thomas Jefferson",
+      "Benjamin Franklin"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In J.K. Rowling's \"Harry Potter\" series, what is the name of Harry Potter's owl?",
+    "correct": "Hedwig",
+    "choices": ["Hedwig", "Dobby", "Crookshanks", "Nagini"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In Charles Dickens' novel \"A Tale of Two Cities,\" what are the names of the two cities?",
+    "correct": "London and Paris",
+    "choices": [
+      "London and Paris",
+      "Rome and Athens",
+      "New York and Paris",
+      "London and Edinburgh"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Medium",
+    "sentence": "What is the capital city of Turkey?",
+    "correct": "Ankara",
+    "choices": ["Ankara", "Istanbul", "Izmir", "Bursa"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "sentence": "Who was the first female President of the United States?",
+    "correct": "Kamala Harris",
+    "choices": [
+      "Kamala Harris",
+      "Hillary Clinton",
+      "Nancy Pelosi",
+      "Michelle Obama"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In George Orwell's novel \"Animal Farm,\" what type of animal is Napoleon?",
+    "correct": "Pig",
+    "choices": ["Pig", "Horse", "Rooster", "Sheep"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "sentence": "In William Shakespeare's play \"Romeo and Juliet,\" what is the name of Juliet's suitor before she meets Romeo?",
+    "correct": "Paris",
+    "choices": ["Paris", "Mercutio", "Tybalt", "Benvolio"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "sentence": "Who was the first person to step on the moon?",
+    "correct": "Neil Armstrong",
+    "choices": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Medium",
+    "sentence": "Which country was ruled by Emperor Napoleon Bonaparte?",
+    "correct": "France",
+    "choices": ["France", "Italy", "Germany", "Spain"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "sentence": "In which sport is the term \"love\" used to represent a score of zero?",
+    "correct": "Tennis",
+    "choices": ["Tennis", "Golf", "Badminton", "Table Tennis"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "sentence": "Which novel by Miguel de Cervantes features the character Don Quixote?",
+    "correct": "Don Quixote",
+    "choices": [
+      "Don Quixote",
+      "One Hundred Years of Solitude",
+      "Crime and Punishment",
+      "Pride and Prejudice"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "Medium",
+    "sentence": "Who was the first President of the United States to be impeached?",
+    "correct": "Andrew Johnson",
+    "choices": [
+      "Andrew Johnson",
+      "Bill Clinton",
+      "Richard Nixon",
+      "Donald Trump"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Hard",
+    "sentence": "Which two countries share the longest international border?",
+    "correct": "Canada and the United States",
+    "choices": [
+      "Canada and the United States",
+      "China and Russia",
+      "Brazil and Argentina",
+      "India and Pakistan"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "sentence": "In which city were the first modern Olympic Games held in 1896?",
+    "correct": "Athens",
+    "choices": ["Athens", "Paris", "Rome", "London"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Medium",
+    "sentence": "Which war was fought between the North and the South regions of the United States?",
+    "correct": "American Civil War",
+    "choices": [
+      "American Civil War",
+      "World War I",
+      "World War II",
+      "Korean War"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "sentence": "In Fyodor Dostoevsky's novel \"Crime and Punishment,\" what is the name of the protagonist?",
+    "correct": "Rodion Raskolnikov",
+    "choices": [
+      "Rodion Raskolnikov",
+      "Ivan Karamazov",
+      "Alexei Ivanovich",
+      "Dmitri Karamazov"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Hard",
+    "sentence": "Which country is the smallest in terms of land area?",
+    "correct": "Vatican City",
+    "choices": ["Vatican City", "Monaco", "Nauru", "Tuvalu"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "sentence": "In which city did the modern Olympic Games introduce the marathon race?",
+    "correct": "Athens",
+    "choices": ["Athens", "Paris", "London", "Rome"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Medium",
+    "sentence": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "correct": "Amelia Earhart",
+    "choices": [
+      "Amelia Earhart",
+      "Bessie Coleman",
+      "Sally Ride",
+      "Valentina Tereshkova"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Hard",
+    "sentence": "Which country is the largest producer of oil in the world?",
+    "correct": "United States",
+    "choices": ["United States", "Saudi Arabia", "Russia", "Iraq"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "sentence": "Which country won the most gold medals in the 2016 Summer Olympics?",
+    "correct": "United States",
+    "choices": ["United States", "China", "Great Britain", "Russia"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Medium",
+    "sentence": "Who was the first person to circumnavigate the globe?",
+    "correct": "Ferdinand Magellan",
+    "choices": [
+      "Ferdinand Magellan",
+      "Christopher Columbus",
+      "James Cook",
+      "Vasco da Gama"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Hard",
+    "sentence": "Which river is the longest in the world?",
+    "correct": "Nile",
+    "choices": ["Nile", "Amazon", "Yangtze", "Mississippi"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "sentence": "In J.R.R. Tolkien's \"The Lord of the Rings,\" what is the name of the hobbit who carries the One Ring?",
+    "correct": "Frodo Baggins",
+    "choices": ["Frodo Baggins", "Bilbo Baggins", "Samwise Gamgee", "Gandalf"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Hard",
+    "sentence": "In which country is Mount Everest located?",
+    "correct": "Nepal",
+    "choices": ["Nepal", "India", "China", "Tibet"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "sentence": "Which country won the most gold medals in the 2012 Summer Olympics?",
+    "correct": "United States",
+    "choices": ["United States", "China", "Great Britain", "Russia"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "sentence": "In Harper Lee's novel \"To Kill a Mockingbird,\" what is the name of the main character?",
+    "correct": "Scout Finch",
+    "choices": ["Scout Finch", "Atticus Finch", "Boo Radley", "Tom Robinson"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Medium",
+    "sentence": "Who wrote the \"I Have a Dream\" speech?",
+    "correct": "Martin Luther King Jr.",
+    "choices": [
+      "Martin Luther King Jr.",
+      "Abraham Lincoln",
+      "John F. Kennedy",
+      "Franklin D. Roosevelt"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "sentence": "In which city were the Summer Olympics held in 2008?",
+    "correct": "Beijing",
+    "choices": ["Beijing", "London", "Athens", "Rio de Janeiro"]
+  },
+  {
+    "category": "History",
+    "difficulty": "Medium",
+    "sentence": "Who assassinated President John F. Kennedy?",
+    "correct": "Lee Harvey Oswald",
+    "choices": [
+      "Lee Harvey Oswald",
+      "James Earl Ray",
+      "Sirhan Sirhan",
+      "Gavrilo Princip"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Hard",
+    "sentence": "Which city is considered the fashion capital of the world?",
+    "correct": "Paris",
+    "choices": ["Paris", "Milan", "New York City", "London"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "sentence": "Which country won the most gold medals in the 2008 Summer Olympics?",
+    "correct": "China",
+    "choices": ["China", "United States", "Russia", "Great Britain"]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "sentence": "In J.D. Salinger's novel \"The Catcher in the Rye,\" what is the name of the main character?",
+    "correct": "Holden Caulfield",
+    "choices": ["Holden Caulfield", "Jay Gatsby", "Scout Finch", "Harry Potter"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Hard",
+    "sentence": "Which city is known as the \"Eternal City\"?",
+    "correct": "Rome",
+    "choices": ["Rome", "Athens", "Cairo", "Istanbul"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "sentence": "Which country won the most gold medals in the 2004 Summer Olympics?",
+    "correct": "United States",
+    "choices": ["United States", "China", "Russia", "Australia"]
   }
 ]
