@@ -22,6 +22,12 @@ wouldYouRather();
 
 // a "trivia" sentence
 trivia();
+
+// a "trivia" sentence in the "Miscellaneous" category and a difficulty of "Easy"
+trivia({ categories: ["Miscellaneous"], difficulties: ["Easy"] });
+
+// get every "trivia" sentence
+getEverySentence("trivia");
 ```
 
 ### Example response
