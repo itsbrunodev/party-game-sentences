@@ -1,7 +1,7 @@
 {
   "name": "party-game-sentences",
-  "version": "1.1.5",
-  "description": "Would you rather, never have I ever, truth or dare, and trivia sentences.",
+  "version": "1.2.0",
+  "description": "Trivia, would you rather, never have I ever and truth or dare sentences.",
   "files": [
     "dist/**/*"
   ],
@@ -26,7 +26,11 @@
     "never have i ever",
     "truth or dare",
     "sentences",
-    "sentence"
+    "sentence",
+    "trivia",
+    "quiz",
+    "questions",
+    "question"
   ],
   "author": "",
   "license": "MIT",

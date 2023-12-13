@@ -5,7 +5,45 @@ import * as TruthOrDare from "./json/truth-or-dare.json" assert { type: "json" }
 /* @ts-ignore */
 import * as WouldYouRather from "./json/would-you-rather.json" assert { type: "json" };
 /* @ts-ignore */
-import * as Trivia from "./json/trivia.json" assert { type: "json" };
+import * as TriviaAnimal from "./json/trivia/animal.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaBrainTeaser from "./json/trivia/brain-teaser.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaCelebrities from "./json/trivia/celebrities.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaEntertainment from "./json/trivia/entertainment.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaForKids from "./json/trivia/for-kids.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaGeneral from "./json/trivia/general.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaGeography from "./json/trivia/geography.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaHistory from "./json/trivia/history.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaHobbies from "./json/trivia/hobbies.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaHumanities from "./json/trivia/humanities.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaLiterature from "./json/trivia/literature.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaMovies from "./json/trivia/movies.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaMusic from "./json/trivia/music.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaPeople from "./json/trivia/people.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaReligion from "./json/trivia/religion.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaScience from "./json/trivia/science.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaSports from "./json/trivia/sports.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaTelevision from "./json/trivia/television.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaVideoGames from "./json/trivia/video-games.json" assert { type: "json" };
+/* @ts-ignore */
+import * as TriviaWorld from "./json/trivia/world.json" assert { type: "json" };
 
 export interface IWouldYouRather {
   sentence: string;
@@ -15,30 +53,60 @@ export interface IWouldYouRather {
   };
 }
 
-type Categories =
-  | "History"
-  | "Geography"
-  | "Science"
-  | "Movies"
-  | "Sports"
-  | "Literature"
-  | "Technology"
-  | "Miscellaneous"
-  | "Music"
-  | "Mythology"
-  | "Food and Drink"
-  | "Politics"
-  | "Science Fiction"
-  | "Pop Culture";
+export const TRIVIA_CATEGORIES = [
+  "Animal",
+  "Brain Teaser",
+  "Celebrities",
+  "Entertainment",
+  "For Kids",
+  "General",
+  "Geography",
+  "History",
+  "Hobbies",
+  "Humanities",
+  "Literature",
+  "Movies",
+  "People",
+  "Religion",
+  "Science",
+  "Sports",
+  "Television",
+  "Video Games",
+  "World",
+] as const;
 
-type Difficulties = "Easy" | "Medium" | "Hard";
+const triviaQuestions = [
+  TriviaAnimal,
+  TriviaBrainTeaser,
+  TriviaCelebrities,
+  TriviaEntertainment,
+  TriviaForKids,
+  TriviaGeneral,
+  TriviaGeography,
+  TriviaHistory,
+  TriviaHobbies,
+  TriviaHumanities,
+  TriviaLiterature,
+  TriviaMovies,
+  TriviaMusic,
+  TriviaPeople,
+  TriviaReligion,
+  TriviaScience,
+  TriviaSports,
+  TriviaTelevision,
+  TriviaVideoGames,
+  TriviaWorld,
+].map((x) => toDefault<ITrivia[]>(x).default);
+
+const TRIVIA_QUESTIONS: ITrivia[] = [].concat(...triviaQuestions);
+
+export type TCategory = (typeof TRIVIA_CATEGORIES)[number];
 
 export interface ITrivia {
-  category: Categories;
-  difficulty: Difficulties;
+  category: TCategory;
   sentence: string;
   correct: string;
-  choices: [string, string, string, string];
+  choices: string[];
 }
 
 export interface ITruthOrDareRaw {
@@ -53,13 +121,17 @@ function random(arr: any[]) {
   return arr[Math.floor(Math.random() * arr.length)];
 }
 
+function toDefault<T>(file: any) {
+  return file as { default: T };
+}
+
 /**
  * Get a random "never have I ever" sentence
  * @example neverHaveIEver();
  */
 export function neverHaveIEver(): string {
   return `Never have I ever ${random(
-    (NeverHaveIEver as unknown as { default: string[] }).default
+    toDefault<string[]>(NeverHaveIEver).default
   )}.`;
 }
 
@@ -72,14 +144,10 @@ export function truthOrDare(type: "truth" | "dare"): string {
   if (typeof type !== "string")
     throw new Error("Type option needs to be a string");
 
-  const json = (
-    TruthOrDare as unknown as {
-      default: {
-        truth: string[];
-        dare: string[];
-      };
-    }
-  ).default;
+  const json = toDefault<{
+    truth: string[];
+    dare: string[];
+  }>(TruthOrDare).default;
   if (type === "truth") return random(json.truth);
   else return random(json.dare);
 }
@@ -89,9 +157,7 @@ export function truthOrDare(type: "truth" | "dare"): string {
  * @example wouldYouRather();
  */
 export function wouldYouRather(): IWouldYouRather {
-  const arr: string[] = random(
-    (WouldYouRather as unknown as { default: string[] }).default
-  );
+  const arr: string[] = random(toDefault<string[]>(WouldYouRather).default);
   return {
     sentence: `Would you rather ${arr[0]} or ${arr[1]}?`,
     choice: {
@@ -103,40 +169,20 @@ export function wouldYouRather(): IWouldYouRather {
 
 /**
  * Get a random "trivia" sentence
- * @param {Categories[]} options.categories - Get only the requested type of categories
- * @param {Difficulties[]} options.difficulties - Get only the requested difficulties
- * @example trivia({ categories: ["History"], difficulties: ["Easy"] });
+ * @param {TCategory[]} options.categories - Get only the requested type of categories
+ * @example trivia({ categories: ["History"] });
  */
 export function trivia(
   options: {
-    categories?: Categories[];
-    difficulties?: Difficulties[];
+    categories?: TCategory[];
   } = {
-    categories: [
-      "History",
-      "Geography",
-      "Science",
-      "Movies",
-      "Sports",
-      "Literature",
-      "Technology",
-      "Miscellaneous",
-      "Music",
-      "Mythology",
-      "Food and Drink",
-      "Politics",
-      "Science Fiction",
-      "Pop Culture",
-    ],
-    difficulties: ["Easy", "Medium", "Hard"],
+    categories: [],
   }
 ): ITrivia {
   return random(
-    (Trivia as unknown as { default: ITrivia[] }).default.filter(
-      (x) =>
-        options.categories.includes(x.category) &&
-        options.difficulties.includes(x.difficulty)
-    )
+    options.categories.length === 0
+      ? TRIVIA_QUESTIONS
+      : TRIVIA_QUESTIONS.filter((x) => options.categories.includes(x.category))
   );
 }
 
@@ -173,19 +219,18 @@ export function getEverySentence(
 ) {
   switch (partyGame) {
     case "never-have-i-ever": {
-      const res = (NeverHaveIEver as unknown as { default: string[] }).default;
+      const res = toDefault<string[]>(NeverHaveIEver).default;
       if (raw) return res;
       else return res.map((x) => `Never have I ever ${x}.`);
     }
     case "trivia": {
-      return (Trivia as unknown as { default: ITrivia[] }).default;
+      return TRIVIA_QUESTIONS;
     }
     case "truth-or-dare": {
-      return (TruthOrDare as unknown as { default: ITruthOrDareRaw }).default;
+      return toDefault<ITruthOrDareRaw>(TruthOrDare).default;
     }
     case "would-you-rather": {
-      const res = (WouldYouRather as unknown as { default: string[][] })
-        .default;
+      const res = toDefault<string[][]>(WouldYouRather).default;
       if (raw) return res;
       else
         return res.map(

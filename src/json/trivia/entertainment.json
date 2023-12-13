@@ -1,0 +1,2092 @@
+[
+  {
+    "category": "Entertainment",
+    "sentence": "Greta Garbo was successfully treated for this disease.",
+    "correct": "Breast cancer",
+    "choices": ["Tuberculosis", "Breast cancer", "Hepatitis", "Cirrhosis"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In 1952, A.S. Douglas developed the first graphical game to run on a computer.  It ran on the EDSAC.  What was the name of this game?",
+    "correct": "OXO",
+    "choices": ["Go", "Check It", "OXO", "Tennis For Two"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Nolan Bushnell is considered to be the father of the video arcade industry. In 1972 he founded his own game company and together with Ted Dabney and Al Alcorn released the first arcade video game with major success- Pong. What was the name of his company?",
+    "correct": "Atari",
+    "choices": ["Nutting Associates", "Nintendo", "Sega", "Atari"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Pong was first installed at a high school.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In 1972 a company named Waco released the first handheld electronic game. What was its name?",
+    "correct": "Tic Tac Toe",
+    "choices": ["Cross", "Tic Tac Toe", "Tetris", "Microvision"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In 1978 Taito released one of the most influential arcade video games. It was called Space Invaders and marked the beginning of the Golden Age of arcade games. What was the thing that the player controlled in Space Invaders?",
+    "correct": "A movable laser cannon",
+    "choices": [
+      "An alien",
+      "An anti-aircraft gun",
+      "A movable laser cannon",
+      "A cowboy"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Mario, probably the best-known video game character, first appeared in Donkey Kong in 1981.  His brother Luigi first appeared in Mario Bros.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Nintendo is undoubtedly one of the most successful and best known console manufacturers. Nintendo has created several TV consoles and many handheld portables, such as the Game Boy and the Game  Watch. When was the company originally founded?",
+    "correct": "1889",
+    "choices": ["1953", "1985", "1983", "1889"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "With the introduction of cheap and relatively powerful processors such as Intel 386, Intel 486 and Motorola 68000 3D-graphics became fashionable. It was used in FPS games like the legendary Wolfenstein 3D and Doom. Do you know what FPS stands for in this context?",
+    "correct": "First Person Shooter",
+    "choices": [
+      "Frames Per Second",
+      "File Protocol System",
+      "Firing Per Second",
+      "First Person Shooter"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Sonic the Hedgehog is a mascot of Sony Playstation.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "When in 1996 3dfx released the Voodoo chipset, it made high-resolution and more-detailed 3D games possible. One of the first games to take advantage of this was Quake. Do you know which company released this marvelous game?",
+    "correct": "id Software",
+    "choices": ["Microsoft", "Valve", "id Software", "Blizzard"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "These fictional superheroes were born, when a container of radioactive waste bounced off a truck and struck a young boy, turning him into Daredevil.",
+    "correct": "Teenage Mutant Ninja Turtles",
+    "choices": [
+      "Teenage Mutant Ninja Turtles",
+      "Pre-teen Dirty Jean Kung-fu Kangaroos",
+      "Adolescent Radioactive Blackbelt Hamsters",
+      "Miami Mice"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "This superhero, who first appeared in the comic book Tales of Suspense, used his own invention to keep his heart pumping.",
+    "correct": "Iron Man",
+    "choices": ["Mr. Fantastic", "Ant Man", "Iron Man", "The Hulk"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "This Marvel Comics superhero, whose birth name was Peter Benjamin Parker, first used his new found superpowers as a professional wrestler.",
+    "correct": "Spiderman",
+    "choices": ["Superman", "Spiderman", "The Thing", "Green Arrow"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "This comedic superhero, created by Ben Edlund, met an accountant named Arthur, after taking a long bus ride into The City.",
+    "correct": "The Tick",
+    "choices": ["The Tick", "Thor", "The Shadow", "Darkman"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "These comic book superheroes were trained in Professor Xaviers School for Gifted Youngsters.",
+    "correct": "The X-Men",
+    "choices": ["The Fantastic Four", "The X-Men", "Power Pack", "The Avengers"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which Marvel Comics character became a ruthless vigilante, after witnessing his familys violent murder?",
+    "correct": "The Punisher",
+    "choices": ["The Crow", "The Punisher", "Judge Dredd", "The Scourge"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "This DC Comics superhero, whose true identity is Bruce Wayne, decided to train himself to the peak of physical perfection after witnessing the murder of his parents.",
+    "correct": "Batman",
+    "choices": ["V (For Vendetta)", "Batman", "The Hulk", "Spawn"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which fictional member ot the Teen Titans started out as Batmans sidekick?",
+    "correct": "Nightwing",
+    "choices": ["Beast Boy", "Cyborg", "Raven", "Nightwing"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Fellow Justice League members Superman and Martian Manhunter have something in common. What is it?",
+    "correct": "They are both aliens.",
+    "choices": [
+      "They are both reporters by day",
+      "They both grew up on a farm.",
+      "They both escaped from the phantom zone.",
+      "They are both aliens."
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of the following fictional heroes is a World War II veteran?",
+    "correct": "Captain America",
+    "choices": ["Batman", "Captain America", "Captain Commando", "Thor"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the real name of Gambit who first appeared in the comic book The Uncanny X-Men?",
+    "correct": "Remy LeBeau",
+    "choices": ["Remy LeBeau", "Bobby LeBeau", "Scott Summers", "Alex Summers"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of these X-Men characters is not a member of the Summers family line?",
+    "correct": "Mister Sinister",
+    "choices": ["Cyclops", "Mister Sinister", "Havoc", "Cable"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Archangel, a mutant and a member of the X-Men, was which horseman of Apocalypse?",
+    "correct": "Death",
+    "choices": ["Death", "Famine", "Pestilence", "War"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which antagonist of the X-Men is responsible for the death of Wolverine in the comic books?",
+    "correct": "Magneto",
+    "choices": ["Juggarnaut", "Sabretooth", "Magneto", "Lady Deathstrike"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of these X-men characters is not a mutant?",
+    "correct": "Juggernaut",
+    "choices": ["Charles Xavier", "Gambit", "Juggernaut", "Storm"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the Age of Apocalypse timeline, Wolverine, a member of the X-Men, is married to which female?",
+    "correct": "Storm",
+    "choices": ["Storm", "Polaris", "Jean Grey", "Jubilee"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who is the head of the X-Men in the Age of Apocalypse timeline?",
+    "correct": "Magneto",
+    "choices": ["Magneto", "Apocalypse", "Charles Xavier", "Cyclops"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Omega Red, a foe of the X-Men, serves which country?",
+    "correct": "Russia",
+    "choices": ["Germany", "Russia", "The United States", "Japan"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the real name of X-Men member Wolverine?",
+    "correct": "James Howlett",
+    "choices": ["Victor Creed", "James Howlett", "Mikhail Rasputin", "Logan"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "This member of the Hellfire Clubs inner circle, known as the White Queen, once fought against the X-Men.",
+    "correct": "Emma Frost",
+    "choices": ["Emma Frost", "Jean Grey", "Calypso", "Phoenix"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "When was the Miss America pageant first held?",
+    "correct": "September 7, 1921",
+    "choices": [
+      "July 6, 1920",
+      "July 4, 1919",
+      "September 5, 1925",
+      "September 7, 1921"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "The most common talents performed are singing and dancing, but there have been a variety of other odd talents as well.  Which talent was performed at a Miss America pageant?",
+    "correct": "Packing a suitcase",
+    "choices": [
+      "Blowing bubbles through a straw",
+      "Self-defense",
+      "Gymnastic moves",
+      "Packing a suitcase"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who was the first Jewish Miss America?",
+    "correct": "Bess Myerson",
+    "choices": [
+      "Marion Bergeron",
+      "Norma Smallwood",
+      "Bess Myerson",
+      "Marilyn Buferd"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Miss America always goes on to compete in the Miss Universe pageant.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "As of the beginning of the new millenium, how many Miss America title holders were from New Jersey, the state that held the competitions?",
+    "correct": "2",
+    "choices": ["2", "6", "4", "0"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who was the first deaf Miss America?",
+    "correct": "Heather Whitestone",
+    "choices": [
+      "Rebecca Ann King",
+      "Phyllis Ann George",
+      "Cheryl Prewitt",
+      "Heather Whitestone"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Until 2004 ABC aired the Miss America pageant , it then switched to what station?",
+    "correct": "CMT",
+    "choices": ["NBC", "CBS", "CMT", "USA"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In what year did Snoopy first make his first appearance in a comic strip?",
+    "correct": "1950",
+    "choices": ["1948", "1952", "1954", "1950"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What name was Charles Schulz originally going to give to Charlie Browns dog Snoopy?",
+    "correct": "Sniffy",
+    "choices": ["Sneaky", "Snookums", "Sniffy", "Sneakers"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What position did cartoon character Snoopy play in Charlie Browns Little League baseball team?",
+    "correct": "Short Stop",
+    "choices": ["Pitcher", "Catcher", "First base", "Short Stop"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In what year did comic strip character Snoopy first appear sleeping on top of his doghouse?",
+    "correct": "1958",
+    "choices": ["1953", "1958", "1956", "1954"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In what year did comic strip character Snoopy first walk upright?",
+    "correct": "1956",
+    "choices": ["1960", "1962", "1958", "1956"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which one of these pairs roller coaster- theme park is wrong?",
+    "correct": "Avalanche- Holiday World",
+    "choices": [
+      "Megafobia- Oakwood Leisure Park",
+      "Superman - Ride of Steel- Six Flags Darien Lake",
+      "Avalanche- Holiday World",
+      "Dania Beach Hurricane- Boomers"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Top Thrill Dragster was opened in 2003 and it was the tallest and fastest roller coaster in the world until 2005 (this is true). It was the first roller coaster to break the 300 ft (91.4 m) barrier.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which one of these pairs roller coaster- year of opening is wrong?",
+    "correct": "Nitro- 2000",
+    "choices": [
+      "Kraken- 2000",
+      "Megafobia- 1996",
+      "Nitro- 2000",
+      "Ozark Wildcat- 2003"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "October 2006 saw the release of which Mortal Kombat game?",
+    "correct": "12th",
+    "choices": ["10th", "8th", "12th", "9th"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the Mortal Kombat storyline, Liu Kang was brutally murdered by which character?",
+    "correct": "Shang Tsung",
+    "choices": ["Shang Tsung", "Goro", "Shao Kahn", "Kung Lao"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What feature makes Kenshi different from all other Mortal Kombat characters?",
+    "correct": "He is blind.",
+    "choices": ["He can fly.", "He is a mute.", "He is blind.", "He is deaf."]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "How does Calvins dad like to spend his vacation in the comic strip Calvin and Hobbes",
+    "correct": "Going Camping",
+    "choices": [
+      "Going Camping",
+      "Going Sightseeing",
+      "Going to the Beach",
+      "Going Hiking"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the cartoon Calvin and Hobbes, Calvin enjoys the dinners that his mom makes.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Cartoon character Calvin hates taking baths.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What does comic strip character Calvin like to do during recess?",
+    "correct": "None of these",
+    "choices": [
+      "Play Baseball",
+      "None of these",
+      "Play Hide-and-Seek",
+      "Play Tag"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of these is NOT the name of one of the Calvin and Hobbes books?",
+    "correct": "The Conclusive Calvin and Hobbes",
+    "choices": [
+      "The Authoritative Calvin and Hobbes",
+      "The Indispensable Calvin and Hobbes",
+      "The Conclusive Calvin and Hobbes",
+      "The Essential Calvin and Hobbes"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of the following words is not part of the title of Calvins favorite book in the Calvin and Hobbes comic strip?",
+    "correct": "Louis",
+    "choices": ["Hamster", "Kablooie", "Huey", "Louis"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "SeaWorld has an official airline and one of its Boeing 737 jetliners is painted to look like a flying Killer Whale. Name this airline.",
+    "correct": "Southwest",
+    "choices": ["U.S Air", "Delta", "Southwest", "Jetblue"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "There is more than one Killer Whale named Shamu in the SeaWorld parks in the U.S.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In what year did SeaWorld Orlando open?",
+    "correct": "1973",
+    "choices": ["1965", "1973", "1968", "1970"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of these creatures is not featured in the exhibit of the world famous SeaWorld attraction Wild Arctic?",
+    "correct": "Penguin",
+    "choices": ["Beluga Whale", "Polar Bear", "Walrus", "Penguin"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What SeaWorld attraction allows you to walk through a tube in which sharks swim all around you?",
+    "correct": "Shark Encounter",
+    "choices": [
+      "Sharktastic!",
+      "Mission: Shark",
+      "Shark Adventure",
+      "Shark Encounter"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the name of the SeaWorld Orlando amusement ride that is a combination of a water ride and a roller coaster?",
+    "correct": "Journey to Atlantis",
+    "choices": [
+      "The Lost City of Atlantis",
+      "Atlantis the Lost Continent",
+      "Journey to Atlantis",
+      "Atlantis: The Lost World"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What are the names of the four theme parks that make up Disney World?",
+    "correct": "Magic Kingdom, Epcot, Animal Kingdom, Disney Hollywood Studios",
+    "choices": [
+      "Magic Kingdom, Epcot, Animal Kingdom, Disney Hollywood Studios",
+      "Universal Studies, Animal Safari,  Epcot",
+      "Cedar Point, Holiday World, Magic Kingdom, Wilderness Park",
+      "Walt Disney World, Sea World, Busch Gardens, Circus World"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "How many acres did Walt Disney purchase for Disney World to be built on?",
+    "correct": "27,400",
+    "choices": ["25,000", "12,500", "11,950", "27,400"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the main icon of the Magic Kingdom park?",
+    "correct": "Cinderellas Castle",
+    "choices": [
+      "Cinderellas Castle",
+      "Cinderellas Stagecoach",
+      "Spaceship Earth",
+      "The Tree of Life"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the title, given to employees at Disney World?",
+    "correct": "Cast Members",
+    "choices": [
+      "Disney Friends",
+      "Directors",
+      "Mickey Mouse Helpers",
+      "Cast Members"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of the following statements is a true fact about Disney World?",
+    "correct": "All of the above.",
+    "choices": [
+      "There is a tree farm on the Disney property, so that when a tree in one of the parks dies, it can be replaced by another mature tree.",
+      "All of the above.",
+      "The streets of Disney are steam cleaned every night after the parks close.",
+      "Gold leaf paint is used to paint the carousel horses."
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "How many resorts are there on the Disney World property?",
+    "correct": "32",
+    "choices": ["35", "32", "17", "24"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "World Showcase is a part of Epcot that highlights different countries and cultures.  Which of the following countries is not in the Showcase?",
+    "correct": "Spain",
+    "choices": ["Morocco", "Mexico", "France", "Spain"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "The Twilight Tower of Terror is a free fall thrill ride located in Hollywood Studios.  It is based on a television show from the 1950s.  What was the name of that show?",
+    "correct": "The Twilight Zone",
+    "choices": [
+      "Tales From the Crypt",
+      "The Alfred Hitchcock Show",
+      "Goosebumps",
+      "The Twilight Zone"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the main icon of the Animal Kingdom park?",
+    "correct": "The Tree of Life",
+    "choices": [
+      "The Tree of Life",
+      "Habitat Habit",
+      "Silverback Gorillas",
+      "Dinosaur Ride"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of the four parks is the largest single Disney theme park in the world?",
+    "correct": "Animal Kingdom",
+    "choices": ["Epcot", "Magic Kingdom", "Animal Kingdom", "Hollywood Studios"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Dilbert from the self-titled comic strip is an engineer who graduated from MIT. What type of engineering degree does Dilbert have?",
+    "correct": "Electrical",
+    "choices": ["Electrical", "Chemical", "Civil", "Mechanical"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of the following is not one of the characters that live in Dilberts house in the comic strip Dilbert?",
+    "correct": "Catbert",
+    "choices": ["Ratbert", "Dogbert", "Catbert", "Bob the Dinosaur"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of the following is not a word/term created by Scott Adams for the comic strip Dilbert?",
+    "correct": "synergy",
+    "choices": ["synergy", "splendsmartful", "Induhvidual", "frooglepoopillion"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the comic strip Dilbert, the real name of Dilberts pointed-haired boss is Phil.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who is the brother of the pointed-haired boss in the comic strip Dilbert?",
+    "correct": "Phil, Prince of Insufficient Light",
+    "choices": [
+      "Ted, the Generic guy",
+      "Phil, Prince of Insufficient Light",
+      "Yuri, the Elbonian",
+      "Techno Bill"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the name of Dilberts coworker in the comic strip Dilbert, who believes he has psychic powers?",
+    "correct": "Asok",
+    "choices": ["Asok", "Wally", "Carol", "Alice"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the name of Dilberts sometimes girlfriend in the comic strip Dilbert?",
+    "correct": "Liz",
+    "choices": ["Tina", "Alice", "Carol", "Liz"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which wrestler is famous for using a move called the Pedigree?",
+    "correct": "Triple H",
+    "choices": ["John Cena", "Triple H", "Edge", "Randy Orton"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Dave Animal Batistas famous ending move is called the Batista Drop.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "The FU is the signature move of this wrestler, who also performs a pre-ending move called U Cant See Me.",
+    "correct": "John Cena",
+    "choices": ["The Undertaker", "Jeff Hardy", "John Cena", "Edge"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which finishing move is most notably performed by Shawn Michaels?",
+    "correct": "Sweet Chin Music",
+    "choices": [
+      "Sweet Chin Music",
+      "Swing Chin Music",
+      "Warming up the Band",
+      "Sweet Cheyenne Music"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the signature finishing move performed by EDGE of SmackDown?",
+    "correct": "the Spear",
+    "choices": ["the Spoke", "the Poke", "the Spear", "the Spike"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which WWE champion has two signature moves called the Swanton Bomb and the Twist of Fate?",
+    "correct": "Jeff Hardy",
+    "choices": ["Chris Jericho", "Matt Hardy", "Jeff Hardy", "CM Punk"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the ending move used by former champion Randy Orton called?",
+    "correct": "RKO",
+    "choices": ["Panther", "the Legend Killer", "RKO", "TKO"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is The Undertakers signature finishing move?",
+    "correct": "Tombstone Pile Driver",
+    "choices": [
+      "Graveyard Smash",
+      "Death Wish",
+      "Tombstone Pile Driver",
+      "Casket Drop"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which former WWE champion uses a move called Codebreakerr?",
+    "correct": "Chris Jericho",
+    "choices": ["Chris Jericho", "Randy Orton", "CM Punk", "Santino Morales"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the music video game Guitar Hero 3, what is the encore song you play in the first set of songs?",
+    "correct": "Rock All Night",
+    "choices": [
+      "Rock All Night",
+      "Cult of Your Personality",
+      "Rage Against the Machine",
+      "The Devil Went Down to Georgia"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "There are five unlockable characters in the music video game Guitar Hero 3.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "How many songs excluding the encores are there in Guitar Hero 3?",
+    "correct": "32",
+    "choices": ["32", "16", "27", "30"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Slash, a character in the Guitar Hero 3 music video game, is also a real life musician that became popular with which of these bands?",
+    "correct": "Guns N Roses",
+    "choices": ["AFI", "Dragonforce", "Korn", "Guns N Roses"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Music video game Guitar Hero 3 is rated T for teen.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Choose the missing words in the following lyrics to get the name of a song from Guitar Hero 3:",
+    "correct": "Mississippi queen",
+    "choices": [
+      "Mississippi queen",
+      "Gorgeous lady",
+      "Dance queen",
+      "Pretty woman"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In Guitar Hero 3, “Bulls on Parade by Rage Against the Machine is the third encore song.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who is the last boss in the music video game Guitar Hero 3?",
+    "correct": "Lou",
+    "choices": ["Lou", "Slash", "Billy", "Bob"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In what year was the debut of the comic strip Hagar the Horrible?",
+    "correct": "1973",
+    "choices": ["1968", "1965", "1973", "1970"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Hagar the Horrible from the comic strip of the same name had his own short lived line of beer called Hagars Viking Beer which was pulled off the shelves due to lack of sales.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Shortly after its creation the Hagar the Horrible comic strips distributed to how many newspapers worldwide?",
+    "correct": "1,900",
+    "choices": ["1,900", "2,400", "3,000", "800"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In how many countries were the Hagar the Horrible comic strips strip distributed?",
+    "correct": "58",
+    "choices": ["32", "58", "120", "84"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "How many languages were the Hagar the Horrible comics printed in worldwide?",
+    "correct": "13",
+    "choices": ["9", "13", "24", "20"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What kind of radiation was Dr. Banner exposed to that causes him to turn into the Hulk?",
+    "correct": "Gamma",
+    "choices": ["Beta", "Gamma", "Delta", "Alpha"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In what year did The Incredible Hulk debut?",
+    "correct": "1962",
+    "choices": ["1965", "1960", "1971", "1962"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What year saw the debut of The Incredible Hulk TV series?",
+    "correct": "1978",
+    "choices": ["1982", "1975", "1978", "1980"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the 1989 TV movie The Trial of he Incredible Hulk, the Hulk co-stars with what fellow superhero?",
+    "correct": "Daredevil",
+    "choices": ["Spider-man", "Thor", "Captain America", "Daredevil"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who were the creators of comics superhero Aquaman?",
+    "correct": "Paul Norris and Mort Weisinger",
+    "choices": [
+      "Steven Crane and Walt Ambroli",
+      "Paul Norris and Mort Weisinger",
+      "John Hopkins and Mort Weisinger",
+      "Paul Norris and Steven Crane"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What famous comic book company published Aquaman Comics?",
+    "correct": "DC Comics",
+    "choices": [
+      "More Fun Comics",
+      "Marvel Comics",
+      "DC Comics",
+      "Action Comics"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Aquamans enemy the Ocean Master was his own father.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Did comics character Aquaman ever have a child?",
+    "correct": "Yes",
+    "choices": ["No", "Yes"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What was the name of Aquamans girlfriend and eventual wife?",
+    "correct": "Mera",
+    "choices": ["Mera", "Sea Queen", "Aquatica", "Madeline"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of these was not one of Aquamans amazing powers?",
+    "correct": "Having complete control over water",
+    "choices": [
+      "Communicating with all forms of sea life.",
+      "Breathing under water",
+      "Having complete control over water",
+      "Super High Speed Swimming"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "How long could Aquaman survive out of water?",
+    "correct": "One Hour",
+    "choices": ["Forever", "One Hour", "Half an Hour", "2 Hours"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Comics superhero Aquaman was one of the founding members of The Justice League of America.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the comic strip FoxTrot, what is the name of the only girl in the Fox family?",
+    "correct": "Paige",
+    "choices": ["Sarah", "Piage", "Page", "Paige"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Does FoxTrot character Jason ever joke that it is 25 degrees out?",
+    "correct": "No",
+    "choices": ["Yes", "No"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the comics FoxTrot, Roger Fox is writing a novel.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Does Andy and Rogers daughter get notes in her locker in FoxTrot?",
+    "correct": "Yes",
+    "choices": ["No", "Yes"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the name of Peters girlfriend in the comics FoxTrot?",
+    "correct": "Denise",
+    "choices": ["Ashley", "Sarah", "Abbey", "Denise"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of the following best describes Andy and Roger’s youngest child in the comics FoxTrot?",
+    "correct": "A nerd",
+    "choices": ["A jock", "A nerd", "A sports addict", "A TV addict"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Has FoxTrot character Jason developed a plan for a Star Trek-themed amusement park?",
+    "correct": "No",
+    "choices": ["Yes", "No"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What Batman villain formerly worked as a zoologist?",
+    "correct": "ManBat",
+    "choices": ["Poison Ivy", "The Penguin", "ManBat", "Killer Croc"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What super villain once broke Batmans back, leaving him crippled and wheelchair-bound?",
+    "correct": "Bane",
+    "choices": ["Clayface", "Bane", "Killer Croc", "Ras Al Ghul"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What year was the character of Robin first introduced?",
+    "correct": "1940",
+    "choices": ["1940", "1950", "1941", "1951"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who is credited with creating Batman?",
+    "correct": "Bob Kane",
+    "choices": ["Joe Shuster", "Bob Kane", "Jack Kirby", "Jerry Siegel"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In Detective Comics #267, a magical Kobold from another dimension decides to help Batman fight crime--what was his name?",
+    "correct": "Bat-Mite",
+    "choices": ["Bat-Mite", "Bat-Dwarf", "Mr Mxyztplk", "Martian Manhunter"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What was Bat-hounds name?",
+    "correct": "Ace",
+    "choices": ["Lucky", "Champ", "Ace", "Burt"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What were the names of Bruce Waynes parents?",
+    "correct": "Thomas  Martha",
+    "choices": [
+      "Thomas  Martha",
+      "James  Elizabeth",
+      "Wayne  Alice",
+      "George  Elaine"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "The original Batgirl was related to what familiar Batman character?",
+    "correct": "Batwoman",
+    "choices": ["Alfred", "Batwoman", "The Joker", "Commissioner Gordon"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of these Bat-villains was introduced first?",
+    "correct": "Catwoman",
+    "choices": ["The Riddler", "Mr. Freeze", "The Penguin", "Catwoman"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What was Alfred the butlers original family name?",
+    "correct": "Beagle",
+    "choices": ["Chatsworth", "Chapman", "Beagle", "Windham"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "How many health points does the Mountian Giant unit have?",
+    "correct": "1600",
+    "choices": ["1400", "1500", "1600", "1200"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What hero does the phrase Moonlight shines upon the guilty and the innocent alike belong to?",
+    "correct": "Naisha",
+    "choices": [
+      "Maiev Shadowsong",
+      "Jeana Proudmoore",
+      "Tyrande Whisperwind",
+      "Naisha"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who is the leader of the Burning Legion?",
+    "correct": "Archimond",
+    "choices": [
+      "Archimond",
+      "Death Prince Arthas",
+      "Tichondrius",
+      "Varimathras"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the name of the well from which Night Elfs originally obtained their magical powers?",
+    "correct": "Well of Eternity",
+    "choices": [
+      "MoonWell",
+      "Well of Magic",
+      "Well of Eternity",
+      "Well of Power"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What hero or unit does the this phrase belong to?",
+    "correct": "Muradin Bronzebeard",
+    "choices": [
+      "Muradin Bronzebeard",
+      "Knight",
+      "Mountian Giant",
+      "Dwarf Rifleman"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who is Tyrande Whisperwind in love with?",
+    "correct": "Malfurion Stormrage",
+    "choices": [
+      "Malfurion Stormrage",
+      "Cenarius Stormage",
+      "Prince Arthas",
+      "Illidan Stormrage"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In Warcraft III:The Frozen Throne, Illidan Stormrage works for?",
+    "correct": "Kiljaeden",
+    "choices": ["Tichondrius", "Kiljaeden", "Sargeras", "Archimond"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the name of the creator of Bloom County?",
+    "correct": "Berkely Brethed",
+    "choices": [
+      "Berkely Brethed",
+      "Simon Pimon",
+      "Chris Claremont",
+      "Charle Schultz"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What was the name of the penguin in Bloom County?",
+    "correct": "Opus",
+    "choices": ["Sandoval", "Opus", "Big Bertha", "Salmoneus"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In Bloom County, Milo Bloom was a 10-year-old reporter for The Bloom Chronicle.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What was the name of the hard rock band formed by lawyer Steve Dallas in the Bloom County comic strip?",
+    "correct": "Deathtongue",
+    "choices": [
+      "The Raiders",
+      "Deathtongue",
+      "Opus and the Orangeheads",
+      "Billy and the Boingers"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who did Opus marry in the comic strip Bloom County?",
+    "correct": "Lola Granola",
+    "choices": ["Nola Spinuzzi", "Lola Granola", "Rona Amonia", "Ima Petunia"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Bloom County character Opus has appeared in two other comic strips titled Neverland and Opus.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What was the name of the feminist school teacher in Bloom County?",
+    "correct": "Bobbie Harlowe",
+    "choices": ["Bobbie Simmons", "Bobbie Harlowe", "Bobbie Jo", "Bobbie Smith"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "There was a TV Christmas special that centered on the famous comic strip character Opus.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the comic strip Bloom County, Bill the cat became a televangelist. What was his name?",
+    "correct": "Fundamentally Oral Bill",
+    "choices": [
+      "Oral Bill",
+      "Fundamentally mental Bill",
+      "Bill Roberts",
+      "Fundamentally Oral Bill"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What year did Andy Capp make his comic strip debut?",
+    "correct": "1957",
+    "choices": ["1969", "1957", "1963", "1972"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of these is NOT one of Andy Capps hobbies?",
+    "correct": "Hunting",
+    "choices": ["Pigeon Racing", "Gambling", "Hunting", "Drinking"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "There was once a musical based on the Andy Capp comic strip.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who are Andy Capps best friends and neighbors?",
+    "correct": "The Whites",
+    "choices": ["The Smiths", "The Ritsons", "The Blacks", "The Whites"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What country are the Andy Capp comic strips set in?",
+    "correct": "Britain",
+    "choices": ["Britain", "Ireland", "America", "Canada"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Cartoon character Andy Capp has a son.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In what year did the Andy Capp comic strips reach the U.S.?",
+    "correct": "1963",
+    "choices": ["1959", "1963", "1960", "1971"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which one of these comics was the first comic Jim Davis created?",
+    "correct": "Gnorm Gnat",
+    "choices": [
+      "The Life of Jon Arbuckle",
+      "Gnorm Gnat",
+      "Farm Life",
+      "Garfield"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "When did the comic strip Garfield come out?",
+    "correct": "1978",
+    "choices": ["1978", "2000", "1952", "1995"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Is it true that the comic strip Garfield inspired a CD titled Am I Cool or Not?",
+    "correct": "No",
+    "choices": ["No", "Yes"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who is Garfields on and off girlfriend?",
+    "correct": "Arlene",
+    "choices": ["Nermal", "Arlene", "Liz", "Irma"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Is it true that Nermal, who makes unannounced visits into Garfields home, is a male kitten?",
+    "correct": "Yes",
+    "choices": ["Yes", "No"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who is the fictional dog that gets pushed around by Garfield?",
+    "correct": "Odie",
+    "choices": ["Odie", "Jon", "Fido", "Irma"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who is the Garfields owner on the popular comic strip?",
+    "correct": "Jon Arbuckle",
+    "choices": ["Dr. Liz Wilson", "Jon Arbuckle", "Clive", "Jim Davis"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the profession of Irma, one of the supporting characters on the comic strip Garfield?",
+    "correct": "waitress",
+    "choices": ["cook", "waitress", "vet", "She is unemployed."]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the name of Garfields veterinarian on the self-titled comic strip?",
+    "correct": "Liz Wilson",
+    "choices": ["Liz Arbuckle", "Liz Wilson", "Liz Davis", "Julie Payne"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "This ancient circus, situated between the Palatine and Aventine hills, was both the first and the largest circus in Rome.",
+    "correct": "Circus Maximus",
+    "choices": [
+      "Circus of Maxentius",
+      "Circus Maximus",
+      "Circus Neronis",
+      "Circus Flaminius"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who was the creator of the French circus, who is also thought to be one of the creators of modern circus?",
+    "correct": "Antonio Franconi",
+    "choices": [
+      "Paul Fratellini",
+      "Antonio Franconi",
+      "Pierrot Bidon",
+      "Arthur Vercoe Pedlar"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In which state did the first circus building in the USA open in 1793?",
+    "correct": "Pennsylvania",
+    "choices": ["Pennsylvania", "California", "Illinois", "Oklahoma"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What was typical for the Cirque nouveau or the New Circus that developed in the 1970s in France, Australia, the USA.and the UK?",
+    "correct": "No animals were used.",
+    "choices": [
+      "all of these",
+      "It consisted mainly of dangerous stunts.",
+      "No animals were used.",
+      "It used multimedia and laser shows."
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the presenter of a traditional circus show called?",
+    "correct": "ringmaster",
+    "choices": ["coiffeur", "contortionist", "chapeaugrapher", "ringmaster"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "O and Ovo are among the shows performed by this circus group founded in 1984.",
+    "correct": "Cirque du Soleil",
+    "choices": ["Cirque du Soleil", "Circus Smirkus", "Circus Amok", "Archaos"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Name the Frenchman who invented the flying trapeze in 1859.",
+    "correct": "Jules Leotard",
+    "choices": [
+      "Monty Python",
+      "Guy Laliberté",
+      "Daniel Gauthier",
+      "Jules Leotard"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which traveling circus of the early 20th century, based in Peru, Indiana, was the inspiration for Cathy Days novel The Circus in Winter?",
+    "correct": "The Hagenbeck-Wallace Circus",
+    "choices": [
+      "Shrine Circus",
+      "Cirque dhiver",
+      "The Bertram Mills Circus",
+      "The Hagenbeck-Wallace Circus"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of these is the name of an old British circus dynasty that toured Europe and the Far East with their shows?",
+    "correct": "Chipperfield",
+    "choices": ["Forepaugh", "Ashton", "Chipperfield", "Barnum"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What circus was founded in 1995 by a duo named Fireplay?",
+    "correct": "The Bindlestiff Family Cirkus",
+    "choices": [
+      "Silvers Circus",
+      "Albert  Friends Instant Circus",
+      "The Bindlestiff Family Cirkus",
+      "Chipperfields Circus"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who sidelined WWE wrestler John Cena for 4 months, because of a torn pectoral muscle?",
+    "correct": "Randy Orton",
+    "choices": ["Randy Orton", "HHH", "Umaga", "Mr. Kennedy"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "The WWE wrestlers Jeff Hardy and Matt Hardy tag-team with each other a lot.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "This Diva was one of the best WWE Divas ever, but unfortunately, she retired in 2007.",
+    "correct": "Lita",
+    "choices": ["Stacy Keibler", "Trish Stratus", "Ashley", "Lita"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "WWE wrestler Triple H is the brother of Stephanie McMahon.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "WWE DIVA Ashley was actually born in Los Angles, California.",
+    "correct": "No",
+    "choices": ["Yes", "No"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who did WWE wrestler Matt Hardy lose his love interest Lita to?",
+    "correct": "Edge",
+    "choices": ["John Cena", "John Morrison", "Edge", "Batista"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "When did WWE wrestler Ric Flairs career end?",
+    "correct": "March 31 2008",
+    "choices": [
+      "March 17 2008",
+      "February 27, 2008",
+      "March 24 2008",
+      "March 31 2008"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "At Wrestlemania 24, it came down to Y2J, Chris Jericho and CM Punk in the Money In The Bank ladder match and CM Punk won.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "The Marvel character Anubis is also known as The Guardian of the Veil .",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the Marvel comics universe, Horus is the God of fire.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Marvel character Zeus ruled the underworld.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Seth is the Egyptian god of evil and death in the Marvel Comics universe.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "On what radio station do the Junkies broadcast?",
+    "correct": "WJFK",
+    "choices": ["WAVA", "NPR", "WTOP", "WJFK"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of the following is NOT one of the four Junkies?",
+    "correct": "Bruce The Hugger",
+    "choices": ["John Auville", "Eric Bickel", "JP Flaim", "Bruce The Hugger"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Johnny Cakes Auville once stayed in a coffin in order to win a bet.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "According to the Junkies, what is the practice of inebriated love making immediately followed by redistribution of wealth and treating your friends to breakfast called?",
+    "correct": "sturching",
+    "choices": ["the devil inside", "escapade", "barracuda", "sturching"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "If someone well-versed in Junkies Lingo says that someone or something is a show, it is a positive thing.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which Junkies ersatz nickname is The Latin Donkey?",
+    "correct": "JP",
+    "choices": ["JP", "EB", "Lurch", "Cakes"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "On Fridays, Big Daddy Kev comes in for a segment on the morning Junkies show to talk about fantasy sports.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the first tubular steel track roller coaster?",
+    "correct": "Matterhorn Bobsleds, Disneyland",
+    "choices": [
+      "Revolution Six Flags Magic Mountain",
+      "Storm Runner Hershey Park",
+      "Matterhorn Bobsleds, Disneyland",
+      "Corkscrew Knotts Berry Farm"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the first amusement park with four roller coasters that are taller than 200 feet (61 m)?",
+    "correct": "Cedar Point Sandusky, Ohio, USA",
+    "choices": [
+      "Kings Dominion Doswell, Virginia, USA",
+      "Canadas Wonderland Vaughan, Ontario, Canada",
+      "Cedar Point Sandusky, Ohio, USA",
+      "Six Flags Magic Mountain Valencia, California, USA"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What was the first looping roller coaster?",
+    "correct": "Centrifugal Railway, Frascati Garden, Paris",
+    "choices": [
+      "Corkscrew, Knotts Berry Farm, Buena Park, California.",
+      "Centrifugal Railway, Frascati Garden, Paris",
+      "Carolina Cyclone, Carowinds, North Carolina",
+      "Revolution, Six Flags Magic Mountain, Valencia, California"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What was the first roller coaster to reach a height of 100 ft?",
+    "correct": "Cyclone, Revere Beach, Revere, Massachusetts, United States",
+    "choices": [
+      "Cyclone, Revere Beach, Revere, Massachusetts, United States",
+      "Drop-The-Dips, Coney Island",
+      "Centrifugal Railway, Frascati Garden, Paris",
+      "Gravity Pleasure, Coney Island, Brooklyn, New York"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "There has never been a wooden roller coaster with an inversion.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the first modern roller coaster to have a vertical loop?",
+    "correct": "Revolution, Six Flags Magic Mountain, Valencia, California",
+    "choices": [
+      "Shockwave, Six Flags Great America, Gurnee, Illinois, United  states",
+      "Dragon Khan, Port Aventura, Salou, Spain",
+      "Revolution, Six Flags Magic Mountain, Valencia, California",
+      "Corkscrew, Knotts Berry Farm, Buena Park, California"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who is the mascot for Indiana Beach?",
+    "correct": "IB Crow",
+    "choices": ["IB Crow", "Beach Bird", "Indiana Jones", "Hoosier Hawk"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which roller coaster was Indiana Beachs first?",
+    "correct": "Galaxy",
+    "choices": ["Cornball Express", "Tigrr", "Galaxy", "Steel Hawg"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In addition to the sandy beach, Indiana Beach also has a large waterpark.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of the following is not a lodging option at Indiana Beach?",
+    "correct": "Time-shares",
+    "choices": ["Cottages", "Time-shares", "Camping", "Motel"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What year did Indiana Beach open?",
+    "correct": "1926",
+    "choices": ["1996", "1929", "1955", "1926"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the Shafer Queen?",
+    "correct": "River boat",
+    "choices": [
+      "Fine dining restaurant",
+      "Mini golf course",
+      "Antique auto",
+      "River boat"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the Indiana Beach slogan?",
+    "correct": "Theres more than corn in Indiana.",
+    "choices": [
+      "A beach in the middle of nowhere",
+      "A beach in the middle of a corn field",
+      "Come and walk on the boardwalk!",
+      "Theres more than corn in Indiana."
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Indiana Beach has a water and ski show.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What type of walk-through attraction at Indiana Beach was voted the worlds #1 in 2006?",
+    "correct": "a haunted house",
+    "choices": [
+      "a house of mirrors",
+      "a petting zoo",
+      "a haunted house",
+      "a funhouse"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is Judge Dredds first name?",
+    "correct": "Joseph",
+    "choices": [
+      "Guido",
+      "None of these, nobody knows his first name",
+      "Joseph",
+      "Johnathan"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Judge Dredd is 2000 ADs longest-running character, appearing from the first issue in 1977.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Judge Dredds visual appearance was loosely based on the character of Frankenstein from the film Death Race 2000.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "The giant city, Mega City One, where Judge Dredd is a lawkeeper, is located in which area that we would recognise nowadays?",
+    "correct": "East coast USA",
+    "choices": [
+      "West coast USA",
+      "East coast USA",
+      "Australia",
+      "The British Isles"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What sentence does Judge Dredd frequently utter during his duties?",
+    "correct": "I am the law!",
+    "choices": [
+      "Thank Grudd its Friday!",
+      "Shop smart, shop S-Mart!",
+      "I am the law!",
+      "Respect my authority!"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What was the name of Judge Dredds clone-brother, who he turned in to the authorities when he began to break the law?",
+    "correct": "Rico",
+    "choices": ["Nico", "Tubbs", "Rico", "Tibbs"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Judge Dredd once lived in an apartment block named after a character from Rawhide.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of the following has Judge Dredd not battled against?",
+    "correct": "Daleks from the TV series Dr Who",
+    "choices": [
+      "Lobo from Omega Men comics",
+      "Predators from Predator films",
+      "Daleks from the TV series Dr Who",
+      "Xenomorphs from the Alien films"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the film Judge Dredd, who plays the title character?",
+    "correct": "Sylvester Stallone",
+    "choices": [
+      "Arnold Schwarzenegger",
+      "Lou Ferrigno",
+      "The Rock",
+      "Sylvester Stallone"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In The New Batman Adventures episode Over the Edge, who does Commissioner Gordon hire to help him kill Batman?",
+    "correct": "Bane",
+    "choices": ["The Joker", "Bane", "Two-Face", "Jack Napier"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Fictional character Batman has a son.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What issue did the Joker originally appear in?",
+    "correct": "Detective Comics #168",
+    "choices": [
+      "The Man Who Laughs",
+      "Detective Comics #168",
+      "Detective Comics #34",
+      "Batman#1"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In Homestar Runner, what power does the blue diamond on Strong Bads mask give him?",
+    "correct": "He can mentally open Cold Ones.",
+    "choices": [
+      "He can hover about three inches off the ground.",
+      "He can make a black dot appear on walls.",
+      "He can mentally open Cold Ones.",
+      "He can change the color of his mask at any time."
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the Internet cartoon Homestar Runner, Strong Bad works with Homestar and The Cheat at an unnamed tech company, but what is his dream job?",
+    "correct": "2nd 2nd assistant space whale scrubber",
+    "choices": [
+      "universal make-out helper for hot girls",
+      "2nd 2nd assistant space whale scrubber",
+      "death-defying juggling trapeze artist",
+      "supreme ultralord of the international gazebo"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the name of the fan club dedicated to Homestar Runner character Strong Bad?",
+    "correct": "The Deleteheads",
+    "choices": [
+      "The Deleteheads",
+      "The Trogdorians",
+      "The Geddup Noise",
+      "The Lucho Libres"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the e-mail secret recipes, Strong Bad claims he has a secret family recipe for cooking which of the following?",
+    "correct": "Chekt",
+    "choices": ["Cheek", "Chekt", "Chort", "Chemp"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the e-mail animal, Homestar Runner character Strong Bad is asked to make-up an animal. What is NOT one of the animals that he creates?",
+    "correct": "La Mongo",
+    "choices": [
+      "Sterrance",
+      "Da Huuuuuudge",
+      "Deep Sea Fangly Fish",
+      "La Mongo"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Cartoon character Strong Bad got this name because he can bench-press 125 pounds.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the Homestar Runner cartoon, Strong Bad and Strong Sad co-author the Teen Girl Squad comic.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which movie is this Warcraft 3 quote from?",
+    "correct": "Cool Hand Luke",
+    "choices": [
+      "Cool Hand Luke",
+      "For a Fistful of Dollars",
+      "Metal Man",
+      "Dirty Sanchez"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the cartoon series Calvin and Hobbes, what is Hobbes?",
+    "correct": "A stuffed tiger",
+    "choices": ["A stuffed leopard", "A boy", "A stuffed tiger", "A beagle"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is Calvins favorite subject according to the popular comics Calvin and Hobbes?",
+    "correct": "Dinosaurs",
+    "choices": ["Mammals", "Plants", "Space", "Dinosaurs"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the Calvin and Hobbes comics, Hobbes is constantly sneaking up on Calvin and pouncing on him when he doesnt expect it.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of these has not been used as a ring name by Hulk Hogan?",
+    "correct": "The Bronze Bomb",
+    "choices": [
+      "Mr. America",
+      "Sterling Golden",
+      "The Super Destroyer",
+      "The Bronze Bomb"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who bought the rights to the name Hulk Hogan in 2005?",
+    "correct": "Hulk Hogan",
+    "choices": ["Marvel Comics", "Hulk Hogan", "Vince McMahon", "Hiro Matsuda"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In what year was Hulk Hogan inducted into the WWE Hall of Fame?",
+    "correct": "2005",
+    "choices": ["2003", "2000", "2005", "1999"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Hulk Hogans oldest daughter Cassidy refuses to be filmed on the familys reality show.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is the name of Hulk Hogans wife, whom he married in 1983?",
+    "correct": "Linda",
+    "choices": ["Jessica", "Ruth", "Brooke", "Linda"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Hulk Hogan has played in several rock bands.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In what year did Hulk Hogan make his debut in the World Wrestling Federation?",
+    "correct": "1979",
+    "choices": ["1980", "1983", "1977", "1979"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of these actors has Hulk Hogan not co-starred with?",
+    "correct": "John Ritter",
+    "choices": [
+      "Christopher Lloyd",
+      "John Ritter",
+      "Sherman Hemsley",
+      "Ed Begley Jr."
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In which of the Rocky movies did Hulk Hogan have a part?",
+    "correct": "Rocky III",
+    "choices": ["Rocky", "Rocky III", "Rocky IV", "Rocky II"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which video game is the following quote from?",
+    "correct": "Escape from Monkey Island",
+    "choices": [
+      "Grim Fandango",
+      "Escape from Monkey Island",
+      "Monkey Island 2: LeChucks Revenge",
+      "Simon the Sorcerer 3D"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which video game are the following quotes from?",
+    "correct": "Call of Duty",
+    "choices": [
+      "Medal of Honor",
+      "Hidden and Dangerous 2",
+      "Battlefield 1942",
+      "Call of Duty"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Choose the missing words in the following lyrics to get the name of a song from Guitar Hero 3:",
+    "correct": "Mississippi queen",
+    "choices": [
+      "Dance queen",
+      "Pretty woman",
+      "Mississippi queen",
+      "Gorgeous lady"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Emmett Kelly, who initially was a trapeze artist, started working as a clown in what year?",
+    "correct": "1931",
+    "choices": ["1931", "1921", "1935", "1928"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What was the name of Emmett Kellys son, who also played a character named Weary Willie?",
+    "correct": "Emmett Kelly Jr.",
+    "choices": ["William Kelly", "Red Skelton", "Emmett Kelly Jr.", "Red Kelly"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Circus performer Emmet Kelly is depicted in a famous photograph trying to put out the fire that occurred shortly after the San Francisco Earthquake in 1938.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Emmett Kelly died of heart attack in 1979 at age of 80.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Emmett Kelly took a year off from the stage and circus to serve as mascot for which baseball team?",
+    "correct": "Brooklyn Dodgers",
+    "choices": [
+      "Los Angeles Dodgers",
+      "Brooklyn Dodgers",
+      "Kansas City Royals",
+      "New York Mets"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In 1957, Cecil B. DeMilles hired Emmett Kelly to perform in I, Clowns.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Circus performer Emmet Kelly started his trapeze act in 1923 with the John Robinson Circus.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Name Emmett Kellys birth state, which is also the location of the Emmett Kelly Museum.",
+    "correct": "Kansas",
+    "choices": ["Iowa", "Kansas", "Nevada", "Nebraska"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Emmett Kellys character, Weary Willie, always made fans burst out in laughter.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "How many contestants are there in the Miss America competition each year?",
+    "correct": "52",
+    "choices": ["50", "52", "40", "51"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "How many years does the winner of the Miss America Pageant hold the Miss America title?",
+    "correct": "1",
+    "choices": ["2", "4", "1", "She is Miss America for the rest of her life."]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Where did the first Miss America pageant take place?",
+    "correct": "Atlantic City, New Jersey",
+    "choices": [
+      "Las Vegas, Nevada",
+      "Miami, Florida",
+      "St. Louis, Missouri",
+      "Atlantic City, New Jersey"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "The Miss America Pageant is the number one provider of which of the following?",
+    "correct": "Scholarships for women in the United States",
+    "choices": [
+      "Medical insurance for women in the United States",
+      "Battered women shelters",
+      "Job opportunities for women in the United States",
+      "Scholarships for women in the United States"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "During the talent portion of the Miss America competition the contestants perform on stage. What are the two most common talents that are exhibited?",
+    "correct": "Singing and dancing",
+    "choices": [
+      "Cheer leading and speech",
+      "Piano and tap dancing",
+      "Acting and juggling",
+      "Singing and dancing"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In 1996, a phone-in poll was held to ask the public if they should continue with the swimsuit portion of the Miss America Pageant. What percentage of voters wanted the swimsuit portion to continue?",
+    "correct": "87%",
+    "choices": ["75%", "99%", "87%", "14%"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who was the very first woman to win the Miss America competition?",
+    "correct": "Margaret Gorman",
+    "choices": [
+      "Phyllis McDonald",
+      "Anne Washington",
+      "Margaret Gorman",
+      "Lee Meriwether"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What year was the Miss America competition televised for the very first time?",
+    "correct": "1955",
+    "choices": ["1980", "1952", "1926", "1955"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who became the first African American woman to win the title of Miss America?",
+    "correct": "Vanessa Williams",
+    "choices": [
+      "Halle Berry",
+      "Naomi Campbelle",
+      "Tyra Banks",
+      "Vanessa Williams"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "How many times can a woman compete in the Miss America pageant?",
+    "correct": "1",
+    "choices": ["It is not specified.", "3", "2", "1"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What hero do these words belong to: I fear no death, I fear no enemy, our",
+    "correct": "Fenix",
+    "choices": ["Tessadar", "Artanis", "Fenix", "Zeratul"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who created Popeye, Olive Oyl and Bluto?",
+    "correct": "Elzie C. Segar",
+    "choices": [
+      "Elzie C. Segar",
+      "Edgar C.  Segar",
+      "Max Flescher",
+      "Chester Gould"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Olive Oyl was created before Popeye.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who was the woman who was the basis for the character Olive Oyl?",
+    "correct": "Dora Paskel",
+    "choices": ["Dora Paskel", "Mae Questel", "Carol Lynnley", "Barbara London"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who provided the voice for Olive Oyl in the cartoons?",
+    "correct": "Mae Questel",
+    "choices": ["Carol Lynnley", "Dora Paskal", "Shelley Duvall", "Mae Questel"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Which of the following movies premiered in 1948?",
+    "correct": "Olive Oyl for President",
+    "choices": [
+      "Olive Oyl for President",
+      "Popyes Romance",
+      "Olive and Popeye",
+      "The Lovely Olive Oyl"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "In the  1980 movie Popeye, which pair portrayed Popeye and Olive?",
+    "correct": "Robin Williams and  Shelley Duvall",
+    "choices": [
+      "Robin Williams and  Shelley Duvall",
+      "Robin Williams and Carol Lynnely",
+      "Robin Williams and  Lily Tomlin",
+      "Ray Walston and  Lily Tomlin"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who was Sweet Pea?",
+    "correct": "It is never revealed.",
+    "choices": [
+      "Popeyes ward",
+      "Olive Oyls adopted son",
+      "It is never revealed.",
+      "Olive Oyls own baby"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who was Olive Oyls niece?",
+    "correct": "Diesel Oyl",
+    "choices": ["Vega Oyl", "Kamon Oyl", "Sutra Oyl", "Diesel Oyl"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What rock group is featured in the Rock n Roller Coaster?",
+    "correct": "Aerosmith",
+    "choices": ["Metallica", "Aerosmith", "Guns n Roses", "Motley Crew"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "The Dark Knight is an indoor roller coaster.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who created Captain America?",
+    "correct": "Joe Simon  Jack Kirby",
+    "choices": [
+      "Joe Simon  Jack Schuster",
+      "Stan Lee  Jack Kirby",
+      "Joe Simon  Jack Kirby",
+      "Jack Kirby  Bob Kane"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Captain America made his first appearance in what comic book?",
+    "correct": "Captain America Comics #1",
+    "choices": [
+      "War Comics #1",
+      "Tales of Suspense #58",
+      "Captain America Comics #1",
+      "Whiz Comics #2,"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who was Captain Americas sidekick during World War II?",
+    "correct": "Bucky",
+    "choices": ["Miss America", "Union Jack", "Bucky", "Flag Boy,"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What is Captain Americas secret identity?",
+    "correct": "Steve Rogers",
+    "choices": ["Nick Fury", "Peter Parker", "Steve Rogers", "Tony Stark"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "For a brief period during the 1970s, disillusioned by U.S. politics, Captain America changed his name to ...",
+    "correct": "Nomad",
+    "choices": ["Wanderer", "Exile", "Nomad", "Outsider"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What team of superheroes discovered Captain Americas body frozen in a block of ice in 1964?",
+    "correct": "Avengers",
+    "choices": ["Fantastic Four", "Defenders", "Avengers", "All-Star Squadron"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What villain did Captain America and Bucky fight in the very first issue of Captain America Comics?",
+    "correct": "Red Skull",
+    "choices": ["Viper", "Red Skull", "Baron Zemo", "Just Nazi soldiers"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "What was the original shape of Captain Americas shield?",
+    "correct": "Badge-shaped",
+    "choices": ["Star-shaped", "Circular", "Badge-shaped", "Square"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "Who played the title role in the 1979 TV movie Captain America?",
+    "correct": "Reb Brown",
+    "choices": ["Reb Brown", "Dick Purcell", "Matt Salinger", "Scott Paulin"]
+  },
+  {
+    "category": "Entertainment",
+    "sentence": "When Captain Americas original sidekick was wounded in combat, who replaced him?",
+    "correct": "Golden Girl",
+    "choices": ["The Human Torch", "Spitfire", "Miss America", "Golden Girl"]
+  }
+]

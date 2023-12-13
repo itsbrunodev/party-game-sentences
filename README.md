@@ -1,6 +1,6 @@
 ## party-game-sentences
 
-Generate random party game sentences like "would you rather, "never have I ever", "truth or dare", and "trivia".
+Generate random party game sentences like "trivia", "would you rather, "never have I ever" and "truth or dare".
 
 ### Installation
 
@@ -10,48 +10,73 @@ npm install party-game-sentences
 
 ### Usage
 
-```js
-// a "never have I ever" sentence
+```ts
+import {
+  neverHaveIEver,
+  truthOrDare,
+  wouldYouRather,
+  trivia,
+} from "party-game-sentences";
+// or
+const {
+  neverHaveIEver,
+  truthOrDare,
+  wouldYouRather,
+  trivia,
+} = require("party-game-sentences");
+```
+
+### Example Responses
+
+Below are examples of each function that returns a sentence.
+
+#### Getting a never have I ever sentence
+
+```ts
 neverHaveIEver();
+// Never have I ever been skydiving.
+```
 
-// a "truth" sentence from "truth or dare"
+#### Getting a truth sentence (can be "truth" or "dare")
+
+```ts
 truthOrDare("truth");
+// Have you ever cheated on a test?
+```
 
-// a "would you rather" sentence
+#### Getting a would you rather sentence
+
+```ts
 wouldYouRather();
-
-// a "trivia" sentence
-trivia();
-
-// a "trivia" sentence in the "Miscellaneous" category and a difficulty of "Easy"
-trivia({ categories: ["Miscellaneous"], difficulties: ["Easy"] });
-
-// get every "trivia" sentence
-getEverySentence("trivia");
-```
-
-### Example response
-
-Unlike the `neverHaveIEver` and `truthOrDare` functions, where only a string is returned, the `wouldYouRather` and `trivia` functions return a unique object.
-
-```js
-// a "would you rather" response
-{
-  sentence: "Would you rather have the ability to fly or be invisible?",
+/* {
+  sentence: 'Would you rather have the ability to fly or be invisible?',
   choice: {
-    one: "have the ability to fly",
-    two: "be invisible",
+    one: 'have the ability to fly',
+    two: 'be invisible'
   }
-}
+} */
 ```
 
-```js
-// a "trivia" response
-{
-  category: "Miscellaneous",
-  difficulty: "Easy",
-  question: "How many sides does a hexagon have?",
-  correct: "6",
-  choices: ["6", "4", "8", "10"]
-}
+#### Getting a random trivia sentence
+
+```ts
+trivia();
+/* {
+  "category": "Geography",
+  "sentence": "What is the capital of Italy?",
+  "correct": "Rome",
+  "choices": ["Venice", "Rome", "Naples", "Milan"]
+} */
+```
+
+#### Getting a trivia sentence in a specific category (can be multiple categories)
+
+```ts
+trivia({ category: ["General"] });
+/* {
+  "category": "General",
+  "sentence": "This drink contains caffeine.",
+  "correct": "Coffee",
+  "choices": ["Mineral water", "Orange juice", "Coffee", "Beer"]
+} */
 ```

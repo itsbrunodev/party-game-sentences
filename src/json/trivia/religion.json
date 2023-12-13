@@ -1,0 +1,4876 @@
+[
+  {
+    "category": "Religion",
+    "sentence": "What Hollywood actor portrayed Casanova in the 2005 movie entitled Casanova, based on the life of the popular adventurer?",
+    "correct": "Heath Ledger",
+    "choices": [
+      "Johnny Depp",
+      "Antonio Banderas",
+      "Heath Ledger",
+      "Ryan Phillippe"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these is NOT a son of Adam and Eve?",
+    "correct": "Enoch",
+    "choices": ["Enoch", "Cain", "Abel", "Seth"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Noah sent these two birds out of the ark to search for land:",
+    "correct": "raven and dove",
+    "choices": [
+      "raven and hawk",
+      "hawk and jay",
+      "raven and dove",
+      "dove and hawk"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Jacob had 12 sons.  Which of his wives/maids bore the most babies?",
+    "correct": "Leah",
+    "choices": ["Zilpah", "Leah", "Rachel", "Bilhah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these animals did the Israelites worship while Moses was on the mountain?",
+    "correct": "calf",
+    "choices": ["bull", "calf", "duck", "ram"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Many of King Solomons wise sayings are recorded in Book 10 of Proverbs.  Which of these is NOT found there?",
+    "correct": "When you see trouble coming, dont be stupid and walk right into it--be smart and hide.",
+    "choices": [
+      "When you see trouble coming, dont be stupid and walk right into it--be smart and hide.",
+      "Good people are remembered long after they are gone, but the wicked are soon forgotten.",
+      "Children with good sense make their parents happy, but foolish children make them sad.",
+      "You will say the wrong thing if you talk too much--so be sensible and watch what you say."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Mary was visited by this angel.",
+    "correct": "Gabriel",
+    "choices": ["Uriel", "Raphael", "Gabriel", "Michael"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Jesus was fond of using parables to give his messages.  Which of these was NOT one he used?",
+    "correct": "The Parable of the Old Men and the Young",
+    "choices": [
+      "The Parable of the Mustard Seed",
+      "The Parable of the Old Men and the Young",
+      "The Parable of the Prodigal Son",
+      "The Parable of the Ten Servants"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of the Horsemen of the Apocalypse is the first to be called out?",
+    "correct": "White Horse (Conquest )",
+    "choices": [
+      "Black Horse (Famine)",
+      "Red Horse (War)",
+      "White Horse (Conquest )",
+      "Pale/Green Horse (Death)"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Complete the following quote from Matthew 5:3: Blessed are the poor in spirit, for ________",
+    "correct": "theirs is the Kindgom of Heaven.",
+    "choices": [
+      "they shall be comforted.",
+      "shall be called children of God.",
+      "they shall see Heaven.",
+      "theirs is the Kindgom of Heaven."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who wrote the first five books of the Bible?",
+    "correct": "Moses",
+    "choices": ["Adam", "Joseph", "Moses", "Abraham"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the Bible, how many wives and concubines did Solomon have?",
+    "correct": "1000",
+    "choices": ["2000", "500", "1000", "100"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who wrote most of the books in the New Testament?",
+    "correct": "Paul",
+    "choices": ["David", "John", "Peter", "Paul"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who wrote the Book of Revelation while in exile?",
+    "correct": "John",
+    "choices": ["Paul", "Peter", "James", "John"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the accepted theory, how old was Jesus when He was crucified?",
+    "correct": "33",
+    "choices": ["33", "27", "40", "30"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How old was Jesus when He performed His first miracle (Biblical, not Apocriphal)?",
+    "correct": "30",
+    "choices": ["40", "33", "27", "30"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "David, the famous ancient King of Israel, was the oldest child in the family.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "It is stated in the Bible that God told Moses to build the Temple in Jerusalem.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the New Testament, who obtained permission to take Jesus Christs body down from the cross and place it in the tomb?",
+    "correct": "Joseph of Arimathea",
+    "choices": [
+      "Joseph of Arimathea",
+      "Joseph of Antioch",
+      "Mary Magdalene",
+      "Apostle Peter"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Apostle Paul was a kind, friendly and peace-loving man who always helped Christians even before his conversion to Christianity.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Seven people went on the ark with Noah according to the Bible, Genesis, chapters 6 to 9.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What was the profession of Luke the Apostle according to the New Testament?",
+    "correct": "Physician",
+    "choices": ["Tax collector", "Carpenter", "Physician", "Boat builder"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who committed the first murder in the Bible?",
+    "correct": "Cain",
+    "choices": ["Cain", "Solomon", "Adam", "Abel"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was Gods son according to the Bible?",
+    "correct": "Jesus",
+    "choices": ["John", "Peter", "Solomon", "Jesus"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the name of the angel that God sent to tell Mary she was to conceive Jesus?",
+    "correct": "Gabriel",
+    "choices": ["Abraham", "Gabriel", "Michael", "Peter"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was Jesus earthly father according to the Bible?",
+    "correct": "Joseph",
+    "choices": ["Solomon", "Joseph", "no one", "David"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of the following is not generally considered one of the seven deadly sins?",
+    "correct": "obfuscation",
+    "choices": ["obfuscation", "hatred", "lust", "envy"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to Matthew and Luke, in what city was Jesus born?",
+    "correct": "Bethlehem",
+    "choices": ["Jerusalem", "Bethlehem", "Babylon", "Nazareth"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Can a deacon get married?",
+    "correct": "Yes",
+    "choices": ["No", "Yes"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "You drink the coffee and turn the cup upside down.  The reader predicts the future, deciphering various patterns formed inside the cup.",
+    "correct": "Tasseomancy",
+    "choices": ["Hakata", "Scrying", "I Ching", "Tasseomancy"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This is a deck of 78 cards with pictures and inscriptions on them. They are divided into several suits and the person extracts cards that the reader interprets.",
+    "correct": "Tarot",
+    "choices": ["Tarot", "Cartopedy", "Belote", "Cledonism"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This method of divination uses air and water. The person covers their head with a cloth, fill a vase with water and expose it to the air.  They whisper a wish over the vase. If bubbles show on the water surface, this is considered a positive sign and the wish will probably come true.",
+    "correct": "Eromancy",
+    "choices": ["Water scrying", "Critomancy", "Dowsing", "Eromancy"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This method includes hexagrams which consist of six lines either solid or broken. Solid lines are considered strong and active, and broken lines stand for weak and acquiescent. These lines define the meaning of the hexagrams. Each hexagram has a different meaning. You determine your own hexagram by tossing 3 coins 3 times.",
+    "correct": "I Ching",
+    "choices": ["Tarot", "I Ching", "Aura information", "Astrology"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This method of divination uses a set of 24 alphabet letters that are usually carved on small tiles, so that the person could extract one of all 24 and to interpret its meaning. They were also carved and drawn building walls for protection.",
+    "correct": "Runes",
+    "choices": ["Runes", "Tarot", "Palm reading", "Shell scrying"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This is the careful screening of your palm, its shapes and lines in order to guess some events from the past and see events in the future.",
+    "correct": "Palmistry",
+    "choices": ["Palmistry", "Cledonism", "Tasseomancy", "Cartopedy"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This method uses climate conditions to predict the future. It was considered that climate is the attitude of gods towards men, and that each atmospheric event had its own meaning.",
+    "correct": "Aeromancy",
+    "choices": ["Cephalomancy", "Aeromancy", "Graphology", "Bibliomancy"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This method uses books for predicting ones future. The person should take a book, open to a random page and read a passage. Then he should interpret it.",
+    "correct": "Bibliomancy",
+    "choices": ["Geomancy", "Bibliomancy", "Hydromancy", "Chiromancy"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This way of divination uses onion sprouts. First a ritual is held in order to state what the divination is about. Then the onion sprouts are put on an altar. It is thought that onion sprouts can tell you about friends and relatives who are far away, give love advice and answer yes or no questions about the future.",
+    "correct": "Cromniomancy",
+    "choices": ["Cromniomancy", "Crystallomancy", "Chirognomy", "Cyclomancy"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This method uses birds to predict the future. The divinator scatters grains and then he carefully observes the way the birds peck at the grain.",
+    "correct": "Alectryomancy",
+    "choices": ["Austromancy", "Captopromancy", "Botanomancy", "Alectryomancy"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In ancient times people thought that illnesses were caused by demons, possessing the soul of a person. So they cured those illnesses with exorcism. Exorcism is derived from the Greek word  exorkizein. What does this word mean?",
+    "correct": "To bind by oath",
+    "choices": [
+      "To kill the soul",
+      "To kill the ghost",
+      "To expel the demon",
+      "To bind by oath"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Ancient Babylonian priests were one of the first exorcists. They meant to destroy the evil spirit, possessing the victim, by performing this ritual.",
+    "correct": "They destroyed a wax or clay image of a demon.",
+    "choices": [
+      "They killed the possessed person by stabbing them with a sacrificial knife.",
+      "They destroyed a wax or clay image of a demon.",
+      "They drew mighty symbols on the forehead of the victim.",
+      "They drilled a hole in the skull of the possessed."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Exorcism is not popular among religions nowadays.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Jesus Christ is considered to be an exorcist. One of the legends tells of Jesus casting out multiple demons from a madman. The spirits then entered the bodies of some animals. What kind of animals were they?",
+    "correct": "Pigs",
+    "choices": ["Vultures", "Pigs", "Crows", "Cows"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Jesus Christ gave the power to exorcise demons to his disciples.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In Judaism the evil spirit that possesses the soul of its victim is called dybbuk. It is exorcised through this part of the body.",
+    "correct": "Small toe",
+    "choices": ["Mouth", "Chest", "Small toe", "Left Arm"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The exorcist must feel as free of sin as possible. Why?",
+    "correct": "So demons cannot easily possess the exorcist",
+    "choices": [
+      "So the exorcist does not die",
+      "So the exorcist can easily absorb the demons",
+      "So demons cannot easily possess the exorcist",
+      "So the possessed victim does not die"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Exorcism is related to ASC. What does ASC stand for?",
+    "correct": "Altered State Of Consciousness",
+    "choices": [
+      "Affecting Spirit of Cataclysm",
+      "Affected Soul by Craziness",
+      "Affected Soul by Cabala",
+      "Altered State Of Consciousness"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "During Christian exorcism, the victim is to hold a crucifix and the exorcist is encouraged to use holy water and relics. These  two other objects should also be present.",
+    "correct": "Salt and Wine",
+    "choices": [
+      "Skull and Bones",
+      "Salt and Wine",
+      "Feather and Ink-pot",
+      "Sword and Shield"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Although all exorcisms proceed differently, some stages are common. There are five common stages - The Presence, Break-point, The Voice, The Clash and this.",
+    "correct": "Expulsion",
+    "choices": ["Expatriation", "Expulsion", "Deportation", "Redemption"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Adam was the first human made by God according to the Bible texts.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Ten Commandments can be found in the book of Exodus, New Testament.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, Gods laws were given to Moses on Mount Rushmore.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Moses talked to God on the mountain and received the Ten Commandments in 40 days.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Moses broke the tablets on which the Ten Commandments were written when he slipped on the rocky mountainside.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible texts, Jesus earthly father Joseph was sheep herder.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the Bible texts, “Am I my brother’s keeper?” was a question asked by Cain to God.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This line from the Bible is from an address by God to Noah: “And the bow shall be in the cloud and I will look upon it that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth.”",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, Judas Iscariot was paid 30 pieces of gold to betray Jesus.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In Genesis, we can read that Joseph was sold into slavery by his brothers.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The magic wand is a must have accessory of every witch, if she wants to work wonders. What is the wand is made of?",
+    "correct": "Hazel",
+    "choices": ["Glass", "Metal", "Chestnut", "Hazel"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Every new witch receives a special craft name, which they only disclose to coven members and keep a secret from everyone else.  Why?",
+    "correct": "Knowing the craft name gives magical powers",
+    "choices": [
+      "It would bring ill fate upon the person",
+      "It would take away the magical powers of the coven",
+      "It would kill the person who knows the secret name",
+      "Knowing the craft name gives magical powers"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Incense is often used in witchcraft.  What is the meaning of jasmine scented incense?",
+    "correct": "Luck in love",
+    "choices": [
+      "To ease hurt caused by love",
+      "Luck in love",
+      "True love",
+      "Intense desire"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This is one of the most widely used religious symbols. It is generally used for protection. Even though it is often associated with witchcraft, it was also used in Christianity, symbolizing the five wounds of Christ.",
+    "correct": "Pentagram",
+    "choices": ["Hazel", "Sword", "Pentagram", "Chalice"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This is when the spell casting powers are at their fullest.  It is the hour of midnight on a full moon.",
+    "correct": "The Witching Hour",
+    "choices": [
+      "The Midnight Hour",
+      "The Power Hour",
+      "The Witching Hour",
+      "The Moon Hour"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "It is  the magical power of this herb: In the event of some kind of troublesome misfortune, gather the root with care during the descent of the lions cub and hang it around your neck.  It will drive away cares and cause a merry heart. - Syrenius (1540 - 1611).",
+    "correct": "Angelica",
+    "choices": ["Wormwood", "Barberry", "Betony", "Angelica"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "An ancient tradition was to distinguish witches by their color. There were white, red, green, etc. witches. The tradition doesnt exist any more but the meaning of the colors is still applied in various practices. What is the color for these magical uses: divination, spirituality, protection, psychic powers, healing, truth, peace?",
+    "correct": "White",
+    "choices": ["Green", "Pink", "White", "Yellow"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "When you collect flowers or herbs for magical purposes you should have in mind the hour at which you gather them. What are the magical hours?",
+    "correct": "3, 6, 9 and 12",
+    "choices": [
+      "3, 6, 9 and 12",
+      "4, 6, 8 and 11",
+      "1, 7, 9 and 11",
+      "1, 4, 5 and 10"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This ancient pagan ritual was practiced in Scotland until the end of the 19th century. It allows a couple to make a commitment to each other within their own spiritual path. This commitment lasts for one year and a day. After that the couple can go their own way or renew their bond.",
+    "correct": "Handfasting",
+    "choices": ["Handfasting", "Faerie", "Anam cara", "A prayer of passage"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is this spell used for?  Dear Father, tsar fire, be gentle and kind to me.  Burn away all my aches  pains, tears  worries.",
+    "correct": "Happiness",
+    "choices": ["Love", "Happiness", "Wealth", "Faith"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Every Catholic can receive any of the seven sacraments, but no one can receive all seven.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the Catholic term describing a place of purification after bodily death, but before the soul enters heaven?",
+    "correct": "purgatory",
+    "choices": ["apocalypse", "limbo", "purgatory", "apocrypha"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This part of the Catholic mass, in which the priest asks God to change the bread and wine into Jesus body and blood, is called what?",
+    "correct": "consecration",
+    "choices": ["invocation", "consecration", "offertory", "communion"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Hail Mary is a biblical prayer.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What was the church council that revised the prayers used in the Catholic mass and authorized masses to be said in the language of the local people?",
+    "correct": "Vatican II",
+    "choices": ["Nicea", "Vatican II", "Vatican I", "Trent"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "A schism in the Christian church culminated in two bishops excommunicating each other in 1054, resulting in what?",
+    "correct": "the division between Catholicism and Orthodoxy",
+    "choices": [
+      "the division between Catholicism and Orthodoxy",
+      "the Protestant Reformation",
+      "the ecumenical movement",
+      "the Crusades"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "There are ten holy days of obligation, days other than Sunday on which all the worlds Catholics are required to attend mass.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the Catholic term for a person who, after death, goes to heaven?",
+    "correct": "saint",
+    "choices": ["saint", "cherub", "seraph", "angel"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What does the Catholic church teach about Mary, Jesus mother?",
+    "correct": "She was a virgin until her death.",
+    "choices": [
+      "She was a virgin when Jesus was born, but not necessarily after.",
+      "Joseph divorced her quietly after Jesus was born.",
+      "She was a virgin when Jesus was conceived, but not necessarily after.",
+      "She was a virgin until her death."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bibles description of the creation of the world, on what day of the week were the sun, moon, and stars formed?",
+    "correct": "Fourth",
+    "choices": ["Second", "Third", "Fifth", "Fourth"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, Sarah and Abraham have a common relative by blood.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who begged for the body of Jesus to give it a proper burial?",
+    "correct": "Joseph of Arimathaea",
+    "choices": ["Joseph of Arimathaea", "Peter", "Mark", "Matthew"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What scripture of the King James Bible is most noted for the story of the birth of Jesus?",
+    "correct": "Luke, Chapter 2",
+    "choices": [
+      "Luke, Chapter 1",
+      "Luke, Chapter 3",
+      "Luke, Chapter 2",
+      "Matthew, Chapter 2"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the biblical texts, whom do these words belong to: Thou shalt have no other gods before me!?",
+    "correct": "God",
+    "choices": ["Moses", "Aaron", "Miriam", "God"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The first of the 10 commandments that also contains a promise was Honor thy Father and Mother.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was Ruths mother-in-law according to biblical texts?",
+    "correct": "Naomi",
+    "choices": ["Mara", "Naomi", "Orpah", "Boaz"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, Ruth was the great grandmother of David.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who wrote Epistle to the Romans, included in the New Testament canon of the Christian Bible?",
+    "correct": "Paul",
+    "choices": ["Peter", "Paul", "Mark", "Luke"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to Christian beliefs, what was the nature of the first sin man ever committed?",
+    "correct": "Disobedience",
+    "choices": ["Greed", "Murder", "Disobedience", "Blasphemy"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bibles interpretation of Moses life, who ran along the bank to make sure that Moses was alright in his basket after he was set adrift on the Nile river?",
+    "correct": "His sister",
+    "choices": ["His brother", "His mother", "His sister", "His father"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, did the Pharaoh’s wife find little Moses who was drifting along the Nile in a basket.",
+    "correct": "No",
+    "choices": ["No", "Yes"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What does the name Moses mean according to the Biblical texts?",
+    "correct": "Drawn out",
+    "choices": [
+      "Found",
+      "Child of the river",
+      "Conceived by a Hebrew",
+      "Drawn out"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What was the name of Mosess brother according to the Bible?",
+    "correct": "Aaron",
+    "choices": ["Clive", "Aaron", "Peter", "John"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to Exodus, what was the ninth plague that God inflicted on Egypt in order to convince Pharaoh to let the Israelite slaves leave?",
+    "correct": "Darkness",
+    "choices": ["Death of First Born Child", "Lice", "Darkness", "Frogs"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Why did Moses have to flee out of Egypt and settle on the Sinai Peninsula according to the Bible?",
+    "correct": "He killed an Egyptian",
+    "choices": [
+      "He killed an Egyptian",
+      "He was banned for disrespectable behaviour towards the Pharaoh.",
+      "None of these",
+      "He killed the Pharaoh"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the last chapters of Exodus, what was the Tabernacle, which was built after the Israelites passed safely the Red Sea with Gods help?",
+    "correct": "A portable place of worship",
+    "choices": [
+      "A vehicle with a prayer altar",
+      "A portable prayer altar",
+      "A portable place of worship",
+      "A portable irrigating system"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who is the second oldest living man according to the Bible?",
+    "correct": "Jared",
+    "choices": ["Enoch", "Mahalalel", "Jared", "Methuselah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the name of the only Archangel mentioned in the Bible?",
+    "correct": "Michael",
+    "choices": ["Lucifer", "Jesus", "Michael", "Gabriel"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was emperor of Rome at the time of Jesus death?",
+    "correct": "Tiberius",
+    "choices": ["Augustus", "Tiberius", "Caligula", "Claudius"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "King Solomon had 300 wives and 700 concubines.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This tradition was founded in England in the 1960s by Alex Sanders, who referred to himself as the King of his Witches.",
+    "correct": "Alexandrian",
+    "choices": ["Strega", "Gardnerian", "Celtic", "Alexandrian"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Caledonii tradition comes from this country.",
+    "correct": "Scotland",
+    "choices": ["France", "Italy", "England", "Scotland"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This system is indigenous to South Central Pennsylvania, USA.",
+    "correct": "Pow-Wow",
+    "choices": ["Strega", "Satanic", "Pow-Wow", "Seax-Wica"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This tradition was founded by Raymond Buckland in 1973.",
+    "correct": "Seax-Wica",
+    "choices": ["Seax-Wica", "Dianic", "Teutonic", "Hereditary"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This tradtion is also know as the Nordic tradition.",
+    "correct": "Teutonic",
+    "choices": ["Eclectic", "British Traditional Witch", "Pictish", "Teutonic"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The International Red Garters are an organization of British traditional witches.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "If I practice the Craft by myself,  not as part of a coven, I am said to be this.",
+    "correct": "Solitary",
+    "choices": ["Strega", "Solitary", "Alexandrian", "Pictish"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "An eclectic witch strictly follows his or her chosen tradition.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Voodoo is actually a religion, which originated in Africa. Voodoo comes from the West African word vodun. What does vodun mean?",
+    "correct": "Spirit",
+    "choices": ["Revenge", "Spirit", "Doll", "Death"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The structure of Voodoo, as we know it today, was developed after the Europeans started slavery. Where was Voodoo born?",
+    "correct": "Haiti",
+    "choices": ["Jamaica", "Hawaii", "Taiti", "Haiti"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Voodoo rituals include animal sacrifice.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The French rulers persecuted Voodoo priests and practitioners. In 1791 a revolution exploded, which was led by the Voodoo priests. It ended in the year of Napoleons crowning.",
+    "correct": "1804",
+    "choices": ["1784", "1804", "1754", "1854"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The high Voodoo priest and priestess are often called this.",
+    "correct": "Papa and Maman",
+    "choices": [
+      "Papa and Maman",
+      "Supreme Magicians",
+      "Son and Daughter of the Serpent",
+      "Dad and Mum"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Voodoo Dancing is just a prelude to sexual frenzy.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In Voodoo, God is considered to be too distant for people to communicate with. Therefore, Voodoo priests communicate with God through Loa. What is Loa?",
+    "correct": "The spirits",
+    "choices": ["The spirits", "The dolls", "The drums", "The demons"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Voodoo dolls are commonly used for voodoo.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Voodoos equivalent in Cuba is Santeria. Do you know which the equivalent of Voodoo in Brazil is?",
+    "correct": "Macumba",
+    "choices": ["Maabaa", "Mooboo", "Macumba", "Mojo"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Nowadays Voodoo is no longer a religion.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How is New Year referred to in Judaism?",
+    "correct": "Rosh Hashannah",
+    "choices": ["Tzom Gedalia", "Rosh Hashannah", "Yom KIppur", "Shabbat"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "At Passover, Jews eat a special meal done in a special order.  What is that meal called?",
+    "correct": "A seder",
+    "choices": [
+      "A festavus for the rest of us",
+      "A seder",
+      "A Shidduch",
+      "A circumcision"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the traditional Jewish prayer book called?",
+    "correct": "Siddur",
+    "choices": ["Siddur", "Seder", "The United Psalmistry", "Shofar"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How many letters are in the hebrew alphabet?",
+    "correct": "22",
+    "choices": ["24", "22", "25", "20"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How many vowels are in the Hebrew alphabet ?",
+    "correct": "0",
+    "choices": ["8", "0", "5", "6"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "We consider there to be three Patriarchs in Judaism. Who were they?",
+    "correct": "Abraham, Issac, Jacob",
+    "choices": [
+      "Moses, David, Abraham",
+      "Abraham, David, Moses",
+      "Abraham, Issac, Jacob",
+      "David, Joshua, Solomon"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In Judaism, who was Joshuas father?",
+    "correct": "Nun",
+    "choices": ["Abraham", "Solomon", "Nun", "Moses"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "On the first day of which month do Jews celebrate New Year?",
+    "correct": "Tishrei",
+    "choices": ["Cheshvan", "Adar", "Tishrei", "Av"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which Hebrew phrase is most commonly associated with the English expression Good Luck and/or Congratulations?",
+    "correct": "Mazel Tov",
+    "choices": ["Laych lGehinnom", "Hayem Yankel", "Oy Vey", "Mazel Tov"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was the Baal Shem Tov ?",
+    "correct": "The founder of Chassidism",
+    "choices": [
+      "The founder of the Bnai Brith",
+      "The first Premier of  Israel",
+      "The founder of Chassidism",
+      "The first President of Israel"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the second half of the Acts of the Apostles, what was Pauls name before God changed it?",
+    "correct": "Saul",
+    "choices": ["Peter", "Luke", "Saul", "John"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The second chapter of the Gospel of Luke, Luke 2, tells us the story of Christs birth.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the Old Testament, a man is said to have lived to be 969 years old.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "There is a man in the Bible named Rehoboam who had 88 children.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "There was an army mentioned in the Old Testament that consisted of men who were all left-handed and numbered 700.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Does the Bible ever speak of the sun moving backwards?",
+    "correct": "Yes",
+    "choices": ["No", "Yes"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which line gives the correct order of the first 5 books of the Old Testament?",
+    "correct": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy",
+    "choices": [
+      "Genesis, Leviticus, Numbers, Deuteronomy, Exodus",
+      "Genesis, Exodus, Numbers, Deuteronomy, Leviticus",
+      "Genesis, Exodus, Leviticus, Deuteronomy, Numbers",
+      "Genesis, Exodus, Leviticus, Numbers, Deuteronomy"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What tribe of Israel was Moses born into?",
+    "correct": "Levite",
+    "choices": ["Reubon", "Benjamin", "Jacob", "Levite"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Eye of newt and toe of frog",
+    "correct": "Macbeth",
+    "choices": ["The Tempest", "Hamlet", "A Midsummers Night Dream", "Macbeth"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "She held me spellbound in the night",
+    "correct": "The Eagles",
+    "choices": ["J Giles Band", "The Eagles", "The Zombies", "Grateful Dead"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Do you think God knew what He was doing when he created woman? Or do you think it was another one of his minor mistakes like tidal waves, earthquakes or FLOODS!, asked Daryl Van Horne in The Witches of Eastwick. What actor played Daryl Van Horne, just your average horny little devil?",
+    "correct": "Jack Nicholson",
+    "choices": [
+      "Dennis Hopper",
+      "Harvey Keitel",
+      "Christopher Walken",
+      "Jack Nicholson"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Ding dong the witch is dead.",
+    "correct": "The Wicked Witch of the East",
+    "choices": [
+      "The Wicked Witch of the West",
+      "The Wicked Witch of the North",
+      "The Wicked Witch of the South",
+      "The Wicked Witch of the East"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The movie An American Haunting was based on one of the most famous hauntings in American folklore. A Tennessee farmer shot at a strange animal with the body of a dog and the head of a rabbit.  What name was given to the entity that haunted the family and was said to have murdered the Tennessee farmer?",
+    "correct": "The Bell Witch",
+    "choices": [
+      "The Blair Witch",
+      "The White Witch",
+      "Mother Shipton",
+      "The Bell Witch"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The works of this Jewish thinker formed the basis of the writings of Thomas Aquinas.",
+    "correct": "Maimonides",
+    "choices": ["Rashi", "Bal Shem Tov", "Maimonides", "Ibn Gabriol"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is prayer shawl worn by Jews in the morning Jewish services, during the Torah service, on Yom Kippur, and other holidays called?",
+    "correct": "A tallit",
+    "choices": ["A kippah", "A mohel", "A mezzuzah", "A tallit"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Even when Jewish men are not reading Torah, they wear a garment with fringes with knots. It is worn under the shirt with the fringes exposed. What is this garment called ?",
+    "correct": "Tallit katan",
+    "choices": ["Yarmulka", "Tephilin", "Tallit katan", "Kippah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The night before Yom Kippur, called this,  is the most important night service in Judaism.",
+    "correct": "Kol Nidre",
+    "choices": ["Rosh Hashannah", "Musaff", "Shabbat  HaGadol", "Kol Nidre"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The most important prayer in Judaism is called the Shema. What does it affirm?",
+    "correct": "Our faith that there is one and only God.",
+    "choices": [
+      "That we will not be moved",
+      "Our faith that there is one and only God.",
+      "That everyday problems will eventually solve if we have faith",
+      "We thank God for delivering us from at least some of our problems"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the first letter of the Hebrew alphabet?",
+    "correct": "Aleph",
+    "choices": ["Dalet", "Gimmel", "Bet", "Aleph"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What do Jews do when the case which houses the Torah is opened?",
+    "correct": "Stand up",
+    "choices": ["Become quiet", "Close eyes", "Bow heads", "Stand up"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "On the Holy Day of Yom Kippur, Jews ask that all their sins be forgiven.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "On which Holy Day do Jews feast on unleavened bread?",
+    "correct": "Passover",
+    "choices": ["Rosh Hashannah", "Channukah", "Passover", "Yom Kippur"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "There are two ways to pronounce Hebrew words. One is called Ashkanazi and the other one, this",
+    "correct": "Sephardic",
+    "choices": ["Galut", "Asian", "Sawphateet", "Sephardic"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "These fundamental statements have led to the formulation of the Buddhist philosophy, and contain the basic principles of the spiritual teacher, Buddha.",
+    "correct": "The Four Noble Truths",
+    "choices": [
+      "The Seven Articles of Faith",
+      "The Three Scrolls",
+      "The Ten Paths",
+      "The Four Noble Truths"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the central theme of the teachings of religious teacher Buddha and of Buddhist philosophy as a whole?",
+    "correct": "Suffering",
+    "choices": [
+      "Happiness",
+      "Achieving perfection",
+      "Achieving unity with nature",
+      "Suffering"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What was the birth name of the historic figure known as Buddha, the founder of the Buddhist religion?",
+    "correct": "Siddhartha Gautama",
+    "choices": [
+      "Siddhartha Gautama",
+      "Jakili Saruputa",
+      "Elkini Baros",
+      "Malik Mohammed"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the formula to end or reduce suffering according to the principles of Buddhism?",
+    "correct": "The Noble Eightfold Path",
+    "choices": [
+      "The Ten Righteous Practices",
+      "Deep Meditation",
+      "The Noble Eightfold Path",
+      "The Six Cures"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "After completing his religious reawakening, Buddha considered himself to be which of these?",
+    "correct": "a man, who woke up to the nature of reality",
+    "choices": [
+      "a man, who woke up to the nature of reality",
+      "a god",
+      "a prophet, sent by a supreme being to deliver the universal truth",
+      "pure spiritual energy"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The beginning of the Buddhist religion can be traced back to the fifth century BC in which country?",
+    "correct": "India",
+    "choices": ["China", "Thailand", "India", "Pakistan"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the Japanese variation of Buddhism, that emphasizes on the role of sitting meditation in pursuing enlightenment?",
+    "correct": "Zen",
+    "choices": ["Mahayana", "Thervada", "Zen", "Tantric"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the definition of Zen Koan, one of the important aspects of Buddhist religious practices?",
+    "correct": "A question, meant to challenge rational thinking",
+    "choices": [
+      "A question, meant to challenge rational thinking",
+      "A clan of spiritual leaders in the Zen Buddhist religious community",
+      "A sitting pillow, used during mediation",
+      "An robe worn by Zen Buddhist monks"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Creating complex, radial, and symbolic sand paintings is a practice typical for which branch of Buddhism?",
+    "correct": "Tibetan Buddhism",
+    "choices": [
+      "Theravadic Buddhism",
+      "Tibetan Buddhism",
+      "Nichiren Buddhism",
+      "Zen Buddhism"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of the following statements best describes the essence of Buddhism?",
+    "correct": "It is a means for people to save themselves.",
+    "choices": [
+      "It is a means for people to save themselves.",
+      "It is the legacy of a prophet, sent to earth with a message of universal love.",
+      "It is a religion that seeks to attract and convert others.",
+      "It is a tradition aimed at spreading peace in the world."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Son of a Jewish immigrant from Breslau, Prussia, Lucius Nathan Littauer was born in Gloversville, Upstate New York, in 1859. Being a politician wasnt his only occupation; what is Lucius Littauers other achievement with which he remained in history?",
+    "correct": "The first Jewish football coach at Harvard",
+    "choices": [
+      "The first Jewish  basketball coach in Oxford",
+      "The first professional Jewish baseball player",
+      "The first Jewish football coach at Harvard",
+      "The first Jewish professional football coach"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Julius Vogel, a London born Jew, who first became involved in politics in 1862, was the first Jew to be on this political post.",
+    "correct": "Prime Minister of New Zealand",
+    "choices": [
+      "Prime Minister of Australia",
+      "Prime Minister of Canada",
+      "Prime Minister of New Zealand",
+      "Governor General of Canada"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "During the 1968 presidential campaign, Rabbi Baruch Korff developed a personal relationship with this American president, who even referred to Korff as My Rabbi.",
+    "correct": "Richard Nixon",
+    "choices": [
+      "Gerald Ford",
+      "Lyndon Johnson",
+      "Richard Nixon",
+      "Jimmy Carter"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In 1927 Charles A. Levine was the first Jew to do what?",
+    "correct": "Fly the Atlantic",
+    "choices": [
+      "Fly the Atlantic",
+      "Fly a USAF fighter",
+      "Get a degree in aerospace engineering",
+      "Build a monoplane"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In what business did John M. Brunswick and his two half brothers, David and Emmanuel, make their fortune?",
+    "correct": "Billiard table business",
+    "choices": [
+      "Entertaining industry",
+      "Aircraft industry",
+      "Billiard table business",
+      "Cell phone business"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The music for Somewhere Over the Rainbow, one of the most famous and beloved songs of the late 1930s, was based on a Jewish Cantorial theme.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Isachar Zacharie, an English born Jew, who was related to important American politicians, worked as what?",
+    "correct": "Lincolns podiatrist",
+    "choices": [
+      "Lincolns podiatrist",
+      "Al Gores press secretary",
+      "The first Jewish Prime Minister",
+      "Washingtons lawyer in Virginia"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Why was Rabbi David Einhorn, a German rabbi and later leader of the Jewish reform movement in the United States, forced to leave Baltimore in 1861, during the Civil War?",
+    "correct": "He preached against slavery",
+    "choices": [
+      "He expressed too radical views",
+      "He insulted the Governor of Maryland,Thomas Hicks",
+      "He insulted the Mayor of Baltimore, George Williams",
+      "He preached against slavery"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "A famous and talented composer was almost bankrupt when he wrote one of his best-known works, Judas Maccabaeus - an oratorio based on a Jewish theme. Who was this classical composer?",
+    "correct": "Handel",
+    "choices": ["Hayden", "Handel", "Chopin", "Mozart"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Marty Glickman and Sam Stoller were great 100-yard runners in the 1930s. They were to be on the 4x100 meter relay race team for the USA in the 1936 Olympics, but eventually did not take part in the race. What was the reason?",
+    "correct": "Hitler demanded their exclusion",
+    "choices": [
+      "They were late to the field",
+      "They refused to run on Saturday (Shabbos)",
+      "They were caught using steroids",
+      "Hitler demanded their exclusion"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Bodhisattva is consciously seeking what?",
+    "correct": "Enlightenment",
+    "choices": ["Tranquility", "Enlightenment", "Thangka", "Buddha"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is Dharma?",
+    "correct": "The cosmic principles of existence",
+    "choices": [
+      "The cosmic principles of existence",
+      "The Hindu Goddess of happiness",
+      "The extinction of desire and individual consciousness",
+      "Same as Adharma"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Buddhist believe that this depends on the actions that we have taken in the past.",
+    "correct": "Our births",
+    "choices": ["Our Nirvana", "Our happiness", "Our births", "Our Karma"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In Buddhism the cycle of rebirths is known as what?",
+    "correct": "Samsara",
+    "choices": ["Bodhi", "Dharma", "Samsara", "Thangka"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which saint is known as the patron of children?",
+    "correct": "Nicholas",
+    "choices": ["Anthony", "Nicholas", "Barbara", "Martha"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who is known as the patron of India?",
+    "correct": "Francis Xavier",
+    "choices": ["Francis Xavier", "John the Divine", "Giles", "Catherine"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "St. Benedict is known as the patron of which of these groups of people?",
+    "correct": "Monks",
+    "choices": ["Monks", "Librarians", "Musicians", "Fishermen"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was the first Italian-American woman to be canonized as a saint of the Catholic Church?",
+    "correct": "Frances Cabrini",
+    "choices": [
+      "Mother Catherine",
+      "Dorothea of the Angels",
+      "Frances Cabrini",
+      "Agnes of God"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which saint is referred to as the patron of fishermen?",
+    "correct": "Andrew the Apostle",
+    "choices": [
+      "Andrew the Apostle",
+      "Raphael the Archangel",
+      "Jerome",
+      "Sebastian"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which  saint is most often invoked for the recovery of a lost object?",
+    "correct": "Anthony",
+    "choices": ["Josephine", "Rebecca", "Anthony", "Jude"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who used to be the patron saint of travelers?",
+    "correct": "St. Christopher",
+    "choices": ["St. Michael", "St. Christopher", "St. Theresa", "St. Andrew"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which saint is the patron of all animals and living creatures?",
+    "correct": "Francsis of Asissi",
+    "choices": [
+      "Francsis of Asissi",
+      "Francis de Salles",
+      "Francis of Rome",
+      "Francis Xavier"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who is the patron saint of writers and librarians?",
+    "correct": "Jerome",
+    "choices": ["Jerome", "Thomas Aquinas", "Gregory", "Edward the Confessor"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "To which saint does one pray for healthy eyes?",
+    "correct": "St. Lucy, Virgin",
+    "choices": [
+      "St. Mary of Naples",
+      "St. Lucy, Virgin",
+      "St. Frances of the Holy Redeemer",
+      "St. Anne"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the Hindu Trinity?",
+    "correct": "Vishnu, Brahma, Shiva",
+    "choices": [
+      "Shiva, Brahma, Krishna",
+      "Shiva, Lakshmi, Ganesh",
+      "Vishnu, Brahma, Shiva",
+      "Buddha, Brahma, Ganesh"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Hinduism is a monotheistic religion.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the most sacred river for Hindus?",
+    "correct": "Gange",
+    "choices": ["Jamuna", "Gange", "Siddharta", "Goa"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How many women-followers did the Hindu deity Lord Krishna have?",
+    "correct": "108",
+    "choices": ["108", "2", "1", "167"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What are the main characters of the ancient Sanskrit epic Ramayana?",
+    "correct": "Rama and Sita",
+    "choices": [
+      "Brahma and Vishnu",
+      "Rama and Krishna",
+      "Rama and Sita",
+      "Krishna and Shiva"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who is the founder of the International Society for Krishna Consciousness, known as the Hare Krishna?",
+    "correct": "Prabhupada",
+    "choices": ["Prabhupada", "George Harrison", "Sai Baba", "Dalai Lama"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Lord Ganesh, one of the most worshipped divinities in Hinduism, has the head of what animal?",
+    "correct": "elephant",
+    "choices": ["cobra", "lion", "bear", "elephant"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these belonged to the highest-ranking Hindu caste?",
+    "correct": "priests",
+    "choices": ["widows", "warriors", "priests", "workers"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Krishna is an incarnation of which Hindu god?",
+    "correct": "Vishnu",
+    "choices": ["Vishnu", "Buddha", "Shiva", "Brahma"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Swastika is a solar symbol for Hindus.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Book of Esther, Esther replaced this disobedient Biblical queen.",
+    "correct": "Queen Vashti",
+    "choices": ["Queen Ruth", "Queen Vashti", "Queen Mary", "Queen of Sheba"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This brave Biblical woman led the Israelites to victory in the battle against Sisera.",
+    "correct": "Deborah",
+    "choices": ["Rebecah", "Leah", "Sarah", "Deborah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, King David saw this beautiful woman bathing, and immediately desired her, but she was married.",
+    "correct": "Bathsheba",
+    "choices": ["Ahinoam", "Abigail", "Michal", "Bathsheba"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This Biblical woman couldnt have children, but finally God granted her a son, who was to be named Samuel and become one of the Bibles most prolific prophets of all time.",
+    "correct": "Hannah",
+    "choices": ["Hannah", "Abigail", "Peninnah", "Hagar"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the New Testament, this woman had a son called John the Baptist.",
+    "correct": "Elizabeth",
+    "choices": ["Martha", "Elizabeth", "Maacah", "Mary"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Book of Exodus, this brave mother hid her young baby son, Moses, in a basket along the Nile River, so that no one could kill him.",
+    "correct": "Jochebed",
+    "choices": ["Jochebed", "Miriam", "Martha", "Zipporah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This biblical heroine hid two Israelite spies in her house under stalks of flax.",
+    "correct": "Rehab",
+    "choices": ["Leah", "Rehab", "Naomi", "Rachel"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the Bible, this woman gave birth to male twins and as she was in labor the twins jostled each other, one babys hand grasping the heel of the other infants foot.",
+    "correct": "Rebekah",
+    "choices": ["Rachel", "Rebekah", "Leah", "Hagar"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This Biblical woman poured perfume on Jesus feet and wiped them with her hair.",
+    "correct": "Mary",
+    "choices": ["Mary", "Keturah", "Samaritan woman", "Sarah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, this woman became a widow and decided to live with her mother-in-law instead of going home to her family. She then married Boaz.",
+    "correct": "Ruth",
+    "choices": ["Ruth", "Naomi", "Oprah", "Esther"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these architects designed St. Peters Basilica in Rome?",
+    "correct": "Carlo Marchionni",
+    "choices": [
+      "Carlo Marchionni",
+      "Donato di Niccolò di Betto Bardi",
+      "Michelangelo di Lodovico Buonarroti Simoni",
+      "Gian Lorenzo Bernini"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Raphael Santi was the original architect of the Chigi Chapel but Gian Bernini finished it, after Raphael became a father.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "St. Peters Basilica is both the Popes principal church and his official ecclesiastical seat.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Temple of Vespasian was begun by Titus after whose death?",
+    "correct": "his father, Vespasian",
+    "choices": [
+      "his brother-in-law, Jesus",
+      "his father, Vespasian",
+      "his brother, Domitian",
+      "his best friend, Tiberius"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Following Michelangelos death, his student, Giacomo della Porta continued with the unfinished portions of Palazzo Farnese.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Did Leonardo Da Vinci design the facade for the church of Santa Bibiana.",
+    "correct": "No",
+    "choices": ["No", "Yes"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "When Michelangelo was still an apprentice, he made an imitation of a famous Roman statue that was sold in Rome as an ancient Roman original. What was the name of the original statue?",
+    "correct": "Il Putto Dormiente",
+    "choices": ["Cherubini", "Bacchus", "Il Putto Dormiente", "Moses"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "All originals of Leonardo da Vincis Leda and the Swan have been either lost or destroyed.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How  many books are in the Torah?",
+    "correct": "5",
+    "choices": ["18", "5", "21", "10"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Jason Marquis (Cardinals), Shawn Green (Arizona),and Brad Asmus (Houston) are all Jewish.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What was the only automobile brand named after a Jew?",
+    "correct": "Citroen",
+    "choices": ["Oldsmobile", "Citroen", "Duesenberg", "Auburn"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these great home run hitters was Jewish?",
+    "correct": "Hank Greenberg",
+    "choices": [
+      "Tony Gwynn",
+      "Hank Greenberg",
+      "Jimmy Foxx",
+      "King Kong Keller"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Except for Saturday, how many times a day must an Orthodox Jew pray?",
+    "correct": "3",
+    "choices": ["19", "3", "1", "5"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "On front of the home of every Jew, there is a special decoration or religious symbol. It is also found inside the home at very doorpost and every gate. In each one, there are three sections of the (Old) Testament.  What do we call these religious objects?",
+    "correct": "Mezzuzas",
+    "choices": ["Moshiach", "Mohels", "Mezzuzas", "Torahs"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "On Columbus first trip to the new world, many Jews were employed by Columbus. What was the highest job held by a Jew?",
+    "correct": "Translator",
+    "choices": ["Weatherman", "Translator", "Treasurer", "Supply commander"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What religious article must every unmarried Jewish woman wear?",
+    "correct": "None",
+    "choices": ["Red String", "Star of David", "None", "Fringes"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In Judaism locusts are kosher, which means that they are allowed to be eaten.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In every synagogue, in every country in the world, there are the same number of statues. How many?",
+    "correct": "0",
+    "choices": ["10", "5", "0", "3"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, God forbade Adam and Eve to eat the fruit of the apple tree.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who is the first human who murdered a human according to the Bible?",
+    "correct": "Cain",
+    "choices": ["Eve", "Cain", "Adam", "Abel"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Book of Revelation, there are angels of the Devil.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "It is written in the Bible, that false Christs and prophets will arise and will show great signs and wonders.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to Christian theology, Jesus Christ is a person with an entirely human nature.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What Biblical figure built an ark on top of a mountain?",
+    "correct": "Noah",
+    "choices": ["Moses", "Jacob", "Noah", "Joseph"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What Biblical hero split the sea so that he and his people could go across?",
+    "correct": "Moses",
+    "choices": ["Noah", "Joseph", "Jacob", "Moses"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What does the name Moses mean according to the Bible?",
+    "correct": "taken from the water",
+    "choices": ["Prince of Egypt", "taken from the water", "beautiful", "sour"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How many books are there in the Bible?",
+    "correct": "66",
+    "choices": ["64", "65", "59", "66"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How many times a year is a healthy, adult Jew required to fast?",
+    "correct": "6",
+    "choices": ["0", "13", "6", "2"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Historically, Golda Meir was the first female Jewish leader.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the subject of the first Book of the  Talmud ?",
+    "correct": "Blessings",
+    "choices": ["There is no first book", "Blessings", "Civil Torts", "Shabbat"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "It is considered that the Jewish Golden Age occurred in this country.",
+    "correct": "Spain",
+    "choices": ["Spain", "France", "Israel", "India"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In 1776, when we Jews declared themselves free from England, which British colony had the most Jews?",
+    "correct": "Jamaica",
+    "choices": ["Union of South Africa", "Australia", "Jamaica", "Canada"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "On the holy day, Simchat Torah, Jews finish reading the five books of the Torah and do what immediately after?",
+    "correct": "Start again",
+    "choices": [
+      "Throw a party",
+      "Start again",
+      "Discuss the days events",
+      "Have a meal"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Jews build temporary huts for this holy day.",
+    "correct": "Sukkot",
+    "choices": ["Hannukah", "Yom Kippur", "Sukkot", "Rosh Hashannah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What does the Hebrew expression Mazel Tov mean?",
+    "correct": "Good luck",
+    "choices": ["Have a great day", "Have an easy fast", "Sorry", "Good luck"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Jewish calender is a lunar calender.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Judaism divides The Old Testament into three parts, called this in English.",
+    "correct": "Torah, Prophets, Wisdom Literature",
+    "choices": [
+      "Torah, Pentatuch, Prophets",
+      "Torah, Histories, Pentatuch",
+      "Torah, Prophets, Wisdom Literature",
+      "Torah, Chronicles, Major Prophets"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In what book of The New Testament was John the Baptist beheaded?",
+    "correct": "Matthew",
+    "choices": ["John", "Luke", "Mark", "Matthew"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In The New Testament, Romans was written by the apostle Paul.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How many books are in the New Testament?",
+    "correct": "27",
+    "choices": ["25", "27", "20", "31"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "It is believed by many that the Gospel of Luke is the most beautiful book ever written.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of the laws in  the Ten Commandments of the New Testament is conceived to be the greatest one?",
+    "correct": "Love the Lord with all your heart, soul and mind",
+    "choices": [
+      "Honor your father and your mother",
+      "You shall not steal",
+      "Love the Lord with all your heart, soul and mind",
+      "Love your neighbor as yourself"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the New Testament, Acts is the next book after Romans.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the third book of the New Testament?",
+    "correct": "Luke",
+    "choices": ["Mark", "Matthew", "Jonh", "Luke"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What did Jesus do to the man with leprosy, according to The New Testament?",
+    "correct": "touched him and cured him",
+    "choices": [
+      "ignored him",
+      "gave him medicine",
+      "prayed for him",
+      "touched him and cured him"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Paul is acknowledged as the author of  First Epistle to the Corinthians book in The New Testament.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In which book of The New Testament is the following passage found Ask and it will be given to you;seek and you will find;knock and the door will be opened to you?",
+    "correct": "Matthew",
+    "choices": ["Psalms", "Matthew", "Acts", "Luke"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What was the name of Abrahams wife according to the book of Genesis?",
+    "correct": "Sarah",
+    "choices": ["Rebekah", "Rachel", "Leah", "Sarah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the book of Genesis, how old was Abraham when Isaac was born?",
+    "correct": "100 years old",
+    "choices": [
+      "101 years old",
+      "95 years old",
+      "100 years old",
+      "99 years old"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Isaac was Abrahams first son according to the Torah.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What was the name of Isaacs wife according to the book of Genesis?",
+    "correct": "Rebekah",
+    "choices": ["Leah", "Rachel", "Sarah", "Rebekah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The book of Genesis tells that when Esau and Jacob were born, Jacob grabbed hold of what?",
+    "correct": "Esaus heel",
+    "choices": ["Esaus hand", "Esaus hair", "Esaus heel", "Esaus food"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Torah, what did Esau trade his birthright with Jacob for?",
+    "correct": "Bread and lentil stew",
+    "choices": [
+      "Bread and wild game",
+      "Bread and vegetables",
+      "Bread and lentil stew",
+      "Manna"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was Jacobs first wife in the book of Genesis?",
+    "correct": "Leah",
+    "choices": ["Leah", "Sarah", "Rebekah", "Rachel"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How many years did Jacob have to work for each of his wives according to the Torah?",
+    "correct": "7 years each",
+    "choices": ["3 years each", "7 years each", "1 year each", "14 years each"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who founded the Scientology philosophy and religion?",
+    "correct": "L. Ron Hubbard",
+    "choices": ["L. Ron Hubbard", "Marion Davis", "Jason Beghue", "Judson Lord"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This actor, who made it big as a high school gang member, delivering paint and flying airplanes, is one of the most famous Scientologists.",
+    "correct": "John Travolta",
+    "choices": [
+      "Hayward Nelson",
+      "John Travolta",
+      "Christian Slater",
+      "Brad Pitt"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these voice actors/actresses from The Simpsons series, is a Scientologist?",
+    "correct": "Nancy Cartwright",
+    "choices": [
+      "Dan Castellaneta",
+      "Nancy Cartwright",
+      "Hank Azaria",
+      "Harry Shearer"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "These two brothers are Scientologists who acted on famous comedy sitcoms. One was on That 70s Show and the other one was the oldest brother on Malcolm in the Middle. What is their last name?",
+    "correct": "Masterson",
+    "choices": ["Prepon", "Masterson", "Ribisi", "Kidman"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which Scientologist played the wife of “The King of Queens?",
+    "correct": "Leah Remini",
+    "choices": ["Juliette Lewis", "Mimi Rogers", "Ann Archer", "Leah Remini"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Lisa Marie Presley and her mother Priscilla Presley are both Scientologists.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these musicians is not a Scientologist?",
+    "correct": "Michael Bolton",
+    "choices": ["Chick Correa", "Beck", "Brandy", "Michael Bolton"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What Scientologist started the EST movement?",
+    "correct": "Werner Erhard",
+    "choices": [
+      "David Miscavige",
+      "Werner Erhard",
+      "Greta  Van Susteren",
+      "Sonny Bono"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What was Operation Snow White?",
+    "correct": "An attempt by Scientology to infiltrate the US government",
+    "choices": [
+      "An attempt by Scientology to gain publicity by hiring writers to give it a better image",
+      "An attempt by Scientology to infiltrate the US government",
+      "An attempt by Scientology to gain new members by holding events in several large cities in the USA and Canada",
+      "Anattempt by the IRS to get back taxes from the main Scientology group"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The title of what book in the Bible means departure?",
+    "correct": "Exodus",
+    "choices": ["Lamentations", "Exodus", "Genesis", "Deuteronomy"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Deuteronomy, the title of the fifth book of the Hebrew Bible, means second law.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the meaning of the book title Genesis?",
+    "correct": "beginning",
+    "choices": ["God", "man", "beginning", "creation"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Does The Book of Numbers from the Old Testament begin with the numbering of the people in Sinai?",
+    "correct": "Yes",
+    "choices": ["No", "Yes"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What book in the Bible was named after the successor of Moses?",
+    "correct": "Joshua",
+    "choices": ["Isaiah", "Ezekiel", "Joshua", "Jeremiah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Where can you find the story of Adam and Eve?",
+    "correct": "Book of Genesis",
+    "choices": [
+      "Book of Jeremiah",
+      "Book of Genesis",
+      "Book of Lamentations",
+      "Book of Exodus"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The story of Moses birth can be found in the Book of Deuteronomy.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Was Moses still alive in the Book of Numbers?",
+    "correct": "Yes",
+    "choices": ["Yes", "No"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What was the age of Joshua (Moses successor) when he died?",
+    "correct": "110 years old",
+    "choices": [
+      "120 years old",
+      "105 years old",
+      "110 years old",
+      "115 years old"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which 10th century Ashkenazi Rabbi outlawed polygamy?",
+    "correct": "Rabbi Gershom",
+    "choices": [
+      "Rabbi Levi Ben-Meir",
+      "Rabbi Judah",
+      "Rabbi Gershom",
+      "Rabbi Feinstein"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The first international Jewish athletic competition, known as Maccabiah Games, was held in what year?",
+    "correct": "1932",
+    "choices": ["1896", "1964", "1932", "1956"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the name of the collection of stories, legends, and allegorical interpretations of the Hebrew Bible Tanach?",
+    "correct": "Midrash",
+    "choices": ["Gemara", "Midrash", "Kislev", "Mishnah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The first day of the Jewish New Year, Rosh Hashanah, can only occur on which of these days?",
+    "correct": "Monday, Tuesday, Thursday or Saturday",
+    "choices": [
+      "Sunday, Tuesday, Wednesday or Friday",
+      "Sunday, Monday, Wednesday or Friday",
+      "Monday, Tuesday, Thursday or Saturday",
+      "Monday, Thursday or Friday"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The first female Rabbi, Berlin-born Regina Jonas, was ordained in what year?",
+    "correct": "1935",
+    "choices": ["1935", "1905", "1964", "1789"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Four Jewish jobs require ordination (or Smeecha). Which of these is not one of them?",
+    "correct": "Cantor",
+    "choices": ["Cantor", "Mohel", "Shochet", "Scribe"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Jewish American Sidney Franklin was greatly admired by Ernest Hemingway, as he was the first American to become successful in what occupation?",
+    "correct": "Bullfighter",
+    "choices": ["Boxer", "Bullfighter", "Police officer", "Politician"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "One of the most important prayers in Jewish liturgy is the the Shemoneh Esreh (The Eighteen) This prayer, which must be said every day at almost every service, is also known by what other name?",
+    "correct": "The Amidah",
+    "choices": ["Shochain Od", "The Amidah", "The Shema", "The Kol Nidrei"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Mike Epstein, Norm Sherry, Larry Sherry, and Barry Latman were all Jewish baseball players. What do they have in common?",
+    "correct": "They all went to the same high school.",
+    "choices": [
+      "They all played for the Dodgers.",
+      "They all played for the Yankees.",
+      "They all went to the same high school.",
+      "The were all assassinated for political motives."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "When did the Six Day War between Israel and the Arab states of Egypt, Jordan, and Syria begin?",
+    "correct": "June 5, 1967",
+    "choices": ["June 5, 1971", "June 5, 1967", "June 5, 1963", "June 5, 1969"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In 1825, Jewish American diplomat and journalist Mordecai Manuel Noah tried to found what Jewish institution in the United States?",
+    "correct": "A Jewish homeland in the United States",
+    "choices": [
+      "A Jewish rebellion organization in the United States",
+      "A Jewish homeland in the United States",
+      "A Jewish government in the United States",
+      "A Jewish independent church in the United States"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was the first Jewish player in the United States National Hockey League?",
+    "correct": "Sam Rothschild",
+    "choices": [
+      "Sam Rothschild",
+      "Mathieu Schneider",
+      "Ernie Grunfield",
+      "Issac Berger"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these terms is used by Jews to refer to the Old Testament?",
+    "correct": "Tanakh",
+    "choices": ["Torah", "Tehillim", "Tanakh", "Schmuel"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The most important religious document for the Jews, Torah, is written in what language?",
+    "correct": "Hebrew",
+    "choices": ["Arabic", "Syriac", "Aramaic", "Hebrew"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How many commandments are there in the central document of Judaism, Torah?",
+    "correct": "613",
+    "choices": ["1075", "24", "613", "215"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to Judaism, even non-Jews are morally bound to observe how many laws from the Torah?",
+    "correct": "7",
+    "choices": ["10", "7", "313", "613"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these prayers is traditionally sung before sunset on Yom Kippur, the Jewish Day of Atonement?",
+    "correct": "Kol Nidre",
+    "choices": ["Slichot", "Tanaim", "Kol Nidre", "Dor v Dor"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Every morning and evening, Jews must recite a prayer, which is also said at  the moment before death. What is the name of this prayer?",
+    "correct": "The Shema Yisrael",
+    "choices": [
+      "The Hoshannah Rabbah",
+      "The Kaddish",
+      "The Kiddush",
+      "The Shema Yisrael"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This is the holiest city in Judaism and the spiritual center of the Jewish people. It also plays an important role in Christianity and Islam.",
+    "correct": "Jerusalem",
+    "choices": ["Constantinople", "Jerusalem", "Medina", "Mecca"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Temple Mount, the Church of Holy Sepulchre and the Western Wall are landmarks found in this city.",
+    "correct": "Jerusalem",
+    "choices": ["Baghdad", "Ohrid", "Jerusalem", "Constantinople"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who built the Temple of Jerusalem also known as the Holy Temple?",
+    "correct": "King Solomon",
+    "choices": [
+      "Constantine I Emperor",
+      "King Ferdinand",
+      "Justinian Emperor",
+      "King Solomon"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "When was Jerusalem conquered by the Islamic Caliphate?",
+    "correct": "In 638",
+    "choices": ["In 1500", "In 340", "In 1040", "In 638"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "After the Arabic-Israeli War (1948-1949) Jerusalem was divided between Israel (West part) and Jordan (East part).",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is Jesus birthplace according to the Bible?",
+    "correct": "Bethlehem",
+    "choices": ["Bethlehem", "Jerusalem", "Constantinople", "Nazareth"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Where is The Milk Grotto Church of Virgin Mary located?",
+    "correct": "Bethlehem",
+    "choices": ["Bethlehem", "Jerusalem", "Nazareth", "Baghdad"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In Bethlehem, Christmas ceremonies are held on three different dates.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to New Testament, the home of Joseph and Mary was in Jerusalem.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Church of the Annunciation was built in Nazareth.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Book of Matthew, Jacob was the father of Issac.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was king when Jesus was born?",
+    "correct": "King Herod",
+    "choices": ["King Solomon", "King David", "King Herod", "None of these"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Jesus was baptized by John the Baptist.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the Book of Matthew, what did Jesus say to the man with leprosy when he touched him?",
+    "correct": "Be Clean!",
+    "choices": ["Be cured!", "Be Clean!", "Be Healed!", "None of these"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Whose mother-in-law was lying in bed with a fever in the Book of Matthew?",
+    "correct": "Peter",
+    "choices": ["Peter", "James", "John", "Mark"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Book of Matthew, how many disciples did Jesus give authority to heal the sick and drive out evil spirits?",
+    "correct": "12",
+    "choices": ["10", "7", "12", "5"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of the apostles betrayed Jesus?",
+    "correct": "Judas Iscariot",
+    "choices": ["Simon the Zealot", "Philip", "Matthew", "Judas Iscariot"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Where did Ruth live when she met her first husband according to the Book of Ruth?",
+    "correct": "Moab",
+    "choices": ["Bethlehem", "Moab", "Jerusalem", "Judah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the Book of Ruth, who was Ruths mother-in-law that she would not abandon?",
+    "correct": "Naomi",
+    "choices": ["Naomi", "Mary", "Orpah", "Rahab"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was Ruths sister-in-law according to the Book of Ruth?",
+    "correct": "Orpah",
+    "choices": ["Oprah", "Rahab", "Orpah", "Naomi"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the Book of Ruth, after the deaths of Naomis husband and her two sons, Naomi wanted to leave Moab. Where did she go?",
+    "correct": "Bethlehem",
+    "choices": ["Bethlehem", "Joppa", "Jerusalem", "Ninevah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the Book of Ruth, what did Ruth do to indicate that she wanted to be redeemed?",
+    "correct": "Sleep at Boaz feet.",
+    "choices": [
+      "Bow down to Boaz",
+      "Wash Boaz feet.",
+      "Sing to Boaz",
+      "Sleep at Boaz feet."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the Book of Ruth, Boaz was the closest relative thats why he came forward as the kinsman-redeemer.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Book of Ruth, what did the kinsman-redeemer give to Boaz to indicate that Boaz would be the redeemer of Ruth?",
+    "correct": "His sandal",
+    "choices": [
+      "A signed piece of paper",
+      "500 shekels",
+      "His cloak",
+      "His sandal"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What was the name of Ruth and Boazs son in the Book of Ruth?",
+    "correct": "Obed",
+    "choices": ["Jesse", "David", "Salmon", "Obed"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Book of Ruth comes after this book.",
+    "correct": "Judges",
+    "choices": ["Joshua", "Esther", "Daniel", "Judges"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How many books are there in the Old Testament of the Bible?",
+    "correct": "39",
+    "choices": ["39", "43", "20", "35"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Finish the title of this book of the Old Testament: The Song of _____",
+    "correct": "Solomon",
+    "choices": ["Solomon", "Job", "Ruth", "Joel"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which book of the Old Testament of the Bible has the least number of chapters?",
+    "correct": "Obadiah",
+    "choices": ["Obadiah", "Haggai", "Zephaniah", "Habakkuk"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which book of the Old Testament has the most chapters?",
+    "correct": "Psalms",
+    "choices": ["Psalms", "Genesis", "Isaiah", "Jeremiah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The first two books in the Old Testament are Genesis and Exodus. What is the name of the third book?",
+    "correct": "Leviticus",
+    "choices": ["Deuteronomy", "Numbers", "Joshua", "Leviticus"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the title of the last book of the Old Testament?",
+    "correct": "Malachi",
+    "choices": ["Job", "Malachi", "Zechariah", "Haggai"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these books doesnt belong with the others?",
+    "correct": "Jude",
+    "choices": ["Ezekiel", "Lamentations", "Jude", "Genesis"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Amos is the first book of the Old Testament alphabetically.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these books of the Old Testament is not divided into parts I and II?",
+    "correct": "Numbers",
+    "choices": ["Kings", "Numbers", "Samuel", "Chronicles"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "There are 32 chapters in the Book of Proverbs.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was the first US President whose name appeared on the charter of a synagogue?",
+    "correct": "Franklin Pierce",
+    "choices": [
+      "Millard Fillmore",
+      "George Washington",
+      "Franklin Pierce",
+      "John F. Kennedy"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was the  first Jew to serve as a  diplomat for the USA?",
+    "correct": "Mordechai Noah",
+    "choices": [
+      "Harvey Lembeck",
+      "Mordechai Noah",
+      "Judah Benjamin",
+      "Noah Hershey"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was the first Jew to be offered a position on the US Supreme Court?",
+    "correct": "Judah Benjamin",
+    "choices": [
+      "Benjamin Cardoza",
+      "August Belmont",
+      "Louis Brandeis",
+      "Judah Benjamin"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was the  first Jew to serve as US Minister to The Hague?",
+    "correct": "August Belmont",
+    "choices": [
+      "Judah Benjamin",
+      "August Belmont",
+      "John Hays",
+      "Henry Androwsky"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What was the approximate Jewish population of the United States in 1790?",
+    "correct": "1300-1500",
+    "choices": ["5200-5500", "2500-2700", "1300-1500", "3950-4300"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "During the Revolutionary War many Jews volunteered to fight the British and there was even a Jew Company. Where were the members of this company  from?",
+    "correct": "Charleston, S.C.",
+    "choices": [
+      "Philadelphia, PA.",
+      "Boston, MA.",
+      "Charleston, S.C.",
+      "New York City, NY."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How many years did Golda Meir serve as President of Israel?",
+    "correct": "0",
+    "choices": ["0", "3", "4", "6"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was the first President of Israel?",
+    "correct": "Chaim Weizmann",
+    "choices": [
+      "David ben -Gurion",
+      "Chaim Weizmann",
+      "Golda Meir",
+      "Mosahe Dayan"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was famous for saying We will fight the War [WWII] as if there were no White Paper and the White paper as if there were no war.?",
+    "correct": "David Ben-Gurion",
+    "choices": [
+      "Menachem Begin",
+      "Moshe Dayan",
+      "Golda Meir",
+      "David Ben-Gurion"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which successful Israeli General lost an eye and was famous for wearing an eye patch?",
+    "correct": "Moshe Dayan",
+    "choices": [
+      "Moshe Malone",
+      "Moshe ben-Aram",
+      "Moshe Sharrett",
+      "Moshe Dayan"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What does the term Chabad, as in Chabad Hasidism, mean?",
+    "correct": "It stands for wisdaom, understanding and knowledge.",
+    "choices": [
+      "Its the name of the place where this form of Hasidism began",
+      "Its the name of the first Chabad Rabbi.",
+      "It stands for wisdaom, understanding and knowledge.",
+      "It stands for healing the World."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This great American Army officer helped form the Israeli Army. He was responsible for organizing the army along modern lines and for leading the effort  to save Jerusalem in the 1948 war.",
+    "correct": "Mickey Marcus",
+    "choices": [
+      "Moshe Dayan",
+      "Modechai Manual",
+      "Eddie Jacobson",
+      "Mickey Marcus"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What king of Babylon took over Jerusalem in the first chapter of the Book of Daniel?",
+    "correct": "Nebuchadnezzar",
+    "choices": ["Nebuchadnezzar", "Jehoiakim", "Darius", "Belshazzar"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Book of Daniel, upon his arrival in Babylon, what was Daniels name changed to?",
+    "correct": "Belteshazzar",
+    "choices": ["Meshach", "Belshazzar", "Belteshazzar", "Shadrach"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What were the Hebrew names of Shadrach, Meshach and Abednego according to the Book of Daniel?",
+    "correct": "Hananiah, Mishael and Azariah",
+    "choices": [
+      "Hananiah, Michael and Amos",
+      "Hananiah, Mark and Amos",
+      "Hananiah, Michael and Abraham",
+      "Hananiah, Mishael and Azariah"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the second chapter of the Book of Daniel, what did King Nebuchadnezzar have a dream about?",
+    "correct": "A statue",
+    "choices": ["A tree", "A goat", "A temple", "A statue"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In King Nebuchadnezzars dream from the second chapter of the Book of Daniel, what kingdom does the head of gold represent?",
+    "correct": "Babylonian Empire",
+    "choices": [
+      "Roman Empire",
+      "Babylonian Empire",
+      "Medo-Persia Empire",
+      "Greek Empire"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What kingdom do the legs of iron represent in King Nebuchadnezzars dream in the second chapter of the Book of Daniel?",
+    "correct": "Roman Empire",
+    "choices": [
+      "Roman Empire",
+      "Medo-Persian Empire",
+      "Greek Empire",
+      "Babylonian Empire"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the Book of Daniel, in King Nebuchadnezzars dream, the Greek Empire was represented by the chest and arms of silver.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the Book of Daniel, what would Shadrach, Meshach and Abednego not bow down to?",
+    "correct": "An image of gold",
+    "choices": [
+      "An image of gold",
+      "An image of silver",
+      "King Nebuchadnezzar",
+      "King Xerxes"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Since they did not bow down, as King Nebuchadnezzar commanded, what happened to Shadrach, Meshach and Abednego in the Book of Daniel?",
+    "correct": "They were thrown into a fiery furnace.",
+    "choices": [
+      "They were sent to the gallows.",
+      "They were thrown into a den of lions.",
+      "They were thrown into a fiery furnace.",
+      "They were stoned with rocks."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was king of Babylon when Darius the Mede took over?",
+    "correct": "Belshazzar",
+    "choices": ["Nebuchadnezzar", "Belshazzar", "Belteshazzar", "Xerxes"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the Book of Daniel, what did King Darius decree would happen if anyone prayed to any god or person, except for him for a period of 30 days?",
+    "correct": "They would be thrown into the lions den.",
+    "choices": [
+      "They would be beheaded.",
+      "They would be thrown into the lions den.",
+      "They would be stoned.",
+      "They would be thrown into a fiery furnace."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What period was marked by the Great Jewish Revolt against the Roman Empire?",
+    "correct": "66-70",
+    "choices": ["120-110 b.c.e.", "250-223 b.c.e.", "66-70", "211-216"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who led the Jewish revolt against the Roman Empire in the period from 132 to 135?",
+    "correct": "Bar Kochba and Rabbi Akiva",
+    "choices": [
+      "The Savoraim",
+      "Judas Maccabee and his family",
+      "Bar Kochba and Rabbi Akiva",
+      "Eliezer Ben Ephraim"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What does the number 613 refer to in Judaism?",
+    "correct": "The number of commandments in the Torah",
+    "choices": [
+      "The number of Israelites who went into Egypt to survive while famine plagued the Holy  Land",
+      "The number of commandments in the Torah",
+      "The number of Israelites who left Egypt with Moses",
+      "The days in a Jewish lunar year"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What distinction does Moses Alexander hold?",
+    "correct": "He was the first Jewish governor in the USA.",
+    "choices": [
+      "He was the first Jewish governor in the USA.",
+      "He was the first Jew to get an M.D. degree in the USA.",
+      "He was the first Jewish candidate for the American Presidency.",
+      "He was the first Jewish US Senator."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What distinction does Frank Wolf hold?",
+    "correct": "He produced the first Yiddish play in then USA.",
+    "choices": [
+      "He was the first  Jewish general in the US Army.",
+      "He was the first Jewish recipient of the Pulitzer Prize.",
+      "He was the first Jewish member of the House of Representatives.",
+      "He produced the first Yiddish play in then USA."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What was the name of the first union for actors in the US?",
+    "correct": "The Hebrew Actors Union",
+    "choices": [
+      "The Screen Actors Guild",
+      "The Yiddish Actors Union",
+      "The Jewish Actors Guild",
+      "The Hebrew Actors Union"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What did Rose and Morris Michtom create in 1902?",
+    "correct": "The Teddy Bear",
+    "choices": [
+      "The Teddy Bear",
+      "The endoscope",
+      "The credit card",
+      "The vacuum tube"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is Victor David Brenner remembered for?",
+    "correct": "He made the portrait of Lincoln found on the US penny.",
+    "choices": [
+      "He was the first Jewish mayor in the USA.",
+      "He painted the painting Washington Crossing the Delaware.",
+      "He was the first Jewish general in the US Army.",
+      "He made the portrait of Lincoln found on the US penny."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which settlement is famous as the location of one of the most spectacular craters in Israel?",
+    "correct": "Mitzpeh Ramon",
+    "choices": ["Kfar Yaackov", "Mitzpeh Ramon", "Kiryat Shemona", "Acre"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which organization was founded by Rabbi Ben Frankel in 1923?",
+    "correct": "The Hillel Foundation",
+    "choices": [
+      "The Jewish National Fund",
+      "Hebrew Union College",
+      "The Hillel Foundation",
+      "Hadassah"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The circled-U symbol found on the labels of certain products shows that the Union of Orthodox Congregations have found the food is kosher. What was the first food product to have this symbol?",
+    "correct": "Heinz ketchup",
+    "choices": [
+      "Breakstones sour cream",
+      "Heinz ketchup",
+      "Manischewitz matzot",
+      "Empire chicken"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which Israeli city is a sister city of New York City?",
+    "correct": "Tel Aviv",
+    "choices": ["Haifa", "Netanya", "Tel Aviv", "Jerusalem"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Can an egg laid on a holy day (a Yom Tov) be eaten?",
+    "correct": "Rabbi Hillel says no, but Rabbi Shammai says yes.",
+    "choices": [
+      "Definitely no",
+      "Rabbi Hillel says no, but Rabbi Shammai says yes.",
+      "Definitely yes",
+      "Rabbi Hillel says yes, but  Rabbi Shammai says no."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "An Israeli has invented a gun that can shoot around corners.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This Jewish woman is often considered the First Lady in Television  News.",
+    "correct": "Dorothy Fuldheim",
+    "choices": [
+      "Hannah Senesh",
+      "Barbara Walters",
+      "Dorothy Fuldheim",
+      "Glickl  von Hamelin"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This man and his partner, Mort Shuman, wrote almost 1,500 songs. His writings include: Viva Las Vegas, Prisoner of Love, Sweets for My Sweets, This Magic Moment, and Suspicion.",
+    "correct": "Doc Pomus",
+    "choices": [
+      "Alex Bernstein",
+      "Davis Fuldheim",
+      "Brian Epstein",
+      "Doc Pomus"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is strange about the edible vegetable Salicornia, which Israel exports to Europe?",
+    "correct": "The vegetable is also used in glass-making.",
+    "choices": [
+      "It can only be eaten cooked.",
+      "The plant is 100% edible.",
+      "It is completely salt-free.",
+      "The vegetable is also used in glass-making."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What city is called The capital of the Negev (desert)?",
+    "correct": "Beer Sheva",
+    "choices": ["Beer Sheva", "Netanya", "Haifa", "Jaffa"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who is Gal Friedman?",
+    "correct": "He was the first Israeli to win an Olympic gold  medal.",
+    "choices": [
+      "He was the first Israeli UN Ambassador.",
+      "She was Israels first  Ambassador to the USA.",
+      "He was the first Israeli to win an Olympic gold  medal.",
+      "She was the first Israeli to win a Nobel Prize."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This Israeli city, which features many beautiful beaches and beautiful seashore views, is also the site of the first IKEA in Israel.",
+    "correct": "Netanya",
+    "choices": ["Jaffa", "Netanya", "Hadera", "Kiryat Shemona"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "You can go snow skiing in the area of which Israeli mountain?",
+    "correct": "Mt. Hermon",
+    "choices": ["Mt. Nebo", "Mt. Hermon", "Mt. Carmel", "Mt. Sinai"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Knesset is the Israeli parliament. In the Knesset building there is a tapestry by this famous artist.",
+    "correct": "Chagal",
+    "choices": ["Ginsberg", "Willensky", "Picasso", "Chagal"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This great proponent for peace and understanding, who was Mayor of Jerusalem for 28 years, died in January , 2007.",
+    "correct": "Teddy  Kollek",
+    "choices": [
+      "Moshe Tellek",
+      "Teddy  Kollek",
+      "Ariel Sharon",
+      "Illiyon Golan"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these holidays does not have a fast associated with it?",
+    "correct": "Sukkot",
+    "choices": ["Sukkot", "Tisha BAv", "Purim", "Passover"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was Ilon Ramon?",
+    "correct": "The first Israeli astronaut",
+    "choices": [
+      "The first Israeli astronaut",
+      "The first Israeli to win the Nobel Prize in Literature",
+      "The first Israeli tomplay in the NBA.",
+      "The first Israeli Ambassador to Egypt since Moses"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What did these six people have in common: Roderigo De Trianna, Luis De Torres, Maestre Bernal, Alfonso De La Calle, Marco the Surgeon, and Roderigo Sanchez De Segovia?",
+    "correct": "They all sailed with Columbus.",
+    "choices": [
+      "They were the first Jews to be killed by the Spanish Inquisition.",
+      "They were the only Jews, or Muslims, who were allowed to remain in Spain after the Expulsion Notice of 1492 in order to attend to the health of King Ferdinand First.",
+      "They all sailed with Columbus.",
+      "They were Marranos who feigned to disavow Judaism so they could remain in Spain after the Expulsion Notice of 1492."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Jewish women often wear a piece of jewelry with the shape of human hand and sometimes writings on it. What is it called?",
+    "correct": "Hamsa",
+    "choices": ["TziTzit", "Hamsa", "Aron", "Mezzuzah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In Jewish traditions, what is the ceremony for the naming of a female baby on the evening of her fifth day?",
+    "correct": "The Eve of the Sixth",
+    "choices": [
+      "Sarahs Ceremony",
+      "The Confirmation",
+      "Pinyin Ha-ben",
+      "The Eve of the Sixth"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "During Jewish wedding ceremonies, the bride and groom stay under a canopy. What is this canopy called?",
+    "correct": "Chupah",
+    "choices": ["Chutzpah", "Chanukia", "Tallit katan", "Chupah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The word Channukah, which refers to a Jewish tradition, means what in Hebrew?",
+    "correct": "Dedication",
+    "choices": ["Dedication", "Celebration", "Winter", "Pilgrimage"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What meals are typically eaten during the celebrations of the Channukah holiday?",
+    "correct": "Potato pancakes and jelly doughnuts",
+    "choices": [
+      "Potato pancakes and flat bread",
+      "Potato pancakes and jelly doughnuts",
+      "Boiled chicken and dumplings",
+      "Jelly doughnuts and flat bread"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the traditional food for Shavuot, a major festival in Judaism?",
+    "correct": "Dairy products",
+    "choices": ["Boiled chicken", "Fish", "Potato dishes", "Dairy products"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which line contains the correct names of the three Pilgrimage Festivals in Judaism?",
+    "correct": "Sukkot, Passover, and Shavuot",
+    "choices": [
+      "Passover, Channukah, and Shavuot",
+      "Rosh Hashannah, Yom Kippur, and Channukah",
+      "Rosh Hashannah, Yom Kippur, and Sukkot",
+      "Sukkot, Passover, and Shavuot"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which line represents the correct beginning of the Shema prayer?",
+    "correct": "Hear, O Israel! The Lord is our God! The Lord is One!",
+    "choices": [
+      "Hear, O Israel! Bless the Lord who gave us the Torah!",
+      "Hear, O Israel! The Lord is our God! The Lord is One!",
+      "Blessed be the name of the glory of His kingdom!",
+      "Blessed be the name of the Lord who made our bread!"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these people do Jews consider to be their historical religious Patriarchs?",
+    "correct": "Abraham, Issac, and Jacob",
+    "choices": [
+      "Abraham, Moses, and David",
+      "Abraham, Issac, and Jacob",
+      "Abraham, Moses, and Solomon",
+      "Moses, David, and Solomon"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who is considered the father of the Jewish political movement and ideology of Zionism?",
+    "correct": "Theodor Herzl",
+    "choices": [
+      "Theodor Herzl",
+      "Alfred Dreyfus",
+      "I .L. Peretz",
+      "Sholom Aleichem"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Jewish children are considered  grown up enough to be responsible for their actions at what age?",
+    "correct": "Boys at 13, girls at 12",
+    "choices": [
+      "All children above 13",
+      "Boys at 13, girls at 12",
+      "Boys at 14, girls at 13",
+      "Boys at 13, girls at 14"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the meaning of the Hebrew toast lChaim!?",
+    "correct": "To life!",
+    "choices": ["To life!", "To our country!", "To health!", "To success!"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, God commanded this prophet to anoint David as king.",
+    "correct": "Samuel",
+    "choices": ["Abiathar", "Samuel", "Ahimelech", "Saul"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, David played this instrument to Israels first king, Saul.",
+    "correct": "Harp",
+    "choices": ["Bongos", "Harp", "Flute", "Guitar"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was Davids father according to the Bible?",
+    "correct": "Jesse",
+    "choices": ["Jesse", "Samuel", "Solomon", "Eliab"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the Bible, David fought the giant Goliath of Gath with a staff in his hand, a sling, and a shepherds bag which contained this number of stones.",
+    "correct": "5",
+    "choices": ["6", "4", "5", "3"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, David was very close friends with this son of King Saul.",
+    "correct": "Jonathan",
+    "choices": ["Shammah", "Jonathan", "Joshua", "Abner"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Biblical king Saul became jealous of David because he was victorious in battle and was loved by all Israel. One day when David was playing the harp for him, Saul did which of the following in an attempt to kill him?",
+    "correct": "Hurled a spear",
+    "choices": [
+      "Hurled a spear",
+      "Threw a heavy rock",
+      "Tried to choke him",
+      "Tried to poison him"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, David married this daughter of Saul.",
+    "correct": "Michal",
+    "choices": ["Michal", "Merab", "Serah", "Ruth"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the Bible, David once killed a lion and a bear.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What Jewish tribe did David belong to?",
+    "correct": "Judah",
+    "choices": ["Judah", "Naphtali", "Benjamin", "Simon"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How many years did David reign as king of Israel?",
+    "correct": "40",
+    "choices": ["25", "45", "35", "40"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How long has Tel Aviv been the capital of Israel?",
+    "correct": "None of these",
+    "choices": ["Since 1967", "Since 1948", "None of these", "Since 1984"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who named Tel Aviv?",
+    "correct": "Nahum Sokolow",
+    "choices": [
+      "David Ben Gurion",
+      "Nahum Sokolow",
+      "Chaim Nachman Bialik",
+      "Joshua"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What was the approximate population of Tel Aviv according to the Israel Central Bureau of Statistics as of June 2006?",
+    "correct": "380,600",
+    "choices": ["570,600", "475,500", "1,125,000", "380,600"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the Arabic name for Tel Aviv?",
+    "correct": "Tal al-rabey",
+    "choices": ["Tal al-rabey", "Yaffa", "Jebu al-Etzion", "Gush Dan"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What type of stone was used to build the Western or Wailing Wall in Jerusalem?",
+    "correct": "Limestone",
+    "choices": ["Safedstone", "Gnesis", "Limestone", "Granite"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was the first mayor of Tel Aviv?",
+    "correct": "Meir Dizengoff",
+    "choices": [
+      "Israel Rokach",
+      "David Bloch",
+      "Meir Dizengoff",
+      "Chaim Levanon"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the name of the Israeli National Theater?",
+    "correct": "Habima",
+    "choices": ["Notzar", "Tzavata", "Habima", "Beit Lessin"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In what language do Ethiopian Jews read Torah?",
+    "correct": "Gez",
+    "choices": ["Gez", "Arabic", "Amharic", "Hausau"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is Israels number one agricultural export?",
+    "correct": "flowers",
+    "choices": ["bananas", "flowers", "seedless watermelon", "oranges"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What term is used to describe a persons return to live in Israel?",
+    "correct": "aliyah",
+    "choices": ["midinayah", "aliyah", "shiddoch", "gaboniah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the name of the organization that promotes a return to Israel?",
+    "correct": "The Jewish Agency",
+    "choices": [
+      "The Gush Etzion",
+      "The Vaad Harabbonim",
+      "The Karaite",
+      "The Jewish Agency"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What kind of museum is the Batey Haosef Museum in Tel Aviv?",
+    "correct": "military",
+    "choices": ["jewelry", "performance art", "modern art", "military"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which part of Israel is famous fro producing wine?",
+    "correct": "Golan Heights",
+    "choices": ["The Negev", "Lod", "Golan Heights", "Eilat"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who is given credit  for reviving the Hebrew language?",
+    "correct": "Eliezer Ben Yehuda",
+    "choices": [
+      "Eliezer Ben Yehuda",
+      "Hannah Senesh",
+      "Joseph Trumpeldor",
+      "David Ben Gurion"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What poem written by Chaim Nachman Bialik inspired many people to immigrate to Israel?",
+    "correct": "The City of the Killings",
+    "choices": [
+      "The New Colossus",
+      "Rabbi BenEzra",
+      "Babi Yar",
+      "The City of the Killings"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Arthur Loomis Harmon, who helped design the Empire State Building, designed what building in Jerusalem?",
+    "correct": "The YMCA",
+    "choices": [
+      "The King David Hotel",
+      "The Kinnesset",
+      "The YMCA",
+      "The Water Clock Tower Hotel"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Hannukah (or Channukah) is the Jewish equivalent of Christmas.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Where in Israel was the Mishna written?",
+    "correct": "The Galilee",
+    "choices": ["The Galilee", "Qumran", "Jerusalem", "The Negev"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who wrote Psalm 23?",
+    "correct": "David",
+    "choices": ["Moses", "David", "Solomon", "Ethan"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How many books is the Book of Psalms divided into?",
+    "correct": "Five",
+    "choices": ["Four", "Five", "Two", "Three"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What are Psalms 120 to 134 referred to as?",
+    "correct": "Psalms of Ascent",
+    "choices": ["Psalms of David", "Psalms of God", "Psalms of Ascent", "Hymns"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was the earliest author of a psalm?",
+    "correct": "Moses",
+    "choices": ["David", "Moses", "Ezra", "Asaph"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In Psalm 23, the Lord is referred to as what?",
+    "correct": "My Shepherd",
+    "choices": ["My Provider", "My Shepherd", "My God", "My Hope"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The following lines are from which psalm?",
+    "correct": "Psalm 139",
+    "choices": ["Psalm 23", "Psalm 139", "Psalm 150", "Psalm 119"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Book of Psalms is classified as what type of book in the Bible?",
+    "correct": "Poetic",
+    "choices": ["Poetic", "Historical", "Apocalyptic", "Prophetic"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "During her testimony at her trial, Joan of Arc stated she preferred which of the following to the sword?",
+    "correct": "Banner",
+    "choices": ["Knitting", "Praying", "Banner", "Bible"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Where was Joan of Arc captured by Burgundian forces?",
+    "correct": "Compiegne",
+    "choices": ["Reims", "Orleans", "Compiegne", "Paris"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What was Joan of Arc accused of at her trial?",
+    "correct": "Heresy",
+    "choices": ["Murder", "Perjury", "Heresy", "High treason"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "To what kind of capital punishment was Joan of Arc condemned?",
+    "correct": "Burning at the stake",
+    "choices": ["Hanging", "Drowning", "Burning at the stake", "Beheading"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What extremely brave attempt to escape did Joan of Arc make while she was imprisoned in Rouen?",
+    "correct": "She jumped from the tower where she was held prisoner.",
+    "choices": [
+      "All of these",
+      "She jumped from the tower where she was held prisoner.",
+      "She knocked a guard unconscious and tried to put on his armor and escape.",
+      "She pretended she was very sick and then tried to run away."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Joan of Arc lived during the first half of what century?",
+    "correct": "15th century",
+    "choices": ["15th century", "11th century", "17th century", "13th century"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the name of the famous sci-fi author that created Scientology?",
+    "correct": "L. Ron Hubbard",
+    "choices": [
+      "Isaac Asimov",
+      "L. Ron Hubbard",
+      "Robert A. Heinlein",
+      "Arthur C. Clarke"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the name of the book, that states points of the scientologic doctrine for the first time?",
+    "correct": "Dianetics: The Modern Science of Mental Health",
+    "choices": [
+      "The Study of Scientology",
+      "The Scientology Bible",
+      "Final Blackout",
+      "Dianetics: The Modern Science of Mental Health"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the name of the evil alien dictator who, according to Scientologists, placed millions of people on earth and killed them, using hydrogen bombs?",
+    "correct": "Xenu",
+    "choices": ["Space Hitler", "Domo", "Xenu", "Terl"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these celebrities is not a scientologist?",
+    "correct": "Jack Nicholson",
+    "choices": [
+      "Jack Nicholson",
+      "John Travolta",
+      "Juliette Lewis",
+      "Tom Cruise"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the term that scientologists use to describe traumatic recordings that cause mental and psychosomatic physical problems?",
+    "correct": "engrams",
+    "choices": ["engrams", "scientogs", "hate particles", "dianetics"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What do the eight corners of the Scientology cross symbolize?",
+    "correct": "the eight dynamics of life",
+    "choices": [
+      "the eight dynamics of life",
+      "the eight planets orbiting the Sun",
+      "the eight messiahs of Scientology",
+      "the arms of the evil intergalactic emperor"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these countries does not recognize Scientology as an official religion?",
+    "correct": "Germany",
+    "choices": ["Zimbabwe", "Tanzania", "Germany", "Spain"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the literal meaning of the word scientology?",
+    "correct": "The Study of Knowledge",
+    "choices": [
+      "The Study of the Self",
+      "The Study of Hubbard",
+      "The Study of the Universe",
+      "The Study of Knowledge"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the 1970s, members of The Church of Scientology committed infiltration of United States federal agencies in order to eliminate unfavorable reports on Scientology. What was the code name for the operation?",
+    "correct": "Operation Snow White",
+    "choices": [
+      "Operation Snow White",
+      "Operation Massacre",
+      "Operation  Scientology",
+      "Operation Dumbo Drop"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the term scientologists use to describe an immortal spiritual being?",
+    "correct": "a thetan",
+    "choices": ["a thetan", "a hubbard", "a cleared one", "a ghost"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is Rosh Chodesh?",
+    "correct": "Celebration of the new month",
+    "choices": [
+      "Celebration of the new month",
+      "The first book of the Talmud",
+      "A fast day  that occurs a day after Rosh Hashanah",
+      "The first book of the Torah"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is Yom Sheni shel Galuyot?",
+    "correct": "The extra day of observance of  some holidays in the Diaspora",
+    "choices": [
+      "The extra day of observance of  some holidays in the Diaspora",
+      "The special prayer shawl worn by men every day",
+      "The last day of Passover",
+      "The second Torah read in synagogues on Saturday"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is Yichuss?",
+    "correct": "Special honor you get from family members",
+    "choices": [
+      "Special honor you get from family members",
+      "The special prayer shawl worn by women",
+      "A fast day celebrated on the day before Passover",
+      "The first book of the Kabbalah"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What does Yom Yerusalyim celebrate?",
+    "correct": "The unification of the City of Jerusalem after the Six Days War",
+    "choices": [
+      "The building of the Second Temple in Jerusalem",
+      "The peace treaty between Egypt and Israel at Camp David",
+      "The building of the First Temple by Solomon",
+      "The unification of the City of Jerusalem after the Six Days War"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What do we call the  first written book of the Kabbalah?",
+    "correct": "Zohar",
+    "choices": ["Zohar", "Beraishees", "Devarim", "Shimote"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What are the two major pronunciations of Hebrew?",
+    "correct": "Ashkenazi and Sephardeet",
+    "choices": [
+      "Giladi and Sawpharteet",
+      "Zechut and Akivat",
+      "Germaneet and Yemanee",
+      "Ashkenazi and Sephardeet"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What are Dam, Tzefardea, Kinim?",
+    "correct": "The first three plagues G-D put upon the Egyptians",
+    "choices": [
+      "The names of the three major holidays Jews celebrate in September and October",
+      "The first three plagues G-D put upon the Egyptians",
+      "The three books of the Torah",
+      "The national anthem of Israel"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What do we call the language spoken by Jews in Spain and Portugal, which consisted of mainly Spanish and Hebrew  words written in Hebrew letters?",
+    "correct": "Ladino",
+    "choices": ["Yiddish", "Esperanto", "Ladino", "Esperanza"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Hebrew term for the Old Testament is Tanach. How many books are in the Tanach?",
+    "correct": "24",
+    "choices": ["26", "65", "39", "24"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What does Aygel Hah Zahav refer to?",
+    "correct": "The golden calf built by Aaron.",
+    "choices": [
+      "The Book of Psalms.",
+      "Special prayers said at bedtime and and sunrise.",
+      "The red heifer",
+      "The golden calf built by Aaron."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which Hebrew term means genius?",
+    "correct": "gaon",
+    "choices": ["Chassid", "mitganaiyim", "Chabad", "gaon"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who is considered the first Chassidic Rabbi?",
+    "correct": "the Baal Shem Tov",
+    "choices": [
+      "the Baal Shem Tov",
+      "Rabbi Akiba",
+      "Rabbi Hillel",
+      "Rabbi Shammai"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The esoteric tradition known as Tantra originated in Tibet and is unique to Tibetan Buddhism.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of the following is not one of the four main forms of Tibetan Buddhism?",
+    "correct": "Chan",
+    "choices": ["Gelug", "Chan", "Nying", "Sakya"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the title of the leader of the Kagyu, one of the four major schools of Tibetan Buddhism?",
+    "correct": "Karmapa",
+    "choices": ["Chogyum Trungpa", "Karmapa", "Pachen Lama", "Dalai Lama"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the name of the Tibetan King who is said to have brought and solidified Buddhism in Tibet?",
+    "correct": "Songtsen Gampo",
+    "choices": ["Marpa", "Songtsen Gampo", "Tilopa", "Genghis Khan"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which word refers to a Tibetan Buddhist lama or other religious figure, who has consciously decided to be reborn, in order to continue his/her religious pursuits?",
+    "correct": "Tulku",
+    "choices": ["Terma", "Tulku", "Lama", "Terton"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was the founder of the first Tibetan Buddhist Dharma center in the West?",
+    "correct": "Chogyam Trungpa",
+    "choices": [
+      "Chogyam Trungpa",
+      "Dalai Lama",
+      "Thich Nhat Hanh",
+      "Pema Chodren"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who is the second highest lama in the Gelugpa lineage of Tibetan Buddhism?",
+    "correct": "Panchen Lama",
+    "choices": [
+      "Panchen Lama",
+      "Khenpo Gangshar Rinpoche",
+      "Dalai Lama",
+      "Karmapa"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What year did the XIVth Dalai Lama escape Tibet?",
+    "correct": "1959",
+    "choices": ["1989", "1959", "1960", "1949"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Potala is traditionally the summer palace of the Dalai Lama in Tibet.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Padmasambhava, a widely revered Indian Buddhist master who founded the Tantric school of Buddhism in the 8th century, is known by what other name?",
+    "correct": "Guru Rinpoche",
+    "choices": [
+      "Shakyapa Rinpoche",
+      "Lama Zopa Rinpoche",
+      "Totally Awesome Indian Dude",
+      "Guru Rinpoche"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Dalai Lama and the Karmapa are believed to be emanations of what deity?",
+    "correct": "Chenrenzig",
+    "choices": ["Palden Lhamo", "Tara", "Chenrenzig", "Dorje Shug-dun"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Holy Grail is sometimes associated with which magical object in Celtic mythology?",
+    "correct": "The cauldron of Bran",
+    "choices": [
+      "The spear of Lug",
+      "The boat of Lyr",
+      "The cauldron of Bran",
+      "The stone of Fál"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who wrote Joseph dArimathie, the first literary work to link the Holy Grail with the Last Supper of Jesus and Joseph of Arimathea?",
+    "correct": "Robert de Boron",
+    "choices": [
+      "Geoffrey of Monmouth",
+      "Chrétien de Troyes",
+      "Thomas Malory",
+      "Robert de Boron"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In Arthurian legend Percival first saw the Holy Grail in the castle of the Fisher King, who was badly wounded in this part of the body.",
+    "correct": "in the groin",
+    "choices": ["in the shoulder", "in the groin", "in the neck", "in the arm"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Percival was the first knight in Arthurian legend to see the Holy Grail in the castle of the Fisher King. He could not heal the King’s wound, though. Why?",
+    "correct": "He did not ask the right question.",
+    "choices": [
+      "He did not ask the right question.",
+      "He was not well-intentioned.",
+      "He was not the chosen one.",
+      "He was cursed by The Green Knight."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Three Knights of the Round Table get to see the Holy Grail. First Percival, then Bors and next who of the following?",
+    "correct": "Galahad",
+    "choices": ["Mordred", "Gawain", "Lancelot", "Galahad"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The book ‘Holy Blood, Holy Grail’ by Michael Baigent, Richard Leigh, and Henry Lincoln proposes the hypothesis that Jesus and Mary Magdalene were actually married and upon Jesus’ death she fled to France, carrying his child.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the mystery novel The Da Vinci Code by Dan Brown the secrets of the Holy Grail are kept by this secret society.",
+    "correct": "The priory of Sion",
+    "choices": [
+      "The order of the Phoenix",
+      "The priory of Sion",
+      "The Illuminati",
+      "The order of the Dragon"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the 1991 movie The Fisher King, Robin Williams’ character is obsessed with the legend of the Fisher King and tries to get the Holy Grail. He believes that this object is actually the Grail.",
+    "correct": "а sport trophy",
+    "choices": [
+      "а silver cauldron",
+      "а crystal champagne glass",
+      "а sport trophy",
+      "а crystal plate"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Holy Grail was a popular theme in many literary works from the 19th century such as the Arthurian cycle The Idylls of the King. Who was its author?",
+    "correct": "Alfred, Lord Tennyson",
+    "choices": [
+      "Dante Gabriel Rossetti",
+      "Jane Austin",
+      "Walter Scott",
+      "Alfred, Lord Tennyson"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Holy Grail is usually presented as a large beautiful cup or dish. But medieval author Wolfram von Eschenbach claimed in his poem Perzival that the Grail was actually a crown given by God.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The search for The Holy Grail is one of the central themes in the opera Persifal by this German composer.",
+    "correct": "Richard Wagner",
+    "choices": [
+      "Richard Wagner",
+      "Karl Maria von Webber",
+      "Robert Schumann",
+      "Franz Fischer"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "At Christmas, Christians celebrates the Nativity or birth of Jesus Christ in which city?",
+    "correct": "Bethlehem",
+    "choices": ["None of these", "Bethlehem", "Nazareth", "Jerusalem"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which Christian saint, regarded as the first martyr of Christianity, is commemorated on December 27 or 26?",
+    "correct": "Saint Stephen",
+    "choices": ["Saint Matthew", "Saint Andrew", "Saint Paul", "Saint Stephen"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "On September 8 or September 21, Eastern Orthodox Christians celebrate the birth of this important biblical figure to parents Joachim and Anna.",
+    "correct": "Virgin Mary",
+    "choices": ["King Solomon", "John the Baptist", "Virgin Mary", "King David"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which event is regarded as the greatest feast in the Christian calendar?",
+    "correct": "Resurrection of Jesus",
+    "choices": [
+      "Resurrection of Jesus",
+      "Ascension of Christ",
+      "Epiphany",
+      "Nativity of Christ"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "He is considered to be the first Jew  to set foot on land that would become part of the USA.",
+    "correct": "Joachim Gaunse",
+    "choices": [
+      "Asser Lev",
+      "Joachim Gaunse",
+      "Luis de Torres",
+      "Solomon Franco"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In 1649 he was warned out of trying to settle in Boston.",
+    "correct": "Solomon Franco",
+    "choices": [
+      "Joachim Gaunse",
+      "Solomon Franco",
+      "Asser Lev",
+      "Luis de Torres"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In 1656 the first Jewish cemetery in the USA was founded in this city.",
+    "correct": "New  York City, NY",
+    "choices": [
+      "Philadelphia, PA",
+      "Newport , RI",
+      "New  York City, NY",
+      "Charleston, SC"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "He is considered the first Jew on American land to get the right  to serve in a militia.",
+    "correct": "Asser Levy",
+    "choices": ["Asser Lev", "Solomon Franco", "Myer Myers", "Asser Levy"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In 1665, Abraham de Lucena was arrested and fined for selling goods at retail prices.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The funds to build the first Lutheran church were advanced by a Jew.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The British Plantation Act gave Jews the right to become naturalized citizens with rights to trade within the colonies. In what year was it enacted?",
+    "correct": "1740",
+    "choices": ["1740", "1763", "1699", "1749"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This was the first colony to give Jews full political rights.",
+    "correct": "New York",
+    "choices": ["Pennsylvania", "Rhode Island", "New York", "South Carolina"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This offered Jews full equality in all future US territories and states.",
+    "correct": "The Northwest Territory Act",
+    "choices": [
+      "The Northwest Territory Act",
+      "The Future Farm and Territory Act",
+      "The Stamp Act",
+      "The Homestead Act"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "He was the first Jew to serve in a state legislature.",
+    "correct": "Dr. Levi Myers",
+    "choices": ["Jonas Phillips", "Dr. Levi Myers", "Myer Myers", "Asser Levy"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This famous pirate, who was a marrano, played a significant role in American history.",
+    "correct": "Jean Lafitte",
+    "choices": ["Jean Lafitte", "Alexander Hamilton", "Lafayette", "John Jay"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "He was the first Jewish Commodore in the US Navy. He ended the practice of flogging which used to be an accepted form of punishment in the US Navy.",
+    "correct": "Uriah Phillip Levy",
+    "choices": [
+      "Uriah Phillip Levy",
+      "Abraham Moise Silver",
+      "Myer Myers",
+      "Asser Lev"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Bnai Brit , a well known social welfare organization, was formed to help people who suffered in this American tragedy.",
+    "correct": "The great Chicago fire.",
+    "choices": [
+      "The sinking of the Chalmers",
+      "The Civil War",
+      "The San Francisco earthquake",
+      "The great Chicago fire."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Morris Raphall, a Rabbi from New York City, was the first to open a session of Congress with a prayer. In what year did he do this?",
+    "correct": "1860",
+    "choices": ["1843", "1819", "1860", "1825"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The  first Yiddish play was produced in New York in this year.",
+    "correct": "1882",
+    "choices": ["1902", "1894", "1882", "1897"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "He was the first American-born Rabbi to lead a Chassidic group.",
+    "correct": "Rabbi Levi Yitzach Halevi Horowitz",
+    "choices": [
+      "Rabbi Abba Hillel Silver",
+      "Rabbi Chaim Nathan Silver",
+      "Rabbi Jacob ben Yakov Halevy",
+      "Rabbi Levi Yitzach Halevi Horowitz"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of the following may save sinners according to the King James version of the Bible?",
+    "correct": "personal relationship with God through His Son Jesus Christ",
+    "choices": [
+      "membership in a certain religion",
+      "personal relationship with God through His Son Jesus Christ",
+      "good works like almsgiving and fasting",
+      "baptism"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the punishment for human sins as it is written according to the Bible?",
+    "correct": "second or spiritual death",
+    "choices": [
+      "excommunication from the religion",
+      "longer life",
+      "physical death",
+      "second or spiritual death"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, is there anything that humans can do to be saved from Hell, the bottomless pit where worms dieth not?",
+    "correct": "Yes",
+    "choices": ["Yes", "No"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "At Nazareth, this Biblical figure grew and waxed in spirit. His name means the anointed one.",
+    "correct": "Jesus Christ",
+    "choices": ["Isaac", "Jesus Christ", "Paul", "Moses"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, people are reconciled with God because of His Sons death at the cross in Mount Golgotha.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, Jesus turned water to wine in this wedding feast that He had attended in Cana. Which of His miracles was this?",
+    "correct": "first miracle",
+    "choices": [
+      "last miracle",
+      "second miracle",
+      "least miracle",
+      "first miracle"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, who should believers use as mediator between them and God when they pray?",
+    "correct": "Jesus Christ",
+    "choices": ["Mary", "Joseph", "Jesus Christ", "John, the Baptist"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which epistle states that there is one mediator between God and men?",
+    "correct": "Timothy",
+    "choices": ["Ephesians", "Philemon", "Romans", "Timothy"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the King James Version of the Bible, what did God command people to do always, day and night?",
+    "correct": "praying",
+    "choices": ["rejoicing", "drinking wine", "sinning", "praying"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the Bible, are there any verses that strictly mention “trinity” as a term?",
+    "correct": "No",
+    "choices": ["Yes", "No"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What three things does the religious concept of the Trimurti represent?",
+    "correct": "Creator, Protector, and Destructor",
+    "choices": [
+      "Father, Grandfather, and Son",
+      "Heaven, Earth and Hell",
+      "Father, Mother, and Child",
+      "Creator, Protector, and Destructor"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Biology divides cellular life forms into three basic life domains. What are they?",
+    "correct": "Archaea, Bacteria, and Eucaryota",
+    "choices": [
+      "Endoderm, Mesoderm, and Exoterm",
+      "Archaea, Glycosis, and Endoderm",
+      "Archaea, Bacteria, and Eucaryota",
+      "Archaea, Mesoder, and Exoterm"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Is Nona the goddess of death in the Roman myth of the triple spinning fate goddesses?",
+    "correct": "No",
+    "choices": ["Yes", "No"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In biology, is the Great Apes family a species trinity comprising of chimpanzees, gorillas, and orangutans?",
+    "correct": "No",
+    "choices": ["Yes", "No"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which one of these three basic chemical compounds can turn the blue litmus into red?",
+    "correct": "Acid",
+    "choices": ["Salt", "Base", "None of them", "Acid"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "St. Nicholas the Wonderworker is the patron saint of which of the following?",
+    "correct": "All of these",
+    "choices": ["Merchants", "All of these", "Archers", "Sailors"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "St. Nicholas is revered by both Orthodox and Catholic Christians.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Saint Nicholas is one of the sources of the holiday figure of Santa Claus.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Where was the historical Saint Nicholas born?",
+    "correct": "Asia Minor",
+    "choices": ["Asia Minor", "Cartagena", "His birthplace is unknown.", "Rome"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "St. Nicholas is believed to have made a pilgrimage to the Holy Land.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Saint Nicholas was released from prison in 313, after this emperor issued the Edict of Milan, extending official tolerance to Christianity.",
+    "correct": "Constantine the Great",
+    "choices": [
+      "Octavian",
+      "Marcus Aurelius",
+      "Constantine the Great",
+      "Diocletian"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Saint Nicholas died on 6 December.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The splendid Basilica di San Nicola (Basilica of Saint Nicholas) is in Rome.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The historical Saint Nocholas was a Greek Bishop of what ancient town?",
+    "correct": "Myra",
+    "choices": ["Myra", "Beit Jala", "Patara", "Paternopoli"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to legend Saint Nicholas provided dowries to three young women who could not afford to marry.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Saint Brigitta was a Swedish nun and founder of the Bridgettine Order.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Nicknamed Black Angel, he was a prominent commander in the Chechen separatist movement against Russia.",
+    "correct": "Ruslan Gelayev",
+    "choices": [
+      "Magomed Khanbiyev",
+      "Ruslan Gelayev",
+      "Mukhtar Suleimanov",
+      "Abdulkhalik Kurbanov"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "His name means King of Kings and he ruled the Malian Empire for over twenty years.",
+    "correct": "Mansa Musa",
+    "choices": ["Mansa Musa", "Mustapha Kartali", "Malcolm X", "Margery Kempe"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What statement is true about Saint Godric of Finchale?",
+    "correct": "Both of these",
+    "choices": [
+      "He was never formally canonized.",
+      "He was an English hermit.",
+      "None of these",
+      "Both of these"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "He was an African-American Muslim minister and an advocate for the rights of African Americans.",
+    "correct": "Malcolm X",
+    "choices": [
+      "Lamen Kebe",
+      "Malcolm X",
+      "Sali-Bul Ali",
+      "Abdul Rahman Ibrahim Sori"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "James, one of the Twelve Apostles of Jesus, was known by which of these names?",
+    "correct": "All of these",
+    "choices": [
+      "All of these",
+      "James, son of Alphaeus",
+      "James the Greater",
+      "James the Less"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Junichiro Koizumi is a politician who served as Prime Minister of Japan.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "He was a Supreme Pontiff of the Roman Catholic Church and Sovereign of Vatican City from 1978 until his death in 2005.",
+    "correct": "Pope John Paul II",
+    "choices": ["John Paul I", "Pope John Paul II", "Benedict XVI", "Paul VI"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Margery Kempe was an English religious mystic whose autobiography is one of the earliest in English literature.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This Spanish knight founded the Society of Jesus in 1534.",
+    "correct": "Ignatius of Loyola",
+    "choices": [
+      "Martin Luther",
+      "Ignatius of Loyola",
+      "Pope Paul V",
+      "John Calvin"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "He wrote the third Gospel and the Acts of the Apostles.",
+    "correct": "Luke the Evangelist",
+    "choices": [
+      "Luke the Evangelist",
+      "John the Evangelist",
+      "Matthew the Evangelist",
+      "Mark the Evangelist"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "He was a Christian saint from Egypt and a prominent leader among the Desert Fathers.",
+    "correct": "Anthony the Great",
+    "choices": ["Saint Menas", "Anthony the Great", "Saint Varus", "Saint Rais"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What statement is true about Ignatius Loyola, a Spanish knight from a Basque noble family?",
+    "correct": "All of these",
+    "choices": [
+      "He was the founder of the Jesuit Order.",
+      "He was canonized by Pope Gregory Ksaverity.",
+      "He was a religious leader during the Counter-Reformation.",
+      "All of these"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "St Anicetus was the first Roman Bishop to forbid Montanism.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Leo IX launched a dispute regarding celibacy of the clergy.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Mary Faustina Kowalska was a Russian nun and mystic, venerated by the Roman Catholic Church as a saint.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to Christian tradition, this saint attached a silver hand to the icon of Theotokos, which has since then been known as Three-handed?",
+    "correct": "John of Damascus",
+    "choices": [
+      "Ignatius of Antioch",
+      "Cosmas of Maiuma",
+      "John of Damascus",
+      "Abraham the Writer"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Vladimir the Great converted to Christianity and baptised all of Kievan Rus.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Saint Stephen is often depicted with a crown for martyrdom.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Saint Helena was Roman empress and the mother of Emperor Constantine the Great.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the earliest identified Christian house church?",
+    "correct": "Dura-Europos church",
+    "choices": [
+      "Dura-Europos church",
+      "Monastery of Saint Anthony",
+      "Megiddo church",
+      "Saint-Pierre-aux-Nonnains basilica"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Megiddo church, one of the oldest church buildings discovered by archaeologists, is located in Israel.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This Coptic Orthodox monastery is located in an oasis in the Eastern Desert of Egypt.",
+    "correct": "St. Anthony Monastery",
+    "choices": [
+      "St. George Monastery",
+      "St. Anthony Monastery",
+      "St. Bishoy Monastery",
+      "St. Mina Monastery"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which statement is true about Saint-Pierre-aux-Nonnains basilica in Metz, France?",
+    "correct": "All of these",
+    "choices": [
+      "It was built in 380 AD.",
+      "It was originally built to be part of a Roman spa complex.",
+      "It is one of the oldest churches in Europe.",
+      "All of these"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Church of Our Lady Mary of Zion is an Ethiopian Orthodox Church.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the oldest cathedral in Germany?",
+    "correct": "Cathedral of Trier",
+    "choices": [
+      "Hildesheim Cathedral",
+      "Cathedral of Trier",
+      "Regensburg Cathedral",
+      "Aachen Cathedral"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Church of Saint Simeon Stylites is located in Syria.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these churches was designed by Isidore of Miletus and Anthemius of Tralles, who were professors of geometry at the University of Constantinople?",
+    "correct": "Hagia Sophia",
+    "choices": [
+      "Saint Catherine’s Monastery",
+      "None of these",
+      "The Church of Our Lady Mary of Zion",
+      "Hagia Sophia"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which monastery lies at the foot of Mount Sinai, where, according to the Hebrew Bible, Moses received the Ten Commandments from God?",
+    "correct": "Saint Catherine’s Monastery",
+    "choices": [
+      "St. Anthony Monastery",
+      "St. Simeon Monastery",
+      "St. Paul Monastery",
+      "Saint Catherine’s Monastery"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What church was built over the cave that tradition marks as the birthplace of Jesus of Nazareth?",
+    "correct": "Church of the Nativity, Bethlehem",
+    "choices": [
+      "Church of the Nativity, Raleigh",
+      "All of these",
+      "Church of the Nativity, Bethlehem",
+      "Church of the Nativity, Arbanassi"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Emanuel Swedenborg is a Dutch scientist, philosopher, mystic and theologian.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What did Emanuel Swedenborg claim?",
+    "correct": "all of these",
+    "choices": [
+      "all of these",
+      "that the presence of the spiritual sense makes the Word Divine",
+      "that the Second Coming of Jesus Christ had occurred",
+      "that the Last Judgement had already occurred"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Emanuel Swedenborg claimed that he could talk with angels, demons and other spirits.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What prominent Swedish author called Emanuel Swedenborg nothing but a fool?",
+    "correct": "Johan Henrik Kellgren",
+    "choices": [
+      "Carl Jung",
+      "August Strindberg",
+      "Honoré de Balzac",
+      "Johan Henrik Kellgren"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In 1710, Emanuel Swedenborg made a grand tour through the Netherlands, France, and Germany.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Emanuel Swedenborg lived in the 19th century.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Emanuel Swedenborg supported the Christian doctrine of the Trinity.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these is a work by Emanuel Swedenborg?",
+    "correct": "All of these",
+    "choices": [
+      "Heaven and Hell",
+      "All of these",
+      "The Last Judgment",
+      "Arcana Coelestia"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What happened in April 1745, when Emanuel Swedenborg was having dinner in a private room at a London tavern.",
+    "correct": "All of these",
+    "choices": [
+      "Darkness fell upon his eyes.",
+      "He hurried home.",
+      "All of these",
+      "He saw a man sitting in the corner, who told him: Do not eat too much!"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How many saints are recognized in Judaism ?",
+    "correct": "0",
+    "choices": ["613", "3", "4", "0"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The first five books of the Old Testament are referred to as what?",
+    "correct": "The Torah",
+    "choices": [
+      "The Torah",
+      "The Sacred Writings of Abraham",
+      "The Code",
+      "The Bible"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In Judaism, who is considered to be the first Jew ?",
+    "correct": "Abraham",
+    "choices": ["Abraham", "Moses", "Noah", "Adam"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Why is the city of Hebron so important to Judaism ?",
+    "correct": "It is believed that Abraham, Sarah, Issac, Rebekkah, Leah and Jacob are buried there",
+    "choices": [
+      "It is where the first Capital of Israel stood",
+      "It is believed that Abraham, Sarah, Issac, Rebekkah, Leah and Jacob are buried there",
+      "It was a stop on the way out of Egypt",
+      "It is where Jeremiah was born"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In the context of Judaism, who was Abrahams wife ?",
+    "correct": "Sarah",
+    "choices": ["Leah", "Rachel", "Sarah", "Rebekkah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How many laws are in the first five books of the Old Testament?",
+    "correct": "613",
+    "choices": ["2150", "1000", "613", "100"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Why will Jews not eat pork?",
+    "correct": "Pigs do not chew their cud and they do not have cloven hoofs",
+    "choices": [
+      "Pigs are symbols of evil",
+      "Pigs cause disease if not properly cooked",
+      "Pigs do not chew their cud and they do not have cloven hoofs",
+      "Pigs are dirty"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In Judaism, what do we call food that is permissible to be eaten?",
+    "correct": "Kosher",
+    "choices": ["Parve", "Kosher", "Fleisch", "Gribnitz"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to Judaism, what work is permissible on Sunday?",
+    "correct": "Any work",
+    "choices": [
+      "Only transportation to synagogue",
+      "Charity",
+      "None",
+      "Any work"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What does the word Rabbi mean?",
+    "correct": "My teacher",
+    "choices": ["My overseer", "MY priest", "My leader", "My teacher"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The witch hunts started as a result of the superstitions of some Catholic Monks. This Dominican monk is considered to be the initiator of the witch hunts as he prepared a detailed manual of deviltry for the Church.  It did not take long before women in Southern France were sent to the stake, condemned for cohabitation with the devil.",
+    "correct": "Thomas Aquinas",
+    "choices": ["Thomas Aquinas", "John XXII", "Gregory", "Hugo de Boniols"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The first woman accused of witchcraft was burned around 1275. This was the reason for her condemnation.",
+    "correct": "Having intercourse with the devil",
+    "choices": [
+      "Bringing misfortune",
+      "Participating in witch ring-dance rituals",
+      "Healing a child with magical water",
+      "Having intercourse with the devil"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Many of witchcraft confessions were extorted by means of torture, called ordeal. This method of torture was not used during the process of the ordeal.",
+    "correct": "The sound of trickling water",
+    "choices": [
+      "The Iron Maiden",
+      "The Thumbscrew",
+      "The sound of trickling water",
+      "Hot pincers"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Burning women who were supposedly witches was a common practice on the European continent. In England, however, they punished witches in this way.",
+    "correct": "Hanged them",
+    "choices": [
+      "Starved them to death",
+      "Hanged them",
+      "Buried them alive",
+      "Stabbed them with a silver lance"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Most of the victims of the witch hunts were women. However, there were some men also burned, accused of being witches. This is why.",
+    "correct": "They tried to protect women accused of witchcraft",
+    "choices": [
+      "They were more intelligent than other people",
+      "They collected herbs",
+      "They tried to protect women accused of witchcraft",
+      "They often went out for a walk during full moon"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "As the witch hunts expanded, any woman could be tried as a witch, but in the beginning these were the most common victims of the Holy Inquisition.",
+    "correct": "Old, lonely women",
+    "choices": [
+      "Educated women",
+      "Beautiful young girls",
+      "Old, lonely women",
+      "Women of middle age who gave birth to twins"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "It was a common conception that the number of people involved in the witchcraft activities could be boundless. For example, in 1609 the witch hunting French official Pierre de Lancre stated that all 30,000 dwellers of the French region Labourd were witches, including  these people.",
+    "correct": "Priests",
+    "choices": ["Physicians", "Young girls", "Priests", "Teachers"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The famous Salem Witch trial started with an incident in January, 1692. A Caribbean-born slave was accused of initiating the witch phenomenon. Twenty more people were killed as no one of them confessed to being a witch. What was the reason that triggered the Salem witch craze?",
+    "correct": "Eight little girls from the town got ill with strange symptoms such as convulsions, incomprehensible speech, and trance-like states",
+    "choices": [
+      "Several babies in the town were born dead",
+      "There were innumerable storms over the town destroyed the crops",
+      "A severe drought made the local river dry up",
+      "Eight little girls from the town got ill with strange symptoms such as convulsions, incomprehensible speech, and trance-like states"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This was a common torture method used in Scotland, which made the accused witch confess her deeds. The method caused hallucinations and made it easy for the inquisitors to extort confessions to flying, turning into animals, meeting the devil and taking part in witches’ Sabbaths.",
+    "correct": "Sleep deprivation",
+    "choices": [
+      "Whipping",
+      "The Iron Maiden",
+      "Sleep deprivation",
+      "Overheating"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Witch hunts still exist today. In 1981 a woman was killed by the mob, throwing stones at her as they believed she was a witch. This was the reason for stoning her to death.",
+    "correct": "Her sorcery incited the attack upon Pope John Paul II",
+    "choices": [
+      "Her sorcery incited the attack upon Pope John Paul II",
+      "Her spells were the reason for the ozone hole",
+      "Her magic killed the child of a neighbour",
+      "Her sorcery caused a tsunami in Mexico"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Old Testament, the prophet Hosea was instructed by God to marry a prostitute.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Psalm 119 is the longest psalm in the Bible. How many verses does it contain?",
+    "correct": "176",
+    "choices": ["176", "150", "200", "138"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Old Testament, Moses was 105 years old when he died.",
+    "correct": "False",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "It is stated in the Old Testament that Jeremiah, Hosea, Jonah, and Job were prophets.",
+    "correct": "False",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to The Old Testament, the prophet Jonah was sent to which city to warn its inhabitants of the coming judgment on them?",
+    "correct": "Ninevah",
+    "choices": ["Ninevah", "Joppa", "Ai", "Tarshish"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The prophet Haggai is mentioned in the book of Ezra.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Book of Genesis, what did G-D  create last, on the sixth day, as almost an afterthought?",
+    "correct": "Adam",
+    "choices": ["Eve", "Adam", "The fishes of the waters", "The birds of prey"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What was the name of Abrahams first wife?",
+    "correct": "Sarah",
+    "choices": ["Sarah", "Haggar", "Haggai", "Ruth"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was Issacs wife according to Genesis?",
+    "correct": "Rebecca",
+    "choices": ["Leah", "Rebecca", "Rachel", "Ruth"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Judaism has three  Patriarchs -Abraham, Issac, and Jacob. Who are the four Matriarchs?",
+    "correct": "Sarah, Rebecca, Leah, Rachel",
+    "choices": [
+      "Sarah, Rebecca, Ruth, Naomi",
+      "Sarah , Rebecca , Rachel, Ruth",
+      "Sarah, Rebecca, Leah, Rachel",
+      "Sarah , Rebecca , Leah, Ruth"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of these is not one of Jacobs twelve sons?",
+    "correct": "Ephraim",
+    "choices": ["Naphtali", "Gad", "Ephraim", "Zebulon"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the name of Jacobs only daughter according to Genesis?",
+    "correct": "Dina",
+    "choices": ["Dina", "Leah", "Laban", "Mileah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The  Book of Genesis contains the first Biblical reference to someone being put into prison. Who was  put into prison?",
+    "correct": "Joseph",
+    "choices": ["Cain", "Potiphar", "Judah", "Joseph"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was the third son of Adam and Eve, sometimes described as the quiet one?",
+    "correct": "Seth",
+    "choices": ["Seth", "Eli", "Abel", "Nahor"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The Hebrew people lived in the first ghetto when they were in Egypt. Where was this place?",
+    "correct": "Goshen",
+    "choices": ["Cannan", "Barnes-Kaddesh", "Nubia", "Goshen"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the genealogy of Jesus, who was the father of Jesse?",
+    "correct": "Obed",
+    "choices": ["David", "Obed", "Boaz", "Samson"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In which of the following lands did Job live when he was first mentioned in the book of Job?",
+    "correct": "Uz",
+    "choices": ["Judea", "Uz", "Galilee", "Nazareth"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who was king of Judaea during the birth of Jesus?",
+    "correct": "King Herod",
+    "choices": ["King David", "King Solomon", "King Herod", "King Darius"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, how old was Joseph when he was put in charge of the whole land of Egypt, as Pharaoh had ordered.",
+    "correct": "30 years old",
+    "choices": ["40 years old", "30 years old", "22 years old", "35 years old"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible after Sarahs death, Abraham married another woman. What was her name?",
+    "correct": "Keturah",
+    "choices": ["Keturah", "Jessica", "Naomi", "Sheba"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "From what tribe of Israel was Samson according to the Bible?",
+    "correct": "Dan",
+    "choices": ["Benjamin", "Gad", "Dan", "Levi"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "This Biblical character is Jacobs father-in-law as well as father of Rachel and Leah.",
+    "correct": "Laban",
+    "choices": ["Laban", "Terah", "Noah", "Aram-balam"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which is the sixth book of the New Testament?",
+    "correct": "Romans",
+    "choices": ["Mark", "Romans", "Galatians", "Luke"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to the Bible, when Naomi told her two daughters-in-law to leave her and go to their homes, which daughter-in-law decided to stay?",
+    "correct": "Ruth",
+    "choices": ["Rebbecca", "Judy", "Beth", "Ruth"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of the following did Jesus call first to be his disciple?",
+    "correct": "Simon",
+    "choices": ["Philip", "James", "Simon", "Judas"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What kind of person may you call Judas?",
+    "correct": "A friend who betrayed you",
+    "choices": [
+      "Someone who follows you",
+      "A thief",
+      "A friend who betrayed you",
+      "A person who committed suicide"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of the following events can be referred to as an Armageddon?",
+    "correct": "The last and completely destructive battle",
+    "choices": [
+      "A battle between former allies",
+      "A death of a charismatic leader",
+      "The last gathering of a group of friends",
+      "The last and completely destructive battle"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which use of Goliath is correct?",
+    "correct": "The local grocery successfully competed against the nearby Goliath supermaket",
+    "choices": [
+      "Switzerland is the Goliath of international politics.",
+      "The FIFA 2006 World Cup final between France and Italy was like David against Goliath.",
+      "The local grocery successfully competed against the nearby Goliath supermaket",
+      "Fiesta is a real Goliath among Fords models."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "How would you describe a Samaritan?",
+    "correct": "A person who helps people in need",
+    "choices": [
+      "A person who helps people in need",
+      "An enemy",
+      "A person who migrates to a foreign country",
+      "An egoist"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who is the salt of the earth?",
+    "correct": "Decent, reliable people",
+    "choices": [
+      "People who spread gossips",
+      "Decent, reliable people",
+      "People who do not keep their word",
+      "All Christians"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who can be best described as doubting Thomas?",
+    "correct": "Someone who believes only what he sees",
+    "choices": [
+      "Someone who believes only what he sees",
+      "Anyone who doesnt believe in God",
+      "A left-wing politician",
+      "A scientist (especially in physics, mathematics, chemistry and biology)"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Which of the following can be described as a prodigal son?",
+    "correct": "A young man who wastes his parents money on parties",
+    "choices": [
+      "The youngest son in the family",
+      "A young man who wastes his parents money on parties",
+      "A son that is very obedient and does dutifully everything his parents tell him",
+      "The firstborn son"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What does the sentence Ann was the apple of Marks eye tell us about the relation between those two?",
+    "correct": "Mark is deeply in love with Ann.",
+    "choices": [
+      "Mark hates Ann.",
+      "Mark is deeply in love with Ann.",
+      "Ann is deeply in love with Mark.",
+      "Ann hates Mark."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What characteristic is commonly attributed to King Solomon?",
+    "correct": "Wisdom",
+    "choices": ["Wealth", "Lust", "Hunger", "Wisdom"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What message am I conveying, if I say I dont know him from Adam?",
+    "correct": "The person is completely unknown to me.",
+    "choices": [
+      "I know very little about the person.",
+      "In spite of the negative form, the idiom means that you know someone very well.",
+      "The person is completely unknown to me.",
+      "I dont know his true character."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What does the phrase of biblical proportions mean?",
+    "correct": "of a vast, enormous scale",
+    "choices": [
+      "of a vast, enormous scale",
+      "of little importance",
+      "related to a flood",
+      "very sinful in its nature"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "If John knows Mary in the biblical sense, what can we say about the pair?",
+    "correct": "They have had sex.",
+    "choices": [
+      "Mary is Johns sister.",
+      "They have had sex.",
+      "Their parents decided about their marriage.",
+      "They are in a Platonic relationship (ie. love, but no sex)."
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What Biblical character said the following?",
+    "correct": "Esther",
+    "choices": ["Esther", "Martha", "Ruth", "Deborah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "The following words belong to this biblical figure:",
+    "correct": "Job",
+    "choices": ["Jesus", "John the Baptist", "Abraham", "Job"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What Biblical hero delivered these words?",
+    "correct": "Samson",
+    "choices": ["Samson", "Solomon", "David", "Samuel"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What Biblical character asked the following question?",
+    "correct": "Jesus",
+    "choices": ["Peter", "Jude", "Jesus", "Paul"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What character from the Bible said the following? Get rid of that slave woman and her son, for that slave womans son will never share in the inheritance with my son Isaac.",
+    "correct": "Sarah",
+    "choices": ["Ruth", "Sarah", "Leah", "Rebeccah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who said the following: It is not the healthy who need a doctor, but the sick. But go and learn what this means: I desire mercy, not sacrifice. For I have not come to call the righteous, but sinners.",
+    "correct": "Jesus",
+    "choices": ["John", "Jesus", "Joseph", "Matthew"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What Biblical figure said this?",
+    "correct": "Issac",
+    "choices": [
+      "am now an old man and dont know the day of my death. Now then, get your weapons-your quiver and bow-and go out to the open country to hunt some wild game for me. Prepare me the kind of tasty food I like and bring it to me to eat, so that I may give you my  blessing before I die.",
+      "Jacob",
+      "Esau",
+      "Adam",
+      "Issac"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Name the Biblical character who delivered these words: Pick me up and throw me into the sea, and it will become calm, I know that is is my fault that this great storm has come upon you.",
+    "correct": "Jonah",
+    "choices": ["Obadiah", "Micah", "Haggai", "Jonah"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What character from the Bible said this?",
+    "correct": "Martha",
+    "choices": ["Queen Vashti", "Martha", "Mary", "Queen Sheba"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Who delivered these words: Suppose I go to the Israelites and say to them, The God of your fathers has sent me to you, and they ask me, ‘What is his name? Then what shall I tell them?",
+    "correct": "Moses",
+    "choices": ["Joseph", "Jonah", "Moses", "Aaron"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the symbol of the dhamma (dharma)?",
+    "correct": "wheel",
+    "choices": ["flag", "wheel", "chair", "flower"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What Buddhist term refers to the cycle of reincarnation or rebirth?",
+    "correct": "Samsara",
+    "choices": ["Dharma", "Samsara", "Naraka", "Asura"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What does the word buddha mean?",
+    "correct": "awake",
+    "choices": ["light", "the only one", "god", "awake"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "What is the path to happiness in Buddhism?",
+    "correct": "middle way",
+    "choices": ["ancient path", "path of freedom", "path of love", "middle way"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to Buddhism what are the3 evil roots/defilements that hide the truth from us?",
+    "correct": "delusion, hatred, greed",
+    "choices": [
+      "hatred, greed, selfishness",
+      "delusion, confusion, anger",
+      "delusion, hatred, jealousy",
+      "delusion, hatred, greed"
+    ]
+  },
+  {
+    "category": "Religion",
+    "sentence": "In Buddhism which of these beings inhabit Hells?",
+    "correct": "Naraka beings",
+    "choices": ["Brahmas", "Preta", "Naraka beings", "Asuras"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to Buddhism, life is or leads to suffering in one way or another.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "It is generally accepted that the last words of the Buddha were: All component things are transient, work out your salvation with diligence.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "Kamma is only one of the 5 natural laws that Buddha spoke about.",
+    "correct": "True",
+    "choices": ["False", "True"]
+  },
+  {
+    "category": "Religion",
+    "sentence": "According to Buddhism there are realms of existences other than human and animal realm.",
+    "correct": "True",
+    "choices": ["True", "False"]
+  }
+]
