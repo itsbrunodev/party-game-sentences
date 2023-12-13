@@ -47,10 +47,7 @@ import * as TriviaWorld from "./json/trivia/world.json" assert { type: "json" };
 
 export interface IWouldYouRather {
   sentence: string;
-  choice: {
-    one: string;
-    two: string;
-  };
+  choices: [string, string];
 }
 
 export const TRIVIA_CATEGORIES = [
@@ -66,6 +63,7 @@ export const TRIVIA_CATEGORIES = [
   "Humanities",
   "Literature",
   "Movies",
+  "Music",
   "People",
   "Religion",
   "Science",
@@ -157,13 +155,10 @@ export function truthOrDare(type: "truth" | "dare"): string {
  * @example wouldYouRather();
  */
 export function wouldYouRather(): IWouldYouRather {
-  const arr: string[] = random(toDefault<string[]>(WouldYouRather).default);
+  const choices: [string, string] = random(toDefault<[string, string]>(WouldYouRather).default);
   return {
-    sentence: `Would you rather ${arr[0]} or ${arr[1]}?`,
-    choice: {
-      one: arr[0],
-      two: arr[1],
-    },
+    sentence: `Would you rather ${choices[0]} or ${choices[1]}?`,
+    choices,
   };
 }
 
@@ -234,13 +229,10 @@ export function getEverySentence(
       if (raw) return res;
       else
         return res.map(
-          (x) =>
+          (choices) =>
             ({
-              sentence: `Would you rather ${x[0]} or ${x[1]}?`,
-              choice: {
-                one: x[0],
-                two: x[1],
-              },
+              sentence: `Would you rather ${choices[0]} or ${choices[1]}?`,
+              choices,
             } as IWouldYouRather)
         );
     }
