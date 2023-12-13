@@ -1,6 +1,6 @@
 ## party-game-sentences
 
-Generate random party game sentences like trivia, would you rather, never have I ever and truth or dare. Every trivia sentence can be found at [uberspot/OpenTriviaQA](https://github.com/uberspot/OpenTriviaQA).
+Generate random party game sentences like trivia, would you rather, never have I ever and truth or dare. Every trivia sentence can be found at <a href="https://github.com/uberspot/OpenTriviaQA" target="_blank">uberspot/OpenTriviaQA</a>.
 
 ### Installation
 
@@ -50,10 +50,7 @@ truthOrDare("truth");
 wouldYouRather();
 /* {
   sentence: 'Would you rather have the ability to fly or be invisible?',
-  choice: {
-    one: 'have the ability to fly',
-    two: 'be invisible'
-  }
+  choices: ['have the ability to fly', 'be invisible']
 } */
 ```
 
