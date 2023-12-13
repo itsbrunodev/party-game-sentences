@@ -1,6 +1,6 @@
 {
   "name": "party-game-sentences",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Trivia, would you rather, never have I ever and truth or dare sentences.",
   "files": [
     "dist/**/*"
