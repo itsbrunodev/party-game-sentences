@@ -123,25 +123,37 @@ function toDefault<T>(file: any) {
   return file as { default: T };
 }
 
-/**
- * Get a random "never have I ever" sentence
- * @example neverHaveIEver();
- */
-export function neverHaveIEver(): string {
-  return `Never have I ever ${random(
-    toDefault<string[]>(NeverHaveIEver).default
-  )}.`;
+function wouldYouRatherConstructor(choices: [string, string]): IWouldYouRather {
+  return {
+    sentence: `Would you rather ${choices[0]} or ${choices[1]}?`,
+    choices,
+  };
+}
+
+function neverHaveIEverConstructor(str: string) {
+  return `Never have I ever ${str}.`;
 }
 
 /**
- * Get a random "truth or dare" sentence
+ * Get a random `never have I ever` sentence
+ * @example neverHaveIEver();
+ */
+export function neverHaveIEver(): string {
+  return neverHaveIEverConstructor(
+    random(toDefault<string[]>(NeverHaveIEver).default)
+  );
+}
+
+/**
+ * Get a random `truth or dare` sentence
  * @param {"truth" | "dare"} type - Truth or dare
  * @example truthOrDare();
  */
 export function truthOrDare(type: "truth" | "dare"): string {
   if (typeof type !== "string")
-    throw new Error("Type option needs to be a string");
-
+    throw new Error('"type" parameter needs to be a string');
+  if (!["truth", "dare"].includes(type))
+    throw new Error('"type" parameter needs to be either "truth" or "dare"');
   const json = toDefault<{
     truth: string[];
     dare: string[];
@@ -151,19 +163,17 @@ export function truthOrDare(type: "truth" | "dare"): string {
 }
 
 /**
- * Get a random "would you rather" sentence
+ * Get a random `would you rather` sentence
  * @example wouldYouRather();
  */
 export function wouldYouRather(): IWouldYouRather {
-  const choices: [string, string] = random(toDefault<[string, string]>(WouldYouRather).default);
-  return {
-    sentence: `Would you rather ${choices[0]} or ${choices[1]}?`,
-    choices,
-  };
+  return wouldYouRatherConstructor(
+    random(toDefault<[string, string]>(WouldYouRather).default)
+  );
 }
 
 /**
- * Get a random "trivia" sentence
+ * Get a random `trivia` sentence
  * @param {TCategory[]} options.categories - Get only the requested type of categories
  * @example trivia({ categories: ["History"] });
  */
@@ -174,6 +184,15 @@ export function trivia(
     categories: [],
   }
 ): ITrivia {
+  if (
+    options.categories.length > 0 &&
+    !options.categories.every((category) =>
+      TRIVIA_CATEGORIES.includes(category)
+    )
+  )
+    throw new Error(
+      '"options.categories" parameter can only consist of elements also found in "TRIVIA_CATEGORIES"'
+    );
   return random(
     options.categories.length === 0
       ? TRIVIA_QUESTIONS
@@ -199,7 +218,7 @@ export function getEverySentence(
 export function getEverySentence(
   partyGame: "would-you-rather",
   raw?: true
-): string[][];
+): IWouldYouRather["choices"][];
 export function getEverySentence(
   partyGame: "would-you-rather",
   raw?: false
@@ -216,7 +235,7 @@ export function getEverySentence(
     case "never-have-i-ever": {
       const res = toDefault<string[]>(NeverHaveIEver).default;
       if (raw) return res;
-      else return res.map((x) => `Never have I ever ${x}.`);
+      else return res.map((x) => neverHaveIEverConstructor(x));
     }
     case "trivia": {
       return TRIVIA_QUESTIONS;
@@ -225,16 +244,10 @@ export function getEverySentence(
       return toDefault<ITruthOrDareRaw>(TruthOrDare).default;
     }
     case "would-you-rather": {
-      const res = toDefault<string[][]>(WouldYouRather).default;
+      const res =
+        toDefault<IWouldYouRather["choices"][]>(WouldYouRather).default;
       if (raw) return res;
-      else
-        return res.map(
-          (choices) =>
-            ({
-              sentence: `Would you rather ${choices[0]} or ${choices[1]}?`,
-              choices,
-            } as IWouldYouRather)
-        );
+      else return res.map((choices) => wouldYouRatherConstructor(choices));
     }
     default: {
       throw Error(`Party game "${partyGame}" does not exist`);
