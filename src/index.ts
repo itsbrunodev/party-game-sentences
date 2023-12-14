@@ -135,18 +135,18 @@ function neverHaveIEverConstructor(str: string) {
 }
 
 /**
- * Get a random `never have I ever` sentence
+ * Get one or multiple `Never Have I Ever` sentences
  * @example neverHaveIEver();
  */
-export function neverHaveIEver(): string {
+export function neverHaveIEver(count = 1): string {
   return neverHaveIEverConstructor(
     random(toDefault<string[]>(NeverHaveIEver).default)
   );
 }
 
 /**
- * Get a random `truth or dare` sentence
- * @param {"truth" | "dare"} type - Truth or dare
+ * Get one or multiple `Truth or Dare` sentences
+ * @param {"truth" | "dare"} type - Truth or Dare
  * @example truthOrDare();
  */
 export function truthOrDare(type: "truth" | "dare"): string {
@@ -163,7 +163,7 @@ export function truthOrDare(type: "truth" | "dare"): string {
 }
 
 /**
- * Get a random `would you rather` sentence
+ * Get one or multiple `Would You Rather` sentences
  * @example wouldYouRather();
  */
 export function wouldYouRather(): IWouldYouRather {
@@ -173,7 +173,7 @@ export function wouldYouRather(): IWouldYouRather {
 }
 
 /**
- * Get a random `trivia` sentence
+ * Get one or multiple `Trivia` sentences
  * @param {TCategory[]} options.categories - Get only the requested type of categories
  * @example trivia({ categories: ["History"] });
  */
