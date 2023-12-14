@@ -37,11 +37,14 @@ neverHaveIEver();
 // Never have I ever been skydiving.
 ```
 
-#### Getting a truth sentence (can be "truth" or "dare")
+#### Getting a truth or dare sentence
 
 ```ts
 truthOrDare("truth");
 // Have you ever cheated on a test?
+
+truthOrDare("dare");
+// Eat a spoonful of mustard.
 ```
 
 #### Getting a would you rather sentence
@@ -66,7 +69,9 @@ trivia();
 } */
 ```
 
-#### Getting a trivia sentence in a specific category (can be multiple categories)
+#### Getting a trivia sentence in a specific category or categories
+
+An export named `TRIVIA_CATEGORIES` is available where every category is listed as an array of strings.
 
 ```ts
 trivia({ category: ["General"] });
@@ -77,3 +82,24 @@ trivia({ category: ["General"] });
   "choices": ["Mineral water", "Orange juice", "Coffee", "Beer"]
 } */
 ```
+
+### Utility
+
+#### Trivia categories
+
+An export named `TRIVIA_CATEGORIES` is available where every category is listed as a readonly array of strings.
+
+```ts
+import { TRIVIA_CATEGORIES } from "party-game-sentences";
+// or
+const { TRIVIA_CATEGORIES } = require("party-game-sentences");
+```
+
+#### TypeScript
+
+Although every function uses types and jsdoc for the best experience, there are a couple types exported.
+
+- `TCategory` - a type union consisting of categories found in `TRIVIA_CATEGORIES`
+- `ITrivia` - the object that every Trivia sentence is returned as
+- `IWouldYouRather` - the object that every Would You Rather sentence is returned as
+- `ITruthOrDareRaw` - the raw JSON returned when using `getEverySentence("truth-or-dare", true)`
