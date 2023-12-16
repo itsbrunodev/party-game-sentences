@@ -1,6 +1,18 @@
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 
+const JSON_PATH = join(process.cwd(), "src", "json");
+const NEVER_HAVE_I_EVER_PATH = join(JSON_PATH, "never-have-i-ever.json");
+const TRUTH_OR_DARE_PATH = join(JSON_PATH, "truth-or-dare.json");
+const WOULD_YOU_RATHER_PATH = join(JSON_PATH, "would-you-rather.json");
+
+const NEVER_HAVE_I_EVER = getJson<string[]>(NEVER_HAVE_I_EVER_PATH);
+const TRUTH_OR_DARE = getJson<{
+  truth: string[];
+  dare: string[];
+}>(TRUTH_OR_DARE_PATH);
+const WOULD_YOU_RATHER = getJson<string[][]>(WOULD_YOU_RATHER_PATH);
+
 export interface IWouldYouRather {
   sentence: string;
   choices: [string, string];
@@ -44,18 +56,6 @@ export interface ITruthOrDareRaw {
   truth: string[];
   dare: string[];
 }
-
-const JSON_PATH = join(process.cwd(), "src", "json");
-const NEVER_HAVE_I_EVER_PATH = join(JSON_PATH, "never-have-i-ever.json");
-const TRUTH_OR_DARE_PATH = join(JSON_PATH, "truth-or-dare.json");
-const WOULD_YOU_RATHER_PATH = join(JSON_PATH, "would-you-rather.json");
-
-const NEVER_HAVE_I_EVER = getJson<string[]>(NEVER_HAVE_I_EVER_PATH);
-const TRUTH_OR_DARE = getJson<{
-  truth: string[];
-  dare: string[];
-}>(TRUTH_OR_DARE_PATH);
-const WOULD_YOU_RATHER = getJson<string[][]>(WOULD_YOU_RATHER_PATH);
 
 /**
  * Get a random element from an array
@@ -148,6 +148,8 @@ export function trivia(
       : TRIVIA_QUESTIONS.filter((x) => options.categories.includes(x.category))
   );
 }
+
+console.log(trivia());
 
 /**
  * Get every sentence from a party game
