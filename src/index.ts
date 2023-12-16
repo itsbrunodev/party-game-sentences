@@ -149,8 +149,6 @@ export function trivia(
   );
 }
 
-console.log(trivia());
-
 /**
  * Get every sentence from a party game
  * @param {string} partyGame - The party game type
