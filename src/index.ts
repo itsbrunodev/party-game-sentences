@@ -1,49 +1,5 @@
-/* @ts-ignore */
-import * as NeverHaveIEver from "./json/never-have-i-ever.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TruthOrDare from "./json/truth-or-dare.json" assert { type: "json" };
-/* @ts-ignore */
-import * as WouldYouRather from "./json/would-you-rather.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaAnimal from "./json/trivia/animal.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaBrainTeaser from "./json/trivia/brain-teaser.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaCelebrities from "./json/trivia/celebrities.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaEntertainment from "./json/trivia/entertainment.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaForKids from "./json/trivia/for-kids.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaGeneral from "./json/trivia/general.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaGeography from "./json/trivia/geography.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaHistory from "./json/trivia/history.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaHobbies from "./json/trivia/hobbies.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaHumanities from "./json/trivia/humanities.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaLiterature from "./json/trivia/literature.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaMovies from "./json/trivia/movies.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaMusic from "./json/trivia/music.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaPeople from "./json/trivia/people.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaReligion from "./json/trivia/religion.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaScience from "./json/trivia/science.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaSports from "./json/trivia/sports.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaTelevision from "./json/trivia/television.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaVideoGames from "./json/trivia/video-games.json" assert { type: "json" };
-/* @ts-ignore */
-import * as TriviaWorld from "./json/trivia/world.json" assert { type: "json" };
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
 
 export interface IWouldYouRather {
   sentence: string;
@@ -73,30 +29,7 @@ export const TRIVIA_CATEGORIES = [
   "World",
 ] as const;
 
-const triviaQuestions = [
-  TriviaAnimal,
-  TriviaBrainTeaser,
-  TriviaCelebrities,
-  TriviaEntertainment,
-  TriviaForKids,
-  TriviaGeneral,
-  TriviaGeography,
-  TriviaHistory,
-  TriviaHobbies,
-  TriviaHumanities,
-  TriviaLiterature,
-  TriviaMovies,
-  TriviaMusic,
-  TriviaPeople,
-  TriviaReligion,
-  TriviaScience,
-  TriviaSports,
-  TriviaTelevision,
-  TriviaVideoGames,
-  TriviaWorld,
-].map((x) => toDefault<ITrivia[]>(x).default);
-
-const TRIVIA_QUESTIONS: ITrivia[] = [].concat(...triviaQuestions);
+const TRIVIA_QUESTIONS: ITrivia[] = [].concat(...getTriviaJson());
 
 export type TCategory = (typeof TRIVIA_CATEGORIES)[number];
 
@@ -112,6 +45,18 @@ export interface ITruthOrDareRaw {
   dare: string[];
 }
 
+const JSON_PATH = join(process.cwd(), "src", "json");
+const NEVER_HAVE_I_EVER_PATH = join(JSON_PATH, "never-have-i-ever.json");
+const TRUTH_OR_DARE_PATH = join(JSON_PATH, "truth-or-dare.json");
+const WOULD_YOU_RATHER_PATH = join(JSON_PATH, "would-you-rather.json");
+
+const NEVER_HAVE_I_EVER = getJson<string[]>(NEVER_HAVE_I_EVER_PATH);
+const TRUTH_OR_DARE = getJson<{
+  truth: string[];
+  dare: string[];
+}>(TRUTH_OR_DARE_PATH);
+const WOULD_YOU_RATHER = getJson<string[][]>(WOULD_YOU_RATHER_PATH);
+
 /**
  * Get a random element from an array
  */
@@ -119,8 +64,20 @@ function random(arr: any[]) {
   return arr[Math.floor(Math.random() * arr.length)];
 }
 
-function toDefault<T>(file: any) {
-  return file as { default: T };
+function getJson<T>(path: string): T {
+  return JSON.parse(readFileSync(path, "utf-8"));
+}
+
+function getTriviaJson() {
+  return TRIVIA_CATEGORIES.map((category) =>
+    getJson<ITrivia[]>(
+      join(
+        JSON_PATH,
+        "trivia",
+        `${category.replace(/\s+/g, "-").toLowerCase()}.json`
+      )
+    )
+  );
 }
 
 function wouldYouRatherConstructor(choices: [string, string]): IWouldYouRather {
@@ -138,10 +95,8 @@ function neverHaveIEverConstructor(str: string) {
  * Get one or multiple `Never Have I Ever` sentences
  * @example neverHaveIEver();
  */
-export function neverHaveIEver(count = 1): string {
-  return neverHaveIEverConstructor(
-    random(toDefault<string[]>(NeverHaveIEver).default)
-  );
+export function neverHaveIEver(): string {
+  return neverHaveIEverConstructor(random(NEVER_HAVE_I_EVER));
 }
 
 /**
@@ -154,12 +109,8 @@ export function truthOrDare(type: "truth" | "dare"): string {
     throw new Error('"type" parameter needs to be a string');
   if (!["truth", "dare"].includes(type))
     throw new Error('"type" parameter needs to be either "truth" or "dare"');
-  const json = toDefault<{
-    truth: string[];
-    dare: string[];
-  }>(TruthOrDare).default;
-  if (type === "truth") return random(json.truth);
-  else return random(json.dare);
+  if (type === "truth") return random(TRUTH_OR_DARE.truth);
+  else return random(TRUTH_OR_DARE.dare);
 }
 
 /**
@@ -167,9 +118,7 @@ export function truthOrDare(type: "truth" | "dare"): string {
  * @example wouldYouRather();
  */
 export function wouldYouRather(): IWouldYouRather {
-  return wouldYouRatherConstructor(
-    random(toDefault<[string, string]>(WouldYouRather).default)
-  );
+  return wouldYouRatherConstructor(random(WOULD_YOU_RATHER));
 }
 
 /**
@@ -233,19 +182,17 @@ export function getEverySentence(
 ) {
   switch (partyGame) {
     case "never-have-i-ever": {
-      const res = toDefault<string[]>(NeverHaveIEver).default;
-      if (raw) return res;
-      else return res.map((x) => neverHaveIEverConstructor(x));
+      if (raw) return NEVER_HAVE_I_EVER;
+      else return NEVER_HAVE_I_EVER.map((x) => neverHaveIEverConstructor(x));
     }
     case "trivia": {
       return TRIVIA_QUESTIONS;
     }
     case "truth-or-dare": {
-      return toDefault<ITruthOrDareRaw>(TruthOrDare).default;
+      return TRUTH_OR_DARE;
     }
     case "would-you-rather": {
-      const res =
-        toDefault<IWouldYouRather["choices"][]>(WouldYouRather).default;
+      const res = WOULD_YOU_RATHER as IWouldYouRather["choices"][];
       if (raw) return res;
       else return res.map((choices) => wouldYouRatherConstructor(choices));
     }
